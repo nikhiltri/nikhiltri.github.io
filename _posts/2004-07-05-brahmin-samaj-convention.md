@@ -1,0 +1,29 @@
+---
+layout: post
+title: Brahmin Samaj convention
+created: 1089072000
+categories:
+- what i'm listening to right now
+- identity
+---
+This weekend was loooooooong. It was sweet.
+
+Friday I left work a little early and went to the Cubs/Sox game. Saw the first win as they went on to SWEEP the Sox for the home series. Hell yea. Then later that night I was gonna meet up a friend at a bar with my cous, but there ended up being this huge Indian party there. Long ass line to get in for a $20 cover, and she was saying the bar was PACKED and it sucked. Laaaaaame, so we ended up just going to IHOP. Lol.
+
+Saturday and Sunday was the Brahmin Samaj convention. That was pretty cool. These things are weird because the Brahmin Samaj as an organization should be (in my humble opinion) all about talking about and having discourses on Brahminism and Hinduism and religion in general. What God is, and what it means to be a religious person. So at a convention when Brahmins from all over the country come together, do they capitalize on the combined resources a big group like that brings? Do they talk at all about religious issues in our world today? Like religious violence, or issues for people of religious minorities, like hate crimes and how views towards religious minorities have changed since 9/11, both positively and negatively? Nope, primarily its a matrimonial meet-fest. In the city that held the first parliament of world religions, all we can do as a religious organization is worry about marrying off our children. That’s kind of irritating.
+
+But I had that expectation going into it, I knew I wasn’t going to hear uncles talk about their ideas on God, or aunties talking about the socially growing strength of women in Hinduism, or kids talking about their ideas on where God exists and how. I knew I wasn’t going to hear any of that going into this weekend. I knew I was probably going to see a bunch of corny ice-breakers, probably a dating game, and a booze cruise. So knowing that, and putting all my irritations and negative attitude aside, I had a pretty damn fun weekend.
+
+I met a bunch of cool people, and partied a lot. Early Saturday morning they did have ONE uncle who spoke about Brahminism, and he was awesome. But the rest of the time was ‘speed-dating’ and corny shit like that. Saturday night they had a cruise on the lake, so my boy Jay who was in town, my cousin, and the other Nikhil went over to the W, got liquored up a little, then headed to the cruise. and that was fun. Sunday night they had a cultural show, and one of Jay’s auntie friends asked him to do a bhangra for the show like a few hours before it started, and he couldn’t really do it by himself... So him and I got together a little in the parking lot to figure out our moves, but pretty much freestyled the whole thing anyway... Lol. It was cool. We didn’t have any outfits or anything either, so we scrounged through his trunk and luckily he had kurtas and lungis in his car for some reason. Why? Lol, ya got me, but I didn’t ask any questions. It never occurred to me until now. So we put some stuff together, I ended up wearing a shiny blue kurta, the same baggy khaki-type pants I was wearing all day, and my Cubs skull cap. Lol, that was pimp.
+
+People there were DOLLED UP, guys and girls. Some of the girls changed like once before every meal it seemed like, some dudes were wearing suits and ties. And I come rolling up in baggy jeans and skull cap. My mom was giving me shit about what I was wearing all weekend, but dude, that’s who I am. If you don’t like it, at least we’ve established that now before wasting either of our time... Lol. If I were going to a wedding or a funeral, yea, of course I would have dressed up, no doubt. But since this weekend was going be all about just chilling and meeting people, that’s what I came to do. People saw me for who I am everyday. Nothing different. And it seriously weeded out a lot of bullshit for me. I ended up talking to people that were totally down to earth, not superficial, not judgemental, I met a bunch of really cool cats.
+
+So the convention was good over all. Yea, I would have liked to learn more about Brahminism while I was up there, but I’m in the minority in that aspect. Most of the people there are seriously there to meet companions, and I gotta respect that. But either way, I had a pretty good time.
+
+Last night I went to [Green Dolphin](http://www.jazzitup.com/) with my sis and Tina and few friends who were still in town from the convention. That was pretty cool. Green dolphin’s a jazz club normally, but Monday nights they throw a house night there. That place is NIIIIICE, and the music was good. It was a pretty gay/lesbian crowd which I wasn’t expecting, cause I was thinking it would be more of a weekday smartbar vibe. But it was really cool nonetheless. Good music, cool crowd, good vibe. Nice.
+
+What I’m listening to right now:
+
+<blockquote>
+Pink Floyd, Dark Side of the Moon. I met someone this weekend and asked them what was in their CD player right now, and it was this. Hell freakin yea, this is a great album, so I had to pop it in again. Ever play this album after the third lion roar of Wizard of Oz? Neither have I, but I heard it's freakily similar. But is that really that much of a coincidence? The attention span a viewer would have on a particular scene in a movie would probably be comparable to that of a song, and artists knowing this would probably make scenes and songs about the same length of time. So is it really all that eerie that the queues on the album roughly follow queues in the movie? I don’t know, I’d have to try it myself to see what its like. And afterwards I’ll try listening to Ride the Lighting while watching the Care Bears movie. I bet that’s freakily similar too...
+</blockquote>
