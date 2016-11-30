@@ -2,7 +2,7 @@
 layout: post
 title: Are you white?
 created: 1078440720
-categories:
+tags:
 - identity
 ---
 So for the few weekends before fusion, the bhangra competition I played dhol for back in January, I went up to MSU to help Dhru get our props and stage set ready. When we do this, it's more than just a dance... So I got to meet his crew up in East Lansing cause we were hangin out all the time, and they were helping Dhru and i out a little. They were all pretty cool cats. One time we were up at D’s apartment and his friend was on the phone with her little brother who was also going to be playing dhol with the group. So she gave me the phone to say whats up, and a little into the conversation...

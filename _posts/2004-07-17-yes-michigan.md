@@ -2,7 +2,7 @@
 layout: post
 title: Yes, Michigan!
 created: 1090102620
-categories:
+tags:
 - riyaz
 - friends
 ---

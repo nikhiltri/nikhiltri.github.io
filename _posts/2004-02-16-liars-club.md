@@ -2,7 +2,7 @@
 layout: post
 title: Liar's Club?
 created: 1076975160
-categories:
+tags:
 - music
 ---
 So I went to Liar's Club on Friday night. What’s up with that place? The upstairs was really cool, there were maybe like 20 people there, they were playing METAL and stuff. But downstairs was totally not what I was expecting. When we walked in, they were playing ‘Gettin Jiggy With It.’

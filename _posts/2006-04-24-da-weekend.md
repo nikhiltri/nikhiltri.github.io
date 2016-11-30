@@ -2,7 +2,7 @@
 layout: post
 title: Da weekend
 created: 1145912520
-categories:
+tags:
 - friends
 ---
 I went to NYC this weekend. It was sweeeet, we hung out at one of my girlfriend’s friends apartments Friday night, watchin a toooooon of movies, and eating crepes that they made (daaamn, it was goooooood). I saw [Hotel Rwanda](http://www.imdb.com/title/tt0395169/) (which was depressing as hell considering the bullshit that happened there has happened all over the world, and is still just remanifesting itself today in Iraq...), [March of the Penguins](http://www.imdb.com/title/tt0395169/) (which was really good, too. And I thought it got cold in Chicago... Damn.), [Saving Face](http://www.sonyclassics.com/savingface/) (a cute film about an Asian queer couple, and their challenges with their families and communities, it was really good), and [Zoolander](http://www.zoolander.com/) (if I could shut out the fact that there was soooo much wrong with the movie, I’d say it was HYSTERICAL. It was funny, but huuuuuuuuuuuh....). My cous would be proud of me for catching up with the last 5 years of the modern world. Lol.

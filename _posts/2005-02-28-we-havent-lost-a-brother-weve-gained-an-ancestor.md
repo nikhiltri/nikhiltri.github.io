@@ -2,7 +2,7 @@
 layout: post
 title: '"We haven''t lost a brother, we''ve gained an ancestor"'
 created: 1109606880
-categories:
+tags:
 - friends
 ---
 Saturday would have been Meshach’s birthday. At a state representative’s office on the south side, his friends and family organized a celebration of his life that evening, and it was one of the most beautiful scenes I’ve seen in a long time. Friends were sitting in a half-circle in the front of an open room playing various drums—djembes, congos, a dhol, and shakers. One by one people who were sitting in the chairs that were set up audience-style or walking and talking in back went up to a microphone and talked about Meshach. They showed pictures of when he was younger, talked about their fondest memories, and talked about where they wished his soul to go in the afterlife. A tall, lanky, older black man with a sparse, short beard and an old, beige head wrap said what’s been sticking in my head ever since, “we haven’t lost a brother, we’ve gained an ancestor.”

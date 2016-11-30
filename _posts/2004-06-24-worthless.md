@@ -2,7 +2,7 @@
 layout: post
 title: Worthless
 created: 1088121600
-categories:
+tags:
 - what i'm listening to right now
 - movies
 ---
@@ -12,11 +12,11 @@ I can’t wait to be in the city, dudes. One more month. It was supposed to be e
 
 What i’m listening to right now:
 
-<blockquote>
-Dilated Peoples, Neighborhood Watch. I just picked up the album last weekend. The more I listen to it, the more I appreciate it. I’m a little disappointed though. This is their third album. They’re first album was tight, and they second album still freakin rocks. Good beats, good rhymes. But there’s not too much of a difference from this latest album and their last. The beats are still tight, lyrically it could be better. But I wish I saw them try more shit, and change things up on me like they did from their first to their second. Either way, it still a good listen.
-
-James Brown, 20 All-time Greatest Hits. I remember I used to put this CD on at home, plug in my bass, and rock out with every track. Lol, so I’ve been reminiscing as of late. Regardless, this album ROCKS.
-</blockquote>
+> 
+> Dilated Peoples, Neighborhood Watch. I just picked up the album last weekend. The more I listen to it, the more I appreciate it. I’m a little disappointed though. This is their third album. They’re first album was tight, and they second album still freakin rocks. Good beats, good rhymes. But there’s not too much of a difference from this latest album and their last. The beats are still tight, lyrically it could be better. But I wish I saw them try more shit, and change things up on me like they did from their first to their second. Either way, it still a good listen.
+> 
+> James Brown, 20 All-time Greatest Hits. I remember I used to put this CD on at home, plug in my bass, and rock out with every track. Lol, so I’ve been reminiscing as of late. Regardless, this album ROCKS.
+> 
 
 Am I lame cause I like Slipknot’s new song?
 

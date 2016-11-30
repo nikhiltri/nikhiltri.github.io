@@ -2,7 +2,7 @@
 layout: post
 title: del.icio.us
 created: 1145995380
-categories:
+tags:
 - what i'm reading to right now
 - technology
 ---
@@ -12,7 +12,7 @@ If you check out my bookmarks, a bunch of them are boring-to-most-people tech re
 
 What I’m reading right now:
 
-<blockquote>
-[The Catcher in the Rye, by J.D. Salinger](http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/0316769487&tag=nikhiltrivedi-20&camp=1789&creative=9325)--This was written in like 1951, and it was an interesting read. It's about a white boy from a well-off family--his father’s a lawyer doing pretty good for himself--living in Manhattan. The story starts with him getting kicked out of an expensive, private high school, and takes you through the few days between then and the time he goes home to face the reality of his situation. His character is really kind of depressing, he’s really lost, he thinks everyone around him is a bunch of ‘phonies,’ so he never really gets close to anyone, he’s got a lot of anger and hostility towards the world, that he just shuts himself out from ever getting close to anyone. Granted, there are characters in the book that he proly wouldn’t get along with anyway, no one can expect to be friends with EVERYONE they cross paths with. But person after person, relationship after relationship, he just pushes himself away from people cause he thinks he knows better, when ultimately he’s really just scared, alone, and really, really confused about the world.
-</blockquote>
+> 
+> [The Catcher in the Rye, by J.D. Salinger](http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/0316769487&tag=nikhiltrivedi-20&camp=1789&creative=9325)--This was written in like 1951, and it was an interesting read. It's about a white boy from a well-off family--his father’s a lawyer doing pretty good for himself--living in Manhattan. The story starts with him getting kicked out of an expensive, private high school, and takes you through the few days between then and the time he goes home to face the reality of his situation. His character is really kind of depressing, he’s really lost, he thinks everyone around him is a bunch of ‘phonies,’ so he never really gets close to anyone, he’s got a lot of anger and hostility towards the world, that he just shuts himself out from ever getting close to anyone. Granted, there are characters in the book that he proly wouldn’t get along with anyway, no one can expect to be friends with EVERYONE they cross paths with. But person after person, relationship after relationship, he just pushes himself away from people cause he thinks he knows better, when ultimately he’s really just scared, alone, and really, really confused about the world.
+> 
 

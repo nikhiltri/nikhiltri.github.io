@@ -2,7 +2,7 @@
 layout: post
 title: MSU Journal of Medicine and Law cover design
 created: 1083441842
-categories:
+tags:
 - art
 - on paper
 ---

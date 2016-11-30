@@ -2,7 +2,7 @@
 layout: post
 title: Personal Website
 created: 1063673258
-categories:
+tags:
 - websites
 - tech
 ---

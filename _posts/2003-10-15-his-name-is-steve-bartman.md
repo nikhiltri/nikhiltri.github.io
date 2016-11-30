@@ -2,7 +2,7 @@
 layout: post
 title: His name, is Steve Bartman
 created: 1066249200
-categories:
+tags:
 - cubs
 ---
 Dude,

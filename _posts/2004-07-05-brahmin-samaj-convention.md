@@ -2,7 +2,7 @@
 layout: post
 title: Brahmin Samaj convention
 created: 1089072000
-categories:
+tags:
 - what i'm listening to right now
 - identity
 ---
@@ -24,6 +24,6 @@ Last night I went to [Green Dolphin](http://www.jazzitup.com/) with my sis and T
 
 What I’m listening to right now:
 
-<blockquote>
-Pink Floyd, Dark Side of the Moon. I met someone this weekend and asked them what was in their CD player right now, and it was this. Hell freakin yea, this is a great album, so I had to pop it in again. Ever play this album after the third lion roar of Wizard of Oz? Neither have I, but I heard it's freakily similar. But is that really that much of a coincidence? The attention span a viewer would have on a particular scene in a movie would probably be comparable to that of a song, and artists knowing this would probably make scenes and songs about the same length of time. So is it really all that eerie that the queues on the album roughly follow queues in the movie? I don’t know, I’d have to try it myself to see what its like. And afterwards I’ll try listening to Ride the Lighting while watching the Care Bears movie. I bet that’s freakily similar too...
-</blockquote>
+> 
+> Pink Floyd, Dark Side of the Moon. I met someone this weekend and asked them what was in their CD player right now, and it was this. Hell freakin yea, this is a great album, so I had to pop it in again. Ever play this album after the third lion roar of Wizard of Oz? Neither have I, but I heard it's freakily similar. But is that really that much of a coincidence? The attention span a viewer would have on a particular scene in a movie would probably be comparable to that of a song, and artists knowing this would probably make scenes and songs about the same length of time. So is it really all that eerie that the queues on the album roughly follow queues in the movie? I don’t know, I’d have to try it myself to see what its like. And afterwards I’ll try listening to Ride the Lighting while watching the Care Bears movie. I bet that’s freakily similar too...
+> 

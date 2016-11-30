@@ -2,7 +2,7 @@
 layout: post
 title: Cemcho, majama
 created: 1134768660
-categories:
+tags:
 - india trip, 12.05
 ---
 I went to Gujurat last weekend for four days to visit my dad’s brother and mom’s sister. And holy crap, what an overwhelming trip... I spent most of the time at my dad’s brother’s place, Chandrakaka’s a farmer in a small village named Sujnipur. And it’s seriously a freakin VILLAGE. Showers out of buckets, toilets that are holes in the ground. After my dad moved out of his village 35 years ago, he’s NEVER BEEN BACK. He’s been back to India, but not back to his village. So me coming back there was a pretty big deal. I prayed in the temples my father used to pray in, ate on the same floors my father used to eat on. My grandfather, my dad’s father, Chimanlaldada, started the first school in that village, and therefore educated most of the people there that I met. A lot of the older people I met who used to be friends with my dad were educated by my grandfather. The school he started underneath a tree on a hill (literally) was now a full-fledged school building. The big mandir my dad used to pray at used to be a small murti at the top of a hill. Now its a big marble structure with an open sitting area and everything. They’re working on building a gate around the temple right now, too. My cousins were all calling me motabhai, the same nick name my dad used to have when he was living there, cause I was the eldest among my counsins and I.

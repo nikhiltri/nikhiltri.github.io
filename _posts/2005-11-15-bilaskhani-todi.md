@@ -2,7 +2,7 @@
 layout: post
 title: Bilaskhani Todi
 created: 1132086540
-categories:
+tags:
 - indian classical music
 ---
 I’ve been listening to a recording of Bilaskhani Todi by Shujaat Khan that a sitar buddy hooked me up with, and it's such a sad, sad raag. I think i’m slowly falling into a depression just listening to it... Lol, but its sooooo good. I tried looking up online what the notes and details of the raag are, and although online sources are hardly a source of learning compared to formally learning a raag from a teacher, here’s a general idea of what I found:

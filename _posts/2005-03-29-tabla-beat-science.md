@@ -2,7 +2,7 @@
 layout: post
 title: Tabla Beat Science
 created: 1112113260
-categories:
+tags:
 - fusion music
 ---
 [Tabla Beat Science](http://www.tablabeatscience.com/) is coming to the House of Blues Sunday. I’ve never seen them before, but from what I’ve heard from people who checked out their show at the Vic a few years ago, they put on a GREAT show.

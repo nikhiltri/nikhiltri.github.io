@@ -2,7 +2,7 @@
 layout: post
 title: Back in the Chi
 created: 1113845460
-categories:
+tags:
 - riyaz
 ---
 So I’m back in Chi-town from Cali now. Man, last week was such a great trip. Every day I got up at like 8:30-9a. Practiced for a few hours. Then at like 12:30p I’d head over to Khansahib’s house, and he’d have bhelpuri ready for a snack for us. So we’d sit and chill for a little bit, then sit down for a lesson for an hour or two, then I’d be off to do whatever I wanted for the rest of the day. Most of the time, that was going back and practicing so my lesson the next day wasn’t going to be a total waste. But I did make some time to get out. Early in the week I made it out to a park and the ocean to practice a bit out there. The ocean was GORGEOUS out there. The weather was GORGEOUS out there, landscape that you drive through was GORGEOUS out there. Can you tell I’m jealous? :P I was talking to Khansahib about that one day after our lesson, about how I thought the weather was so nice out there. and he was saying that sometimes ‘it's too much. You know, you’ll have like a whole month when you don’t even have a cloud in the sky, it can get to be just too much.’ I was like ‘Khansahib, last year in Chicago, it snowed in May. That really doesn’t sound that bad!!’ Lol. Wednesday and Thursday he had concerts with his group Ghazal, so those nights I just stuck around at his place after our lesson, hung out with him and some of his other students that were going to the show, checked out the show, then went back to his house for a dinner FEAST that his friends had prepared. All in all, it was such a great trip.

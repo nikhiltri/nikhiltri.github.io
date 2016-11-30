@@ -2,7 +2,7 @@
 layout: post
 title: Credit card junk mail
 created: 1143582960
-categories:
+tags:
 - identity theft
 ---
 [This is messed up](http://www.cockeyed.com/citizen/creditcard/application.shtml). This dude got one of those credit card applications in the mail a lot of us gets on a regular basis. Just like me, he usually tears them up and throws them away. But this time, he decided to tear it up, tape it back together, and fill it out to see if he’d still get the credit card in the mail. Guess what, sure enough, he GOT THE CREDIT CARD. Whhhhaaaaaaat.... The credit card company accepted a TORN UP credit card application. That’s some scary shit.

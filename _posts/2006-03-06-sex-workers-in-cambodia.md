@@ -2,7 +2,7 @@
 layout: post
 title: Sex workers in Cambodia
 created: 1141688580
-categories:
+tags:
 - violence
 ---
 I heard a somewhat disturbing report on [sex workers in Cambodia](http://outervoices.org/an-exploration-of-cambodia/) last night on NPR. My partner said she heard similar stories before, but you never really understand the depth of a problem til it's layed out for you. Me anyway...

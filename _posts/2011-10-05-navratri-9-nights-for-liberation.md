@@ -2,7 +2,7 @@
 layout: post
 title: Navratri -- 9 nights for liberation
 created: 1317826918
-categories:
+tags:
 - spirituality
 - navratri
 - family

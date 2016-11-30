@@ -2,7 +2,7 @@
 layout: post
 title: The Key to Happiness
 created: 1065556643
-categories:
+tags:
 - video
 - art
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Patrick Swayze's the man
 created: 1081465080
-categories:
+tags:
 - art
 ---
 Am I TOO anal about my sitar? Could there ever be such a thing as being TOO anal about my sitar? Here’s the deal. I don’t mind other people touching my “stuff”, cause it's all just that, “stuff”. I’m not a very materialistic person, and “stuff” doesn’t really mean anything to me. But lately I’ve been realizing, I’m REALLY ANAL about my sitar. I was at practice the other day for the gig on Sunday (see below), and my sitar was out of its case, off to the side, cause I was playing with it on and off. This girl was clearing space for a few other people to practice, so she picked up my sitar and moved it out of the way. Like I said, generally, I don’t really care when people touch my stuff, I’m not a very stuff-oriented person. But from the second she picked up my sitar to the moment she set it down, my eyes were on her like a laser guided tracter beam.

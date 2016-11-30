@@ -2,7 +2,7 @@
 layout: post
 title: 'Museums and #BlackLivesMatter'
 created: 1418418269
-categories:
+tags:
 - museums
 - oppression
 ---

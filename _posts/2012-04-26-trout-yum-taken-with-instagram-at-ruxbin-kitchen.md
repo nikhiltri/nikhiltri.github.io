@@ -2,6 +2,8 @@
 layout: post
 title: 'Trout. #yum  (Taken with Instagram at Ruxbin Kitchen)'
 created: 1335487366
-categories: []
+tags: []
 ---
-<img src="http://25.media.tumblr.com/tumblr_m344nakVKW1rsr8w3o1_500.jpg"/><br/><br/>
+![](http://25.media.tumblr.com/tumblr_m344nakVKW1rsr8w3o1_500.jpg)
+
+

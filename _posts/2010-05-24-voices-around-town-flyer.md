@@ -2,7 +2,7 @@
 layout: post
 title: Voices Around Town flyer
 created: 1274737308
-categories:
+tags:
 - art
 - on paper
 ---

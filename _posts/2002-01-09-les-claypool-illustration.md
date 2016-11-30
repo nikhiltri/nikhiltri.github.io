@@ -2,7 +2,7 @@
 layout: post
 title: Les Claypool Illustration
 created: 1010640955
-categories:
+tags:
 - art
 - on paper
 ---

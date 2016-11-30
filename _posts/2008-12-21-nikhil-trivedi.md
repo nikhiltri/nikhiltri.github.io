@@ -2,7 +2,7 @@
 layout: post
 title: Nikhil Trivedi
 created: 1229909053
-categories:
+tags:
 - resume
 - resume
 ---

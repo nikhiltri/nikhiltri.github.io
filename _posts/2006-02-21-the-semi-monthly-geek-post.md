@@ -2,7 +2,7 @@
 layout: post
 title: The semi-monthly geek post
 created: 1140561600
-categories:
+tags:
 - technology
 ---
 So I’m at my new job, and it's going well. I’m totally geeking out though on trying to use some of the new tools that have come out over the past few years to make my job EASIER. There’s a bunch of cool stuff out there I can use to generate 80% of the code that I would need to write for this project, so I’ve been trying to get those working and synched up together, so I can start doing the more fun stuff. This is what I’ve been using:

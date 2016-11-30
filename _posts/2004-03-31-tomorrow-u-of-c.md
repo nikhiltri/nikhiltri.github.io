@@ -2,7 +2,7 @@
 layout: post
 title: Tomorrow @ U of C
 created: 1080773700
-categories:
+tags:
 - art
 ---
 Hey Kids,

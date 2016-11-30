@@ -2,7 +2,7 @@
 layout: post
 title: Gameboy music
 created: 1112808240
-categories:
+tags:
 - technology
 - music
 ---

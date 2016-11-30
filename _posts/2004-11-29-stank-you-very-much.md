@@ -2,7 +2,7 @@
 layout: post
 title: Stank you very much
 created: 1101762960
-categories:
+tags:
 - hip hop
 - cooking
 ---

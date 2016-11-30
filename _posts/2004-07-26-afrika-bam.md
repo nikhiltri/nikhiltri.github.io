@@ -2,7 +2,7 @@
 layout: post
 title: Afrika Bam
 created: 1090876800
-categories:
+tags:
 - what i'm listening to right now
 - hip hop
 ---
@@ -12,6 +12,6 @@ The rest of the weekend was... cheap. I’m leaving for Mexico to go to a friend
 
 What I’m listing to right now:
 
-<blockquote>
-<a href="http://www.amazon.com/exec/obidos/ASIN/B000006K7K/nikhiltrivedi-20"><img src="http://images.amazon.com/images/P/B000006K7K.01.MZZZZZZZ.jpg" align="left" title="" alt="" width="130" height="130" /> manilal nag, raag jog</a>: My boy Ajit from Michigan hooked me up with a bunch of good Indian classical CDs when I was up there last weekend, and I’ve been listening to this CD incessantly. His melodic development just sounds so sweet and serene. There’s this part of the song where he’s doing his jhala (the fastest section of an instrumental in which the melody played on the main strings is accompanied by rapid strumming of the drone-strings) where for a few beats he’ll stop hitting his drone strings altogether, play through a few dissident notes, and resolve back starting up the rapid strumming of the drone strings again, and is just sounds SWEEEEEEEEEEEEET. I’ll put a sample up on my site if I can, you gotta hear it. Or just go out and buy the CD.
-</blockquote>
+> 
+> [![](http://images.amazon.com/images/P/B000006K7K.01.MZZZZZZZ.jpg) manilal nag, raag jog](http://www.amazon.com/exec/obidos/ASIN/B000006K7K/nikhiltrivedi-20): My boy Ajit from Michigan hooked me up with a bunch of good Indian classical CDs when I was up there last weekend, and I’ve been listening to this CD incessantly. His melodic development just sounds so sweet and serene. There’s this part of the song where he’s doing his jhala (the fastest section of an instrumental in which the melody played on the main strings is accompanied by rapid strumming of the drone-strings) where for a few beats he’ll stop hitting his drone strings altogether, play through a few dissident notes, and resolve back starting up the rapid strumming of the drone strings again, and is just sounds SWEEEEEEEEEEEEET. I’ll put a sample up on my site if I can, you gotta hear it. Or just go out and buy the CD.
+> 

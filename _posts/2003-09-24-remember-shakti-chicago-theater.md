@@ -2,7 +2,7 @@
 layout: post
 title: Remember Shakti @ Chicago Theater
 created: 1064434380
-categories:
+tags:
 - fusion music
 ---
 I don’t know enough about Shakti to give you the lowdown on how long they’ve been around, or list out their discography. But I do know that they rule. They’re a straight up classical Indian music group with a REALLY slight western twist. They feature John McLaughlin, the fusion guitarist from the 70’s on guitar playing a guitar he created to emulate the resonating sound of the sitar. The rest of the band features very pronounced names in classical Indian music, like Zakir Hussain on tabla and Shankar on violin.

@@ -2,7 +2,7 @@
 layout: post
 title: South Asian Student Association, DePaul University
 created: 989888018
-categories:
+tags:
 - tech
 - websites
 ---

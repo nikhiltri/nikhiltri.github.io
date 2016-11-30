@@ -2,7 +2,7 @@
 layout: post
 title: Bhangra Fusion 3 Stage Set
 created: 1012022827
-categories:
+tags:
 - art
 - on paper
 ---

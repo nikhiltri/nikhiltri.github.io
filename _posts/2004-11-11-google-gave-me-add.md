@@ -2,7 +2,7 @@
 layout: post
 title: Google gave me ADD
 created: 1100207040
-categories:
+tags:
 - technology
 ---
 Seriously, I think over the past few years, I’ve slowly developed Attention Deficit Disorder. And it’s all Google’s fault. Google enables me to be distracted at any given moment I feel the urge to look something up, or have even the slightest inclination I know something, and I’m looking for some verification.Ggoogle allows me to completely stop what I’m doing, open up a new web browser, and search more than [8 billion pages](https://googleblog.blogspot.com/2004/11/googles-index-nearly-doubles.html). But in general, if I can’t get an answer for a question I ask Google within the first 20 search results, of 2-3 different searches, I don’t care anymore. Too much work.

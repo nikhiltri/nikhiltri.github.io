@@ -2,7 +2,7 @@
 layout: post
 title: Nikhil Banerjee
 created: 1129760580
-categories:
+tags:
 - indian classical music
 ---
 Wanna listen to some [Nikhil Banerjee](http://www.musicalnirvana.com/hindustani/nikhil_banerjee.html)? I tripped over this [nice little collection](http://homepage.mac.com/sitar/FileSharing68.html) of some of his work. (You might have to rename the files to add ”.mp3” in order for them to play if you’re using windows…)

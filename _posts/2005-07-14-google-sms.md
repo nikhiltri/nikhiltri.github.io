@@ -2,7 +2,7 @@
 layout: post
 title: Google SMS
 created: 1121360400
-categories:
+tags:
 - technology
 ---
 Okay, [this ROCKS](http://google.com/sms). You can use Google’s search functionality by sending Google a text message from your cell phone, and they’ll text you back search results. HELL YEA. You can look up businesses by zip code, get driving directions, movie show times, dictionary definitions, and just do regular old quick-question type searches, and Google will try to get you back an answer. How awesome is that? I don’t have to dial 411 anymore, EVER AGAIN, plus, once I get the phone number, I’ll have it as a text message so I can save it for later reference. I usually try to record my 411 calls on my cell phone, then listen to them back later and save the phone number, so I don’t have to waste multiple 411 calls on the same number. Not anymore. Google rocks.

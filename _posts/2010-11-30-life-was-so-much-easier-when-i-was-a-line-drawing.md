@@ -2,7 +2,7 @@
 layout: post
 title: Life was so much easier when I was a line drawing
 created: 1291125371
-categories:
+tags:
 - art
 - on paper
 ---

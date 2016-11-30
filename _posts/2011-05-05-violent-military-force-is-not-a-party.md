@@ -2,14 +2,14 @@
 layout: post
 title: Violent, military force is not a party
 created: 1304609843
-categories:
+tags:
 - wtf?
 - violence
 - identity
 ---
 This week President Obama announced that the U.S. military killed Osama bin Laden. As a response, people flocked to the White House and Ground Zero partying to the news, chanting “USA! USA!” I’m frightened and confused at the celebration of violence as a resolution to conflict, and I’m particularly hurt by a sentiment underlying this response: that South and West Asians are valueless and disposable.
 
-<strong>Violence as a resolution of conflict</strong>
+### Violence as a resolution of conflict
 
 I realize this celebration is a response to a tremendous amount of pain that has been felt since 9/11. Bin Laden took responsibility for the unbelievable, horrific events on 9/11, and I am not losing sight of the fact that he should be held accountable. But how does a thoughtful, rational society hold someone accountable for large-scale acts of violence?
 
@@ -19,7 +19,7 @@ I do not accept “success” in “ending terror” being defined by who lives 
 
 Celebration as a response to Bin Laden’s murder shows that we’ll continue to be distracted from real, meaningful solutions to our world’s problems. We’ll continue to be confused about what a better world will look like and how to get there.
 
-<strong>South and West Asians are valueless and disposable</strong>
+### South and West Asians are valueless and disposable
 
 No one’s death should be celebrated. Violence is not an acceptable form of resolution to conflict. I don’t care how violent someone has been against us, retaliatory violence is not an acceptable response. America does follow this line of thinking in some spheres of our country’s foreign policy, why does it not apply in cases of “terrorist camps” in South and West Asia? Because South and West Asians are viewed as a dime a dozen. As disposable. As if it doesn’t matter if we’re on this Earth or not.
 

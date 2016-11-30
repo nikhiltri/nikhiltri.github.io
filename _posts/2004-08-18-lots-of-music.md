@@ -2,7 +2,7 @@
 layout: post
 title: Lots of music
 created: 1092865080
-categories:
+tags:
 - riyaz
 - music
 ---

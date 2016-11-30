@@ -2,7 +2,7 @@
 layout: post
 title: Schneider-baby
 created: 1112203320
-categories:
+tags:
 - friends
 ---
 My buddy Jim and his wife Chi Mei came over for dinner Monday night, WITH THEIR NEW BABY. How can you deny that this is the cutest thing you’ve ever seen?

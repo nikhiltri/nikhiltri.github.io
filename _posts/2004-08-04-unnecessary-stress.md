@@ -2,7 +2,7 @@
 layout: post
 title: Unnecessary stress
 created: 1091658780
-categories:
+tags:
 - what i'm reading to right now
 - friends
 ---
@@ -20,6 +20,6 @@ Anyway, I digress. If you’re still reading this, thanks. If you’re not, stop
 
 What I’m reading right now:
 
-<a href="http://www.amazon.com/exec/obidos/ASIN/0802136885/nikhiltrivedi-20"><img src="http://images.amazon.com/images/P/0802136885.01.MZZZZZZZ.jpg" align="left" title="" alt="" width="92" height="140" /> Last Night a Dj Saved My Life: The History of the Disc Jockey</a>: I needed some reading for the plane to Mexico, so I picked this up along with a few other fine pieces of literature. I’m about a quarter of the way through, and it's really interesting. It starts by making correlations with native cultures and DJ culture, and gets into the advent of radio and how it effected the live musician. It's amazing how similar fears and reactions were to radio and to digital music today. Like, it's almost exactly the same, and the outcome of radio was that musicians finally started using the medium to promote themselves instead of fearing it would take away their jobs as performers. It's now getting into how rock started as a form of rhythm and blues and how it separated to its own more independent form, and it's talking about some of the first DJs and club nights in NY, London, France, and what the culture and the people were like. Who the first DJ was two actually mix two records instead of playing one after another. The first DJ to mess with the sound space to pan sounds from left to right. The first people to starting using weird lighting effects with their music, and what some of them were. Like the dude that used to do lights at the grateful dead’s first gigs used to write stuff on colored gels, project them onto a wall, and pour water on the gel to wash the words away. How pimp is that? So I’m totally diggin the book, it's really freakin cool.
-</blockquote>
+[![](http://images.amazon.com/images/P/0802136885.01.MZZZZZZZ.jpg) Last Night a Dj Saved My Life: The History of the Disc Jockey](http://www.amazon.com/exec/obidos/ASIN/0802136885/nikhiltrivedi-20): I needed some reading for the plane to Mexico, so I picked this up along with a few other fine pieces of literature. I’m about a quarter of the way through, and it's really interesting. It starts by making correlations with native cultures and DJ culture, and gets into the advent of radio and how it effected the live musician. It's amazing how similar fears and reactions were to radio and to digital music today. Like, it's almost exactly the same, and the outcome of radio was that musicians finally started using the medium to promote themselves instead of fearing it would take away their jobs as performers. It's now getting into how rock started as a form of rhythm and blues and how it separated to its own more independent form, and it's talking about some of the first DJs and club nights in NY, London, France, and what the culture and the people were like. Who the first DJ was two actually mix two records instead of playing one after another. The first DJ to mess with the sound space to pan sounds from left to right. The first people to starting using weird lighting effects with their music, and what some of them were. Like the dude that used to do lights at the grateful dead’s first gigs used to write stuff on colored gels, project them onto a wall, and pour water on the gel to wash the words away. How pimp is that? So I’m totally diggin the book, it's really freakin cool.
+
 

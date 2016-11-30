@@ -2,7 +2,7 @@
 layout: post
 title: Approx. 12 hours remaining...
 created: 1070170620
-categories:
+tags:
 - india trip, 12.03
 ---
 Where: Amsterdam Airport, Communication Centre

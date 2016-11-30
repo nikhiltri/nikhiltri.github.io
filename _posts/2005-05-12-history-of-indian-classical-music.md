@@ -2,7 +2,7 @@
 layout: post
 title: History of Indian classical music
 created: 1115916180
-categories:
+tags:
 - indian classical music
 ---
 This in-dept history of Indian classical music has been providing my latest distraction at work. If you’re interested at all in the development of classical music starting from about 3000 years ago, that sites a helluva start.

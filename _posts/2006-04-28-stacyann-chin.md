@@ -2,7 +2,7 @@
 layout: post
 title: Stacyann Chin
 created: 1146254580
-categories:
+tags:
 - poetry
 ---
 I went to a show at the Hot House last night for a [YWCA](http://www.ywca.org/) [Sexual Assault Awareness Month event](http://www.ywca.org/site/pp.asp?c=euLRI7OZH&b=1451967). And OH MY GOD, Stacyann Chin’s set was HOT. The way she lays it all out there, tells it like it is, and cuts through bullshit through her poetry, her voice, and her words is moving, inspiring, and unbelievable.

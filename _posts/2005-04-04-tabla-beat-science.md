@@ -2,7 +2,7 @@
 layout: post
 title: Tabla Beat Science
 created: 1112631780
-categories:
+tags:
 - fusion music
 ---
 Tabla Beat Science performed at the House of Blues yesterday, and in the immortal words of my buddy [Chein](http://www.actuallyrecords.com/), they made me crap my pants.

@@ -2,7 +2,7 @@
 layout: post
 title: Music instrument in Hero?
 created: 1119545820
-categories:
+tags:
 - music
 ---
 So I did some research, and I THINK the musical instrument that’s played by the elder man in that scene in the movie Hero is called a [guqin](http://en.wikipedia.org/wiki/Guqin). It's a Chinese instrument that dates back some 3000, and from what I can gather, it does have a developed, highly refined classical form. I’d be interested in learning more about the style, and checking out a concert. I’ll keep my eyes peeled and post info up on here if I find anything.

@@ -2,7 +2,7 @@
 layout: post
 title: Breaking Barriers program cover
 created: 1303681856
-categories:
+tags:
 - art
 - on paper
 ---

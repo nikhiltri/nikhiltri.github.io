@@ -2,7 +2,7 @@
 layout: post
 title: Kushal Das was AWESOME!
 created: 1064261460
-categories:
+tags:
 - indian classical music
 ---
 Okay, two words. “Holy”, “Crap.” I went to the Kushal Das show yesterday afternoon with Avani, and it was freaking awesome. Kushal Uncle (no relation, just a term of endearment) was WAILING on the sitar. It was very humbling to see such an amazing performance. You realize even though you may have come so far in your own musical talents, you have yet so far to go.

@@ -2,6 +2,8 @@
 layout: post
 title: Clouds (Taken with Instagram at Foret de Fontainebleau)
 created: 1348075190
-categories: []
+tags: []
 ---
-<img src="http://25.media.tumblr.com/tumblr_malxh2h4US1rsr8w3o1_500.jpg"/><br/><br/>
+![](http://25.media.tumblr.com/tumblr_malxh2h4US1rsr8w3o1_500.jpg)
+
+

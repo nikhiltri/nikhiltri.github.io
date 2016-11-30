@@ -2,7 +2,7 @@
 layout: post
 title: Rasaka Theatre Company
 created: 1224114226
-categories:
+tags:
 - websites
 - tech
 ---

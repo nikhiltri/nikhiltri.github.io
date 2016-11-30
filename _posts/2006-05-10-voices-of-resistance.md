@@ -2,7 +2,7 @@
 layout: post
 title: Voices of Resistance
 created: 1147298760
-categories:
+tags:
 - art
 ---
 Check out pictures from my performance on Friday.

@@ -2,7 +2,7 @@
 layout: post
 title: Dang-nabbit
 created: 1117558140
-categories:
+tags:
 - technology
 ---
 I had a greeeeat freakin weekend. I spent like the whole weekend with this amazing girl that I’ve been hanging out with the past few weeks, eating, chilling, dancing. It was awesome. But she’s moving away somewhat permanently this week, unless I can convince her that Chicago is more important than education and family. But the odds of that are pretty slim. Worthless...

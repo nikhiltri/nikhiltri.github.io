@@ -2,7 +2,7 @@
 layout: post
 title: Black, White or Whatever
 created: 1224025388
-categories:
+tags:
 - asian american
 - poetry
 ---

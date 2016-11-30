@@ -2,7 +2,7 @@
 layout: post
 title: Damn, go Red Sox
 created: 1098312960
-categories:
+tags:
 - sports
 ---
 Since Sunday I’ve been watch the American League penant race games. It’s been addicting, dudes. The yankees were up 3 games to nothing, and the Red Sox after last night, just won the past three games to tie the series up. NUTS. Sunday and Monday’s games went into 12 and 14 innings, respectively. And last nights game finished in 9 innings, but was still pretty intense. Since the Cubs aren’t in the race this year, the only team that would make me care about the series is if the Red Sox got in. I don’t really give a shit about the Yankees, Astros, or Cards. Tonight’s game 7, so we’ll see.

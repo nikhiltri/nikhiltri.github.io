@@ -2,7 +2,7 @@
 layout: post
 title: The Grassroots Collaborative
 created: 1263789023
-categories:
+tags:
 - websites
 - tech
 ---

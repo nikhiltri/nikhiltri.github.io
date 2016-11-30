@@ -2,7 +2,7 @@
 layout: post
 title: TOTALLY in Delhi
 created: 1133998260
-categories:
+tags:
 - india trip, 12.05
 ---
 So I’m TOTALLY in India, leaving this post from an internet cafe. The internet’s not so bad here, although the folks running the place don’t know much about the computer’s they’re supporting. That gets a little frustrating.

@@ -2,7 +2,7 @@
 layout: post
 title: Google Maps hacks
 created: 1117126080
-categories:
+tags:
 - technology
 ---
 I hope to God that you’ve used [Google Maps](http://maps.google.com/) already. I’ve mentioned Google Maps on this thing before, and every time I use it, another tear falls from my eye. You can zoom in, zoom out, click and drag the map over, and do all this same stuff with a vector drawing of the map you’re looking at, or a SATELITTE PHOTO of the map you’re looking at. I’m about to cry just thinking about it.

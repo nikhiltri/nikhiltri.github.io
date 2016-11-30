@@ -2,7 +2,7 @@
 layout: post
 title: Back to da diary-uh
 created: 1074030120
-categories:
+tags:
 - friends
 ---
 Hey kids,

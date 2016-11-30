@@ -2,7 +2,7 @@
 layout: post
 title: lunar eclipse this weekend
 created: 1068237000
-categories:
+tags:
 - space, the final frontier
 ---
 Saturday night there will be a full lunar eclipse, which is pretty sweet. I’ll be at a friend’s place Saturday night, so maybe I’ll go check that out. It’s considered a ‘full’ lunar eclipse too, because the moon is passing through the earth’s inner shadow from from the sun, which is more significant than the moon passing through the earth’s outer shadow, because that’s not very noticeable by the naked eye. 

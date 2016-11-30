@@ -2,7 +2,7 @@
 layout: post
 title: Say no to plastic
 created: 1131398880
-categories:
+tags:
 - india trip, 12.03
 ---
 In The Masrayana, the main character is trying to undo the incorrect issuance of a death certificate in his name. One way he’s tries to undo this is by getting arrested for committing a crime, and having a police report filled out in his name, so that his name could be on an official record and the government would have to prove that he’s actually alive. To do this, he steals fruit from a fruit seller to try and get himself arrested.

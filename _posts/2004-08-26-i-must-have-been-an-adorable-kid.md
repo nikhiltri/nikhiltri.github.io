@@ -2,7 +2,7 @@
 layout: post
 title: I must have been an adorable kid
 created: 1093560060
-categories:
+tags:
 - family
 ---
 I was chillin with the moms while we were eating last night. She had made ladoos—specifically, graham-flour-sugar-balls-of-splendor. I was asking her how she made them so i could give I a shot sometime, and she got into all these stories about me when I was a kid. She was saying ladoos used to be my favorite sweets. She used to make them whenever we were having people over, and keep them in a dhaba (stainless steel tin) in a cabinet under our stove. One time, she walked in on me sitting on the kitchen floor with the dhaba open in front of me, and me just chowing through the sweets. She was surprised that I knew exactly where the ladoos were and that I just went ahead and helped myself. Lol, I was like 4 (NO this didn’t happen just last week).

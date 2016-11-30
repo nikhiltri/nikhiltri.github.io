@@ -2,7 +2,7 @@
 layout: post
 title: This dude's funny
 created: 1076625840
-categories:
+tags:
 - friends
 ---
 Check out this website:
