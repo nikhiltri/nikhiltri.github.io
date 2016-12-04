@@ -86,7 +86,7 @@ class CleanupAfterImport
           indentWith = '    '
         end
         if indentIt
-          line = indentWith + line
+          line = indentWith + line.strip + "\n"
         end
         if line.include? "</blockquote>"
           line = line.gsub(/<\/blockquote>/, "")
@@ -107,7 +107,10 @@ class CleanupAfterImport
       # TODO Ignore non-post pages
       text = text
                .gsub(/http:\/\/[w\.]*nikhiltrivedi.com\/[conten\/]*([a-z\-]+)/) { |m| file = Dir.glob("_posts/*" + ($1 == 'memory-aparna-sharma' ? 'aparna-sharma' : $1) + ".md"); file.first.gsub(/_posts/, "").gsub(/([0-9]+)\-([0-9]+)\-([0-9]+)\-/, "\\1/\\2/\\3/").gsub(/\.md/, "") }
-      
+
+      # Clean up numbered lists
+      text = text.gsub(/^> ([0-9]+)\)/, "> \\1.")
+
       # Write changes to the file
       File.open(File.join(posts, item), "w") {|file| file.puts text }
     end

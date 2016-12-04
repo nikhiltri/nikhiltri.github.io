@@ -1,0 +1,217 @@
+---
+layout: default
+---
+
+<!-- Page Title
+     ============================================= -->
+<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/me.jpg'); background-size: cover; background-position: top center;" data-stellar-background-ratio="0.4">
+
+  <div class="container clearfix">
+    <h1>Museums. Technology. Social Justice.</h1>
+    <span>Hello! I'm a Web Developer at a museum in Chicago, but you likely know me by the activism work that I do in museum and tech communities.</span>
+  </div>
+
+</section><!-- #page-title end -->
+
+<!-- Site Content
+     ============================================= -->
+<section id="content">
+
+  <div class="content-wrap">
+
+    <div class="container clearfix">
+
+      <!-- Content starts here -->
+
+      <!-- Bio -->
+      <div class="row clearfix">
+
+	<div class="col-lg-5">
+	  <p class="lead">nikhil trivedi is an application developer and activist. He works at a museum in Chicago, he's a volunteer eduactor for Rape Victim Advocates, and he participates in movements to end oppression. He's a regular contributor at The Incluseum, he is co-creator of visitorsofcolor.tumblr.com, and his writing has been featured in Model View Culture and Fwd: Museums. After hours, he enjoys playing his guitar, sitar, composing noise, hiking, making herbal medicines, and drinking warm glasses of chai on cold winter nights in Chicago.</p>
+	</div>
+
+	<div class="col-lg-7">
+
+	  <div style="position: relative; margin-bottom: -60px; height: 426px;" class="ohidden embed-responsive" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/WicEkXGqv8Q" frameborder="0" allowfullscreen data-animate="fadeInUp" data-delay="100" class="fadeInUp animated"></iframe>
+	  </div>
+
+	</div>
+
+      </div>
+      
+      <!-- Projects -->
+      <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+      <div id="section-pricing" class="heading-block title-center page-section">
+	<h2>Recent Projects</h2>
+      </div>
+      
+      {% for project in site.projects limit:4 %}
+      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+      {% capture image %}
+      <div class="col_half topmargin nobottommargin">	
+	<div style="position: relative; height: 442px;" data-height-lg="535" data-height-md="442" data-height-sm="338" data-height-xs="316" data-height-xxs="201">
+	  <img data-animate="fadeIn{% cycle 'Right', 'Left' %}" src="{{ project.image }}" alt="{{ project.alt}}" style="position: absolute; top: 0; left: 0;" class="fadeIn{% cycle 'Right', 'Left' %} animated">
+	</div>
+      </div>
+      {% endcapture %}
+
+      {% if thecycle == 'odd' %}
+        {{ image }}
+      {% endif %}
+      
+      <div class="col_half topmargin nobottommargin col_last">
+
+	<div class="heading-block title-center">
+	  <h3>{{ project.title }}</h3>
+	  <span>{{ project.dates }}</span>
+	</div>
+
+	{{ project.content }}
+	
+	<a href="{{ project.link }}" class="btn btn-danger btn-block btn-lg bgcolor border-color">Check it out on {{ project.host }}</a>
+
+	<div class="divider divider-short"><i class="icon-circle"></i></div>
+
+      </div>
+
+      {% if thecycle == 'even' %}
+        {{ image }}
+      {% endif %}
+
+      <div class="clear"></div>
+      {% endfor %}
+
+      <!-- Awards -->
+      <div class="section">
+	<div class="container clearfix">
+	  
+	  <div class="row topmargin-sm">
+
+	    <div class="heading-block center">
+	      <h2>Awards and Honors</h2>
+	    </div>
+
+	    {% for award in site.awards limit:4 %}
+	    <div class="col-md-3 col-sm-6 bottommargin">
+
+	      <div class="team">
+		<div class="team-image">
+		  <img src="{{ award.image }}" alt="{{ award.alt }}">
+		</div>
+		<div class="team-desc team-desc-bg">
+		  <div class="team-title"><h4>{{ award.title }}</h4><span>{{ award.dates }}</span></div>
+
+		  {% if award.link %}
+		  <p><a href="{{ award.link }}" class="btn btn-danger btn-sm bgcolor border-color">Read more</a></p>
+		  {% endif %}
+		</div>
+	      </div>
+	      
+	    </div>
+	    {% endfor %}
+
+	  </div>
+	</div>
+      </div>
+
+      <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+      <div id="section-pricing" class="heading-block title-center page-section">
+	<h2>Instagram</h2>
+      </div>
+
+      <div id="portfolio" class="portfolio portfolio-nomargin grid-container portfolio-notitle portfolio-full grid-container clearfix center">
+	<div id="instafeed"></div>
+      </div>
+
+      <div class="clear"></div>
+      <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+
+      <div id="section-pricing" class="heading-block title-center nobottomborder page-section">
+	<h2>Recent Blog Articles</h2>
+      </div>
+      
+      {% for post in site.posts limit:10 %}
+      <div class="col_full topmargin nobottommargin col_last">
+
+	<div class="panel panel-default">
+	  <div class="panel-heading">
+	    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+	  </div>
+	  <div class="panel-body">
+	    <span><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></span>
+	  </div>
+	</div>
+
+      </div>
+      {% endfor %}
+
+      
+      <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+
+      <!-- Contact Form
+	   ============================================= -->
+      <div class="col_half">
+
+	<div class="fancy-title title-dotted-border">
+	  <h3>Drop me a note</h3>
+	</div>
+
+	<div class="contact-widget">
+
+	  <div class="contact-form-result"></div>
+
+	  <form class="nobottommargin" id="template-contactform" name="template-contactform" action="https://formspree.io/me@nikhiltrivedi.com" method="post" novalidate="novalidate">
+
+	    <div class="form-process"></div>
+
+	    <div class="col_half">
+	      <label for="name">Name</label>
+	      <input type="text" id="template-contactform-name" name="name" value="" class="sm-form-control">
+	    </div>
+
+	    <div class="col_half col_last">
+	      <label for="email">Email</label>
+	      <input type="email" id="template-contactform-email" name="email" value="" class="email sm-form-control">
+	    </div>
+
+	    <div class="clear"></div>
+
+	    <div class="col_full">
+	      <label for="_subject">Subject <small>*</small></label>
+	      <input type="text" id="template-contactform-subject" name="_subject" value="" class="required sm-form-control" aria-required="true">
+	    </div>
+
+	    <div class="clear"></div>
+
+	    <div class="col_full">
+	      <label for="message">Message</label>
+	      <textarea class="sm-form-control" id="template-contactform-message" name="message" rows="6" cols="30"></textarea>
+	    </div>
+
+	    <div class="col_full hidden">
+	      <input type="text" id="template-contactform-botcheck" name="_gotcha" value="" class="sm-form-control">
+	    </div>
+
+	    <div class="col_full">
+	      <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" value="submit">Send Message</button>
+	    </div>
+	    
+	  </form>
+
+	</div>
+
+      </div>
+
+      <div class="col_half col_last">
+
+	<section id="google-map" class="gmap" style="height: 410px; position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; background-color: rgb(229, 227, 223);"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95056.18708062022!2d-87.75897551708798!3d41.8819771412537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2c3cd0f4cbed%3A0xafe0a6ad09c0c000!2sChicago%2C+IL!5e0!3m2!1sen!2sus!4v1480744526112" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div></section>
+
+
+      </div>
+      
+    </div>
+
+  </div>
+
+</section>

@@ -69,23 +69,23 @@ This [media query](http://www.alistapart.com/articles/responsive-web-design/) li
 
 Each CSS declaration uses the body class defined in the HTML markup:
 
-        
-    body.mobile * 
+    
+    body.mobile *
     {
-      float: none;
+    float: none;
     }
     
-    body.mobile #navbar 
+    body.mobile #navbar
     {
-      display: none;
+    display: none;
     }
     
-    body.mobile .thumb 
+    body.mobile .thumb
     {
-      float: left;
-      padding: 0;
-      height: 100%;
-      width: 23.33%;
+    float: left;
+    padding: 0;
+    height: 100%;
+    width: 23.33%;
     }
         
 
@@ -96,34 +96,34 @@ So that’s one static CSS file that gets loaded on every page, and gets aggrega
 ### Toggle between desktop and mobile
 At the bottom of each page we include some markup for the user to toggle between the desktop and mobile site:
 
-        
+    
     <p id="toggle-mobile-off">
-     [ <a href="#" class="toggle-mobile">View Full Site</a> ]
+    [ <a href="#" class="toggle-mobile">View Full Site</a> ]
     </p>
     
     <p id="toggle-mobile-on">
-     [ <a href="#" class="toggle-mobile">View Mobile Site</a> ]
+    [ <a href="#" class="toggle-mobile">View Mobile Site</a> ]
     </p>
         
 
 In our Drupal theme CSS, we hide these elements using both `visibility` and `hidden`. This prevents Javascript `show()` methods from being able to display these elements on desktop sites:
 
-        
+    
     #toggle-mobile-on,
-    #toggle-mobile-off 
+    #toggle-mobile-off
     {
-      visibility: hidden;
-      display: none;
+    visibility: hidden;
+    display: none;
     }
         
 
 In our `mobile.css`, we change the visibility option to allow Javascript `show()` methods on our mobile site to actually work. This is the one declaration we don’t include the `body.mobile ` prefix, because we want this to be the case soley based on device width:
 
-        
+    
     #toggle-mobile-on,
-    #toggle-mobile-off 
+    #toggle-mobile-off
     {
-      visibility: visible;
+    visibility: visible;
     }
         
 
@@ -137,77 +137,77 @@ First we pull the cookie that we set for the user preference:
 
 By default, this cookie doesn’t exists and won’t for most users. But in case it does, we’ll check if it’s set to a preference for the desktop site. If it is, we remove the `mobile` body class and add a `non-mobile` placeholder, and display the ‘View mobile site’ link:
 
-        
+    
     if (mobcookie == 'moboff') {
-      $('body').removeClass("mobile");
-      $('body').addClass("not-mobile");
-      $('#toggle-mobile-on').show();
+    $('body').removeClass("mobile");
+    $('body').addClass("not-mobile");
+    $('#toggle-mobile-on').show();
     }
         
 
 Otherwise, leave the defaults and show the ‘View desktop site’ link:
 
-        
+    
     else {
-      $('#toggle-mobile-off').show();
+    $('#toggle-mobile-off').show();
     }
         
 
 Now let’s add a listener for the toggle links. If either of them are clicked, we can run the same code and just toggle each element, since we’ve already set up a good baseline for whether each is shown. We call the `preventDefault()` method to stop the `<a>`link for being followed:
 
-        
+    
     $(".toggle-mobile").click(function (e) {
-      e.preventDefault();
-      $('body').toggleClass("mobile");
-      $('body').toggleClass("not-mobile");
-      $('#toggle-mobile-on').toggle();
-      $('#toggle-mobile-off').toggle();
+    e.preventDefault();
+    $('body').toggleClass("mobile");
+    $('body').toggleClass("not-mobile");
+    $('#toggle-mobile-on').toggle();
+    $('#toggle-mobile-off').toggle();
         
 
 Now we set the cookie. By setting it here, we’re only setting it if the user diverges from the default mobile site. 
 
-        
-      if ($('body').is('.mobile')) {
-        $.cookie('mobcookie', 'mobon', {path: '/aic/collections/'});
-      } else {
-        $.cookie('mobcookie', 'moboff', {path: '/aic/collections/'});
-      }
+    
+    if ($('body').is('.mobile')) {
+    $.cookie('mobcookie', 'mobon', {path: '/aic/collections/'});
+    } else {
+    $.cookie('mobcookie', 'moboff', {path: '/aic/collections/'});
+    }
         
 
 And then scroll the user to the top of the page after they toggle.
 
-        
-      $('html, body').animate({ scrollTop: 0 }, 0);
+    
+    $('html, body').animate({ scrollTop: 0 }, 0);
     });
         
 
 Here’s what all that code looks like together:
 
-        
+    
     $(document).ready(function() {
     var mobcookie = $.cookie('mobcookie');
-      if (mobcookie == 'moboff') {
-        $('body').removeClass("mobile");
-        $('body').addClass("not-mobile");
-        $('#toggle-mobile-on').show();
-      }
-      else {
-        $('#toggle-mobile-off').show();
-      }
+    if (mobcookie == 'moboff') {
+    $('body').removeClass("mobile");
+    $('body').addClass("not-mobile");
+    $('#toggle-mobile-on').show();
+    }
+    else {
+    $('#toggle-mobile-off').show();
+    }
     
-      $(".toggle-mobile").click(function (e) {
-        e.preventDefault();
-        $('body').toggleClass("mobile");
-        $('body').toggleClass("not-mobile");
-        $('#toggle-mobile-on').toggle();
-        $('#toggle-mobile-off').toggle();
-        if ($('body').is('.mobile')) {
-            $.cookie('mobcookie', 'mobon', {path: '/aic/collections/'});
-        } else {
-          $.cookie('mobcookie', 'moboff', {path: '/aic/collections/'});
-        }
-        $('html, body').animate({ scrollTop: 0 }, 0);
-      });
+    $(".toggle-mobile").click(function (e) {
+    e.preventDefault();
+    $('body').toggleClass("mobile");
+    $('body').toggleClass("not-mobile");
+    $('#toggle-mobile-on').toggle();
+    $('#toggle-mobile-off').toggle();
+    if ($('body').is('.mobile')) {
+    $.cookie('mobcookie', 'mobon', {path: '/aic/collections/'});
+    } else {
+    $.cookie('mobcookie', 'moboff', {path: '/aic/collections/'});
+    }
+    $('html, body').animate({ scrollTop: 0 }, 0);
+    });
     });
         
 

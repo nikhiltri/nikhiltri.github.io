@@ -1,0 +1,49 @@
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="author" content="nikhil trivedi" />
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <script type="text/javascript" src="{{site.baseurl}}/js/instafeed.min.js"></script>
+  
+  <!-- Stylesheets
+       ============================================= -->
+  <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/style.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/swiper.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/dark.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/font-icons.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/magnific-popup.css" type="text/css" />
+
+  <link rel="stylesheet" href="{{site.baseurl}}/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/css/custom.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+
+  <!-- Document Title
+       ============================================= -->
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  
+  <script type="text/javascript">
+    var feed = new Instafeed({
+      get: 'user',
+      userId: '23816546',
+      clientId: '52f76460ca3d45f0aa5e6247631aae41',
+      accessToken: '23816546.52f7646.765f13a392a547ba828e23362e7b685c',
+      resolution: 'low_resolution',
+      limit: 9
+    });
+    feed.run();
+  </script>
+
+</head>

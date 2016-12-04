@@ -10,5 +10,5 @@ I was looking for a map of New Delhi, so of course I consulted my latest buddy G
 
 What I’m listening to right now:
 > 
->     [Pearl Jam, Ten](http://www.amazon.com/exec/obidos/redirect?path=ASIN/B0000027RL&link_code=as2&camp=1789&tag=nikhiltrivedi-20&creative=9325)—Ahhhh, reminiscing from my high school days, when I had hair down to my lower back, and the only thing that mattered was chillin with friends at Denny’s til 2 in the morning, or sitting on my friends’ driveways and hanging out on summer nights. Ahhh, if life were only that simple again. Worthless.
+> [Pearl Jam, Ten](http://www.amazon.com/exec/obidos/redirect?path=ASIN/B0000027RL&link_code=as2&camp=1789&tag=nikhiltrivedi-20&creative=9325)—Ahhhh, reminiscing from my high school days, when I had hair down to my lower back, and the only thing that mattered was chillin with friends at Denny’s til 2 in the morning, or sitting on my friends’ driveways and hanging out on summer nights. Ahhh, if life were only that simple again. Worthless.
 > 

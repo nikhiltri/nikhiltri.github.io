@@ -14,11 +14,11 @@ Databases are really good at storing fielded values, but the ways in which they 
 
 The way that I've worked with this concept recently has been with noSQL-style RDF triples. Each entity has a collection of relationships described in the following way:
 
-        Thing | relates to | thing    
+    Thing | relates to | thing    
 
 So for example:
 
-        The Old Guitarist | was created by | Pablo Picasso    
+    The Old Guitarist | was created by | Pablo Picasso    
 
 A linked open "database" will consist of a series of these triples describing how various pieces of data are connected to each other ([for](http://dbpedia.org/page/The_Old_Guitarist) [example](http://data.nytimes.com/N855344257183137093)).
 
@@ -27,14 +27,14 @@ LOD requires that _data sets be shared and mapped to one another to benefit from
 
 If we take the triple format we described above, the example record might look like this:
 
-        http://data.museum.org/assets/The_Old_Guitarist | http://data.museum.org/relations/Created_by | http://data.museum.org/assets/Pablo_Picasso    
+    http://data.museum.org/assets/The_Old_Guitarist | http://data.museum.org/relations/Created_by | http://data.museum.org/assets/Pablo_Picasso    
 
 Those URIs will resolve to RDF documents describing those things and how they're related to other things, allowing viewers to traverse our collection in many directions to many levels. 
 
 ### Namespaces
 RDF provides shorthand for long URIs, so we can define reusable prefixes, or namespaces, to make our triples more readable. 
 
-        @PREFIX musasset http://data.museum.org/assets
+    @PREFIX musasset http://data.museum.org/assets
     @PREFIX musrelation http://data.museum.org/relations
     
     musasset:The_Old_Guitarist | musrelation:Created_by | musasset:Pablo_Picasso    
@@ -42,11 +42,11 @@ RDF provides shorthand for long URIs, so we can define reusable prefixes, or nam
 ### Connecting our collections
 “Linked” data means our repositories are not silos but are mapped to one another. Instead of reinventing the wheel, I can create a whole ton of data about artworks, creators and places at my museum connected with an already vetted data set, say [DBpedia](http://wiki.dbpedia.org/Ontology). In this case, my example would now look something like this:
 
-        musasset:The_Old_Guitarist | dbpedia:Created_by | dbpedia:Pablo_Picasso    
+    musasset:The_Old_Guitarist | dbpedia:Created_by | dbpedia:Pablo_Picasso    
 
 With my data connected with existing sets, I could merge my data with other museums and search and browse our combined sets in tandem. For example, I can find works other museums have that were created by Picasso along with ours. I can also link my data to another museum's data in meaningful ways:
 
-        musasset:The_Old_Guitarist | dbpedia:Created_with | othermus:A_specific_blue_oil_paint    
+    musasset:The_Old_Guitarist | dbpedia:Created_with | othermus:A_specific_blue_oil_paint    
 
 In practice, however, connecting disparate data sets with each other in this flexible way can get tricky. 
 

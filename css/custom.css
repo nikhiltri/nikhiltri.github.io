@@ -1,0 +1,21 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+#page-title.page-title-parallax span,
+#page-title.page-title-parallax h1 {
+    width: 40%;
+}
+
+@media (max-width: 767px) {
+    #page-title.page-title-parallax span {
+	font-size: 22px;
+	width: 100%;
+    }
+}
+			  
+.team .team-desc .btn { margin-top: 20px; }
+
+#instafeed { width: 100%; }

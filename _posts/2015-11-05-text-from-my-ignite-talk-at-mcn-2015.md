@@ -18,11 +18,11 @@ Check out my slides on [SlideShare](http://www.slideshare.net/nikhiltrivedi12/to
 > 
 > ![](/images/Slide02.jpg)
 > 
-> I live two lives. At the Art Institute of Chicago for 10 years I’ve been surrounded by technical innovators, genius developers, smart designers, and a collection of some of the greatest documented creative achievements. 
+> I live two lives. At the Art Institute of Chicago for 10 years I’ve been surrounded by technical innovators, genius developers, smart designers, and a collection of some of the greatest documented creative achievements.
 > 
 > ![](/images/Slide03.jpg)
 > 
-> Outside of work, I’m surrounded by innovators of a different sort—grassroots community organizers, queer activists, radical philanthropists, prison abolitionists, rape victim advocates, healers and artists, all who look at the world through an anti-oppression lens. 
+> Outside of work, I’m surrounded by innovators of a different sort—grassroots community organizers, queer activists, radical philanthropists, prison abolitionists, rape victim advocates, healers and artists, all who look at the world through an anti-oppression lens.
 > 
 > ![](/images/Slide04.jpg)
 > 
@@ -42,11 +42,11 @@ Check out my slides on [SlideShare](http://www.slideshare.net/nikhiltrivedi12/to
 > 
 > ![](/images/Slide08.jpg)
 > 
-> But first let’s talk about what an anti-oppression framework is. It’s a tool that came out of second-wave feminism to challenge the ways people are treated and targeted with violence based on our identities—things like race, gender, ability and so on. 
+> But first let’s talk about what an anti-oppression framework is. It’s a tool that came out of second-wave feminism to challenge the ways people are treated and targeted with violence based on our identities—things like race, gender, ability and so on.
 > 
 > ![](/images/Slide09.jpg)
 > 
-> This framework examines and addresses everything from our own assumptions to institutional policies. It believes everybody is hurt by oppression, including those in positions of privilege. And it recognizes multiple oppressions operating at the same time, all the time. 
+> This framework examines and addresses everything from our own assumptions to institutional policies. It believes everybody is hurt by oppression, including those in positions of privilege. And it recognizes multiple oppressions operating at the same time, all the time.
 > 
 > ![](/images/Slide10.jpg)
 > 
@@ -78,15 +78,15 @@ Check out my slides on [SlideShare](http://www.slideshare.net/nikhiltrivedi12/to
 > 
 > ![](/images/Slide17.jpg)
 > 
-> This is complicated work that requires time, effort and commitment. We have to be vulnerable enough to hear how we oppress others in spite of our intentions. It’s a lot to ask, so don’t do this alone. Find allies here and at your institutions. 
+> This is complicated work that requires time, effort and commitment. We have to be vulnerable enough to hear how we oppress others in spite of our intentions. It’s a lot to ask, so don’t do this alone. Find allies here and at your institutions.
 > 
 > ![](/images/Slide18.jpg)
 > 
-> I leave you with two calls to action: First, this week let’s think about how we can use our current projects to create anti-oppressive spaces for our visitors. I’m here and I’m available to support you in thinking this through, so please come find me. 
+> I leave you with two calls to action: First, this week let’s think about how we can use our current projects to create anti-oppressive spaces for our visitors. I’m here and I’m available to support you in thinking this through, so please come find me.
 > 
 > ![](/images/Slide19.jpg)
 > 
-> Then, after MCN commit to a regular conversation with one other person about how your institution has benefitted from slavery, genocide, colonialism and war. And start with one question: who were the black people who have been lost in your histories? 
+> Then, after MCN commit to a regular conversation with one other person about how your institution has benefitted from slavery, genocide, colonialism and war. And start with one question: who were the black people who have been lost in your histories?
 > 
 > ![](/images/Slide20.jpg)
 > 

@@ -13,7 +13,7 @@ Although we'd like to assume most companies implement some form of security in h
 > "For now, however, users of VoIP products and services that do not fall under the Telecommunications Act will be required to make their own enquiries as to the privacy standards and practices of their VoIP service providers if they wish to be assured of the protection of their personal information and the confidentiality of their communications."
 > from [iLaw](http://www.ilaw.com.au/public/voiparticle.html) based in Australia
 > 
-> "The good news is that VoIP threats are still a largely theoretical issue. So far, few enterprise VoIP networks have experienced anything close to a serious hacker attack. But complacency shouldn't lull enterprise VoIP adopters into a false sense of security." 
+> "The good news is that VoIP threats are still a largely theoretical issue. So far, few enterprise VoIP networks have experienced anything close to a serious hacker attack. But complacency shouldn't lull enterprise VoIP adopters into a false sense of security."
 > from [voipnews](http://it.toolbox.com/blogs/voip-news/a-guide-to-understanding-the-voip-security-threat-51982)
 > 
 
