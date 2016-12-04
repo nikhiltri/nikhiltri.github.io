@@ -1,4 +1,4 @@
-<header id="header" class="{% if page.layout == 'home' %}transparent-header dark {% endif %}full-header" data-sticky-class="not-dark">
+<header id="header" class="{% if page.layout == 'home' %}transparent-header dark {% endif %} full-header" data-sticky-class="not-dark">
 
   <div id="header-wrap">
 
@@ -18,7 +18,7 @@
       <nav id="primary-menu" class="dark">
 
 	<ul>
-	  <li{% if page.url == "/" %} class="current"{% endif %}><a href="{{ "/" | relative_url}}"><div>Home</div></a></li>
+	  <li{% if page.layout == "home" %} class="current"{% endif %}><a href="{{ "/" | relative_url}}"><div>Home</div></a></li>
 	  <li{% if page.url == "/projects/" %} class="current"{% endif %}><a href="{{ "/projects" | relative_url}}"><div>Projects</div></a></li>
 	</ul>
       </nav><!-- #primary-menu end -->
