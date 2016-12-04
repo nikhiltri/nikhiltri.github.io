@@ -46,42 +46,15 @@ layout: default
 	<h2>Recent Projects</h2>
       </div>
       
-      {% for project in site.projects limit:4 %}
-      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-      {% capture image %}
-      <div class="col_half topmargin nobottommargin">	
-	<div style="position: relative; height: 442px;" data-height-lg="535" data-height-md="442" data-height-sm="338" data-height-xs="316" data-height-xxs="201">
-	  <img data-animate="fadeIn{% cycle 'Right', 'Left' %}" src="{{ project.image }}" alt="{{ project.alt}}" style="position: absolute; top: 0; left: 0;" class="fadeIn{% cycle 'Right', 'Left' %} animated">
-	</div>
-      </div>
-      {% endcapture %}
-
-      {% if thecycle == 'odd' %}
-        {{ image }}
-      {% endif %}
-      
-      <div class="col_half topmargin nobottommargin col_last">
-
-	<div class="heading-block title-center">
-	  <h3>{{ project.title }}</h3>
-	  <span>{{ project.dates }}</span>
-	</div>
-
-	{{ project.content }}
-	
-	<a href="{{ project.link }}" class="btn btn-danger btn-block btn-lg bgcolor border-color">Check it out on {{ project.host }}</a>
-
-	<div class="divider divider-short"><i class="icon-circle"></i></div>
-
-      </div>
-
-      {% if thecycle == 'even' %}
-        {{ image }}
-      {% endif %}
-
-      <div class="clear"></div>
+      {% assign projects = site.projects | sort: 'date' | reverse %}
+      {% for project in projects limit:4 %}
+        {% include project.html %}
       {% endfor %}
 
+      <div class="divcenter center clearfix" style="max-width: 900px;">
+	<a href="{{ "/projects" | relative_url}}" class="button button-3d button-dark button-large ">See more projects</a>
+      </div>
+      
       <!-- Awards -->
       <div class="section">
 	<div class="container clearfix">
@@ -92,7 +65,8 @@ layout: default
 	      <h2>Awards and Honors</h2>
 	    </div>
 
-	    {% for award in site.awards limit:4 %}
+	    {% assign awards = site.awards | sort: 'date' | reverse %}
+	    {% for award in awards limit:4 %}
 	    <div class="col-md-3 col-sm-6 bottommargin">
 
 	      <div class="team">

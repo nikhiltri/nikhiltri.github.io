@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<section id="page-title">
+
+  <div class="container clearfix">
+    <h1>Projects</h1>
+    <span>Highlights of some of the interesting work I've done on over the years.</span>
+  </div>
+  
+</section>
+
+<section id="content">
+
+  <div class="content-wrap">
+
+    <div class="container clearfix">
+      
+      {% for project in site.projects reversed %}
+        {% include project.html %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

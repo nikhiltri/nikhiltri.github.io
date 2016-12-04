@@ -1,4 +1,4 @@
-<header id="header" class="transparent-header dark full-header" data-sticky-class="not-dark">
+<header id="header" class="{% if page.layout == 'home' %}transparent-header dark {% endif %}full-header" data-sticky-class="not-dark">
 
   <div id="header-wrap">
 
@@ -9,8 +9,8 @@
       <!-- Logo
 	   ============================================= -->
       <div id="logo">
-	<a href="{{ "/" | relative_url}}" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Canvas Logo"></a>
-	<a href="{{ "/" | relative_url}}" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
+	<a href="{{ "/" | relative_url}}" class="standard-logo" data-dark-logo="/images/logo-dark.png"><img src="/images/logo.png" alt="nikhil trivedi logo"></a>
+	<a href="{{ "/" | relative_url}}" class="retina-logo" data-dark-logo="/images/logo-dark@2x.png"><img src="/images/logo@2x.png" alt="nikhil trivedi logo"></a>
       </div><!-- #logo end -->
 
       <!-- Primary Navigation
@@ -18,7 +18,8 @@
       <nav id="primary-menu" class="dark">
 
 	<ul>
-	  <li class="current"><a href="{{ "/" | relative_url}}"><div>Home</div></a></li>
+	  <li{% if page.url == "/" %} class="current"{% endif %}><a href="{{ "/" | relative_url}}"><div>Home</div></a></li>
+	  <li{% if page.url == "/projects/" %} class="current"{% endif %}><a href="{{ "/projects" | relative_url}}"><div>Projects</div></a></li>
 	</ul>
       </nav><!-- #primary-menu end -->
 

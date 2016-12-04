@@ -1,0 +1,39 @@
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+{% capture image %}
+<div class="col_half topmargin nobottommargin {{ thecycle }} {% cycle '', 'col_last' %}">	
+  <div style="position: relative; height: 442px;" data-height-lg="535" data-height-md="442" data-height-sm="338" data-height-xs="316" data-height-xxs="201">
+    {% if project.asset %}
+      {{ project.asset }}
+    {% else %}
+      <img data-animate="fadeIn{% cycle 'Right', 'Left' %}" src="{{ project.image }}" alt="{{ project.alt}}" style="position: absolute; top: 0; left: 0;" class="fadeIn{% cycle 'Right', 'Left' %} animated">
+    {% endif %}
+  </div>
+</div>
+{% endcapture %}
+
+{% if thecycle == 'odd' %}
+  {{ image }}
+{% endif %}
+      
+<div class="col_half topmargin nobottommargin {{ thecycle }} {% cycle  'col_last', '' %}">
+
+  <div class="heading-block title-center">
+    <h3>{{ project.title }}</h3>
+    <span>{{ project.dates }}</span>
+  </div>
+
+  {{ project.content }}
+	
+  {% if project.link %}
+    <a href="{{ project.link }}" class="btn btn-danger btn-block btn-lg bgcolor border-color">Check it out{% if project.host %} on {{ project.host }}{% endif %}</a>
+  {% endif %}
+
+    <div class="divider divider-short"><i class="icon-circle"></i></div>
+
+</div>
+
+{% if thecycle == 'even' %}
+  {{ image }}
+{% endif %}
+
+<div class="clear"></div>
