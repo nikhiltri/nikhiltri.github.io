@@ -7,7 +7,7 @@ tags:
 - museums
 - mcn2015
 ---
-Last night I gave an Ignite talk at MCN 2015 in Minneapolis about museums and oppression. An Ignite talk is a 5 minute presentation with 20 slides that advance automatically every 15 seconds. I fit a lot in there, so I thought it might be useful for folks at the conference to refer back to what I said. Below is a video, my slides, and the text from my talk, entitled Towards and Anti-Oppression Museum Manifesto:
+Last night I gave an Ignite talk at MCN 2015 in Minneapolis about museums and oppression. An Ignite talk is a 5 minute presentation with 20 slides that advance automatically every 15 seconds. I fit a lot in there, so I thought it might be useful for folks at the conference to refer back to what I said. Below is a video, my slides, and the text from my talk, entitled Towards an Anti-Oppression Museum Manifesto:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WicEkXGqv8Q" frameborder="0" allowfullscreen></iframe>
 
