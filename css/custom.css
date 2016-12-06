@@ -19,3 +19,31 @@
 .team .team-desc .btn { margin-top: 20px; }
 
 #instafeed { width: 100%; }
+
+/* Lay header over sidebar */
+#header {
+    z-index: 199;
+}
+
+/* Reduce width of sidebar */
+
+@media (min-width: 992px) {
+    .side-header #header {
+	width: 160px;
+    }
+    .side-header #header-wrap {
+	width: 200px;
+    }
+    .side-header #header .container {
+	width: 160px !important;
+	padding: 60px 30px 0 30px !important;
+    }
+    .content-with-side-header {
+	margin: 0 0 0 160px !important;
+	width: auto !important;
+    }
+    .content-with-side-header .container {
+	padding-left: 30px;
+    }
+}
+

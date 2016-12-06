@@ -1,6 +1,4 @@
-{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-{% capture image %}
-<div class="col_half topmargin nobottommargin {{ thecycle }} {% cycle '', 'col_last' %}">	
+<div class="col_half topmargin nobottommargin col_last" style="float:right; clear:right;">
   <div style="position: relative; height: 442px;" data-height-lg="535" data-height-md="442" data-height-sm="338" data-height-xs="316" data-height-xxs="201">
     {% if project.asset %}
       {{ project.asset }}
@@ -9,13 +7,8 @@
     {% endif %}
   </div>
 </div>
-{% endcapture %}
-
-{% if thecycle == 'odd' %}
-  {{ image }}
-{% endif %}
       
-<div class="col_half topmargin nobottommargin {{ thecycle }} {% cycle  'col_last', '' %}">
+<div class="col_half topmargin nobottommargin" style="float:left; clear:left;">
 
   <div class="heading-block title-center">
     <h3>{{ project.title }}</h3>
@@ -31,9 +24,5 @@
     <div class="divider divider-short"><i class="icon-circle"></i></div>
 
 </div>
-
-{% if thecycle == 'even' %}
-  {{ image }}
-{% endif %}
 
 <div class="clear"></div>

@@ -1,18 +1,42 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<section id="page-title">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+  <div class="container clearfix">
+    <h1>Blog</h1>
+    <span>Personal musings</span>
   </div>
+  
+</section>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
-</article>
+<section id="content">
+
+  <div class="content-wrap">
+
+    <div id="posts" class="container clearfix">
+      
+      <article class="post entry clearfix" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="post-header">
+	  <div class="entry-title">
+	    <h2>{{ page.title }}</h2>
+	  </div>
+	  <ul class="entry-meta clearfix">
+	    <li><i class="icon-calendar3"></i> <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></li>
+	    <li><i class="icon-folder-open"></i>
+	      {% for tag in page.tags %}
+	      <a href="#">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+	      {% endfor %}
+	    </li>
+	  </ul>
+	</header>
+
+	<div class="entry-content post-content" itemprop="articleBody">
+	  {{ content }}
+	</div>
+      </article>
+
+    </div>
+  </div>
+</section>
+

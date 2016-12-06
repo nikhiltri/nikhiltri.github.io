@@ -30,6 +30,73 @@
 	 ============================================= -->
     <script type="text/javascript" src="/js/functions.js"></script>
 
+    <script type="text/javascript">
+      $( document ).ready(function() {
+        $('a[href*="#"]:not([href="#"])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html, body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+
+        {% if page.url == "/blog/" %}
+        /* Highlight nav links as they scroll */
+        var aChildren = $(".side-header nav li").children(); // find the a children of the list items
+        var aArray = []; // create the empty aArray
+        for (var i=0; i < aChildren.length; i++) {    
+          var aChild = aChildren[i];
+          var ahref = $(aChild).attr('href');
+          aArray.push(ahref);
+        } // this for loop fills the aArray with attribute href values
+
+        $(window).scroll(function(){
+          var windowPos = $(window).scrollTop(); // get the offset of the window from the top of page
+          var windowHeight = $(window).height(); // get the height of the window
+          var docHeight = $(document).height();
+
+          for (var i=0; i < aArray.length; i++) {
+            var theID = aArray[i];
+            var divPos = $(theID).offset().top; // get the offset of the div from the top of page
+            var nextDivPos = (i == aArray.length-1 ? docHeight : $(aArray[i+1]).offset().top);
+			    if (windowPos >= divPos && windowPos < (nextDivPos )) {
+						   $("a[href='" + theID + "']").parent().addClass("current");
+            } else {
+                $("a[href='" + theID + "']").parent().removeClass("current");
+            }
+          }
+
+          if(windowPos + windowHeight == docHeight) {
+            if (!$("nav li:last-child a").hasClass("current")) {
+              var navActiveCurrent = $(".current").attr("href");
+              $("a[href='" + navActiveCurrent + "']").removeClass("current");
+              $("nav li:last-child a").addClass("current");
+            }
+          }
+	});
+	{% endif %}
+      });
+    </script>
+
+    {% if page.layout == "home" %}
+    <script type="text/javascript">
+    var feed = new Instafeed({
+      get: 'user',
+      userId: '23816546',
+      clientId: '52f76460ca3d45f0aa5e6247631aae41',
+      accessToken: '23816546.52f7646.765f13a392a547ba828e23362e7b685c',
+      resolution: 'low_resolution',
+      limit: 9
+    });
+    feed.run();
+    </script>
+    {% endif %}
+
   </body>
 
 </html>

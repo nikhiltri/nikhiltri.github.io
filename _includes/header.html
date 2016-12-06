@@ -20,6 +20,7 @@
 	<ul>
 	  <li{% if page.layout == "home" %} class="current"{% endif %}><a href="{{ "/" | relative_url}}"><div>Home</div></a></li>
 	  <li{% if page.url == "/projects/" %} class="current"{% endif %}><a href="{{ "/projects" | relative_url}}"><div>Projects</div></a></li>
+	  <li{% if page.url == "/blog/" or page.layout == "post"%} class="current"{% endif %}><a href="{{ "/blog" | relative_url}}"><div>Blog</div></a></li>
 	</ul>
       </nav><!-- #primary-menu end -->
 
