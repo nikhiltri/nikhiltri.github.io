@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Liar's Club?
-created: 1076975160
 tags:
 - music
 ---

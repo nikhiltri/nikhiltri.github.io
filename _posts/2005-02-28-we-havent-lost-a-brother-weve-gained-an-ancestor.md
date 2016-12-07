@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '"We haven''t lost a brother, we''ve gained an ancestor"'
-created: 1109606880
 tags:
 - friends
 ---

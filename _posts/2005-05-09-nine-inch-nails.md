@@ -1,7 +1,6 @@
 ---
 layout: post
 title: nine inch nails
-created: 1115656860
 tags:
 - music
 ---

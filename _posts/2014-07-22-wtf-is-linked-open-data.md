@@ -1,7 +1,6 @@
 ---
 layout: post
 title: WTF is Linked Open Data?
-created: 1406066365
 tags:
 - technology
 ---

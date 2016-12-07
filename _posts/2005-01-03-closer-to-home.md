@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Closer to 'home'
-created: 1104791100
 tags:
 - south asia
 - riyaz

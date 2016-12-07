@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bridge from India to Sri Lanka
-created: 1130282640
 tags:
 - south asia
 ---

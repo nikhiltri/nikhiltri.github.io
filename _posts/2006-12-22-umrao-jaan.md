@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Umrao Jaan
-created: 1166805360
 tags:
 - bollywood
 - asian american

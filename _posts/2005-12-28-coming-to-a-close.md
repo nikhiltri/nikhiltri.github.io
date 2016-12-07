@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Coming to a close
-created: 1135812660
 tags:
 - india trip, 12.05
 ---

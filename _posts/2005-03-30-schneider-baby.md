@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Schneider-baby
-created: 1112203320
 tags:
 - friends
 ---

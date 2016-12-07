@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Da weekend
-created: 1151443306
 tags:
 - r&b
 - friends

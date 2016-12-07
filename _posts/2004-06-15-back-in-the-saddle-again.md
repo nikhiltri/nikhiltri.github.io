@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Back in the saddle, again
-created: 1087340580
 tags:
 - school
 - riyaz

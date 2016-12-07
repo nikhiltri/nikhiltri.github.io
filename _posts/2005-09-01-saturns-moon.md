@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Saturn's moon
-created: 1125594240
 tags:
 - space, the final frontier
 ---

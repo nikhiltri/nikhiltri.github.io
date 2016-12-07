@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Back in the Chi
-created: 1113845460
 tags:
 - riyaz
 ---

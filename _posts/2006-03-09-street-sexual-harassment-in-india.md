@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Street sexual harassment in India
-created: 1141944240
 tags:
 - violence
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: del.icio.us
-created: 1145995380
 tags:
 - what i'm reading to right now
 - technology

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: An oppression primer for museums
-created: 1439240059
 tags:
 - museums
 - oppression

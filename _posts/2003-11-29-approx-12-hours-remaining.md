@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Approx. 12 hours remaining...
-created: 1070170620
 tags:
 - india trip, 12.03
 ---

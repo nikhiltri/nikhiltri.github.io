@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It's really over
-created: 1137529980
 tags:
 - india trip, 12.05
 ---

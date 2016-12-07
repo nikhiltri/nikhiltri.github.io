@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Protest the war. On Facebook
-created: 1264921798
 tags:
 - technology
 ---

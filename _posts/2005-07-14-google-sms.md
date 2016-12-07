@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google SMS
-created: 1121360400
 tags:
 - technology
 ---

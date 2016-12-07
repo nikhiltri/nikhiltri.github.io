@@ -1,7 +1,6 @@
 ---
 layout: post
 title: You can make shak, too!
-created: 1111767600
 tags:
 - cooking
 ---

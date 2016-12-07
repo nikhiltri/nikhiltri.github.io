@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Going to a farm
-created: 1157749156
 tags:
 - technology
 - sports

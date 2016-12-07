@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Surprise video
-created: 1159565987
 tags:
 - friends
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Content Management Systems
-created: 1149887820
 tags:
 - technology
 ---

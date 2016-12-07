@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Performance Announcement -- I Still Live Here
-created: 1284997588
 tags:
 - violence
 - performance

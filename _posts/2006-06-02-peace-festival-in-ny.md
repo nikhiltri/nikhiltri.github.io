@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Peace festival in NY
-created: 1149275520
 tags:
 - art
 ---

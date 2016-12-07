@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Time Traveler's Wife
-created: 1180630119
 tags:
 - what i'm reading to right now
 ---

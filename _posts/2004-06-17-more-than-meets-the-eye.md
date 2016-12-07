@@ -1,7 +1,6 @@
 ---
 layout: post
 title: More than meets the eye
-created: 1087509840
 tags:
 - music
 ---

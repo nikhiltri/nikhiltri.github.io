@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Karsh (muthaf***in) Kale
-created: 1078872780
 tags:
 - fusion music
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Michigan and responses
-created: 1156882212
 tags:
 - friends
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: thanks chris
-created: 1097535300
 tags:
 - what i'm listening to right now
 - identity

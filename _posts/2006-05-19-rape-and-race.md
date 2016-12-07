@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rape and race
-created: 1148076420
 tags:
 - violence
 ---

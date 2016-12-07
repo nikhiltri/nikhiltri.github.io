@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dhrupad vs. Khayal
-created: 1116261960
 tags:
 - indian classical music
 ---

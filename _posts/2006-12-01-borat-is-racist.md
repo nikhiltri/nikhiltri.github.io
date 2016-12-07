@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Borat is racist
-created: 1165001078
 tags:
 - wtf?
 - movies

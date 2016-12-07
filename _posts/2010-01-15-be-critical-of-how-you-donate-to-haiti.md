@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Be critical of how you donate to Haiti
-created: 1263574185
 tags:
 - world
 - haiti

@@ -45,7 +45,7 @@
           }
         });
 
-        {% if page.url == "/blog/" %}
+        {% if page.url == "/blog/" or page.url == "/projects/" %}
         /* Highlight nav links as they scroll */
         var aChildren = $(".side-header nav li").children(); // find the a children of the list items
         var aArray = []; // create the empty aArray

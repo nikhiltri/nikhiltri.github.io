@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Yawp! benefit
-created: 1181165132
 tags:
 - music
 - asian american

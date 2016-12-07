@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Unnecessary stress
-created: 1091658780
 tags:
 - what i'm reading to right now
 - friends

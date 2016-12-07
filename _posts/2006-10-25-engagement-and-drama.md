@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Engagement and drama
-created: 1161815696
 tags:
 - family
 ---

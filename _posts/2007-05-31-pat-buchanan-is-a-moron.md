@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pat Buchanan is a moron
-created: 1180630134
 tags:
 - wtf?
 - asian american

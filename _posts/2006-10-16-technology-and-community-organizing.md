@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Technology and community organizing
-created: 1161041274
 tags:
 - technology
 - asian american

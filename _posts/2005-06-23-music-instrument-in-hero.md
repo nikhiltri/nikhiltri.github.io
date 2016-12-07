@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Music instrument in Hero?
-created: 1119545820
 tags:
 - music
 ---

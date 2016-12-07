@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tabla Beat Science
-created: 1112631780
 tags:
 - fusion music
 ---

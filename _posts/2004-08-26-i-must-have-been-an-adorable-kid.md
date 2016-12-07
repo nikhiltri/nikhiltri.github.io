@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I must have been an adorable kid
-created: 1093560060
 tags:
 - family
 ---

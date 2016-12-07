@@ -1,7 +1,6 @@
 ---
 layout: post
 title: my mom's dilruba
-created: 1131060420
 tags:
 - indian classical music
 - family

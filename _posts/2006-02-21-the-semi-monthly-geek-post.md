@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The semi-monthly geek post
-created: 1140561600
 tags:
 - technology
 ---

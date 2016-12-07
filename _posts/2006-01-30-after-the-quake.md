@@ -1,7 +1,6 @@
 ---
 layout: post
 title: After the quake
-created: 1138664100
 tags:
 - theater
 ---

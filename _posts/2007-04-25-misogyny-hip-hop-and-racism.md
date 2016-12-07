@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Misogyny, hip hop, and racism
-created: 1177540287
 tags:
 - wtf?
 - music

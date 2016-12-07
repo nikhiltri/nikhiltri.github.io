@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Back to da diary-uh
-created: 1074030120
 tags:
 - friends
 ---

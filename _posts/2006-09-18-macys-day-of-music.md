@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Macy's Day of Music
-created: 1158617359
 tags:
 - music
 ---

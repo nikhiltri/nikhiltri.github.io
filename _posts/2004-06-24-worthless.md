@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Worthless
-created: 1088121600
 tags:
 - what i'm listening to right now
 - movies

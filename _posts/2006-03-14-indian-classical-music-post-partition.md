@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Indian classical music, post-partition
-created: 1142379900
 tags:
 - indian classical music
 ---

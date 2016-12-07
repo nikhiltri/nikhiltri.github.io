@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Language as a form of violence
-created: 1140133140
 tags:
 - violence
 ---

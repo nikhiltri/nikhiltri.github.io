@@ -1,7 +1,6 @@
 ---
 layout: post
 title: There's always next year....
-created: 1066447200
 tags:
 - cubs
 ---

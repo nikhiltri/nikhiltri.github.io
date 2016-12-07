@@ -1,7 +1,6 @@
 ---
 layout: post
 title: His name, is Steve Bartman
-created: 1066249200
 tags:
 - cubs
 ---

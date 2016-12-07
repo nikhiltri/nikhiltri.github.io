@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kushal Das was AWESOME!
-created: 1064261460
 tags:
 - indian classical music
 ---

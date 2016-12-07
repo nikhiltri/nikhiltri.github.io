@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jeff Award
-created: 1149635700
 tags:
 - art
 ---

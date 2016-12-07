@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Maps hacks
-created: 1117126080
 tags:
 - technology
 ---

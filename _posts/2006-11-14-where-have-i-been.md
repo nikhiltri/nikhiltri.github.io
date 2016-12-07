@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Where have I been?
-created: 1163566117
 tags: []
 ---
 The past few weeks have been a bit crazy. Two weeks ago, I got [engaged](http://www.nikhilandsheena.com), officially. We had a nice little puja at my parent's house, and my uncle had everyone over to his place for dinner afterwards. So Sheena and her family got to meet all my family friends, and likewise. The puja was really nice, the priest who was officiating it was really good about translating everything he was saying, and the symbolism of what we were all doing for us, so we weren't just going through the motions of the whole thing. And my whole family was together, so that was a blessing. That whole weekend, too, I had a slew of people staying over at my place. That was the first time I had so many people staying at my place! So that was an adventure.

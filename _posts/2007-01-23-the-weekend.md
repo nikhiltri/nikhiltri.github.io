@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The weekend
-created: 1169532253
 tags:
 - friends
 ---

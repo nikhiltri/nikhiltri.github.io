@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Creating a Raiser's Edge API
-created: 1391631964
 tags:
 - raiser's edge
 - drupal

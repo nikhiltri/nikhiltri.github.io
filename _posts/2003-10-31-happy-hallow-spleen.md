@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Happy Hallow-spleen
-created: 1067632020
 tags:
 - music
 ---

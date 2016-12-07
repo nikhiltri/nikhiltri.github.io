@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Voices of Resistance
-created: 1147298760
 tags:
 - art
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Diwali: joy, hope and justice'
-created: 1414024477
 tags: []
 ---
 For some years now, I’ve been wanting to rethink Diwali in a way that celebrates the holiday as an expression of my wishes and hopes for a new year. In a conversation about pujas and Hindu ritual this week, a friend said to me “personally, the best prayers are those that are from the heart.” Her words inspired me to let go of my longing for finding connection in rituals that I don’t understand to create an expression of ritual that is meaningful to me. I still appreciate that many Hindu rituals have been performed for a long time by people all over the world, there’s something powerful about sharing in a common consciousness through shared ritual. But this year, I thought I’d take some of the information and perspectives shared with me over the past several years to think about what a celebration of Diwali would be like that fully resonated with me. 

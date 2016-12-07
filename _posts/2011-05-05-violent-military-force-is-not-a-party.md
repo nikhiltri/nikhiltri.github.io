@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Violent, military force is not a party
-created: 1304609843
 tags:
 - wtf?
 - violence

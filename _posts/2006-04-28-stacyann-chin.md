@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stacyann Chin
-created: 1146254580
 tags:
 - poetry
 ---

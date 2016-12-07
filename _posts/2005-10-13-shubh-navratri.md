@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Shubh Navratri!
-created: 1129224120
 tags:
 - navratri
 ---

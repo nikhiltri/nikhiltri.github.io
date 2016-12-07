@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Style your site for mobile with Drupal 5 and CSS
-created: 1331871809
 tags:
 - technology
 - mobile

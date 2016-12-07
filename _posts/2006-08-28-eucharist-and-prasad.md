@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Eucharist and prasad
-created: 1156802945
 tags:
 - spirituality
 - friends

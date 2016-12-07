@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Communal harmony through music
-created: 1118249460
 tags:
 - indian classical music
 ---

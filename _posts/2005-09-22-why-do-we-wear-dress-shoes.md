@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why do we wear dress shoes?
-created: 1127416560
 tags: []
 ---
 It's pretty much a standard that men have to wear dress shoes in a work environment, right? Why is that? When did that standard get set, by who, and why? I’ve been wondering about that lately, cause recently it's been the case that I ONLY wear dress shoes to work. Even some weddings I’ve gone to recently, I’ve worn a nice pair of sneakers—my bright red pumas... Lol. It looks tight though, and it's way more comfortable to dance in than my dress shoes. With my clothes in general, I made a pact with myself that I’m not going to buy anymore clothes that I would only wear to work—I’m not going to spend more money that I work for merely to appease the corporate standards of my colleagues. Eff that, so I’ve only been buying clothes that I want to wear, and I’ve been discretionary with which of those clothes I’ll wear to work.

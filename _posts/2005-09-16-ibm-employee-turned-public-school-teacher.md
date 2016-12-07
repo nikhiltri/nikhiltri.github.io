@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IBM employee turned public school-teacher
-created: 1126905060
 tags:
 - education
 ---

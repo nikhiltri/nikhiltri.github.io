@@ -1,7 +1,6 @@
 ---
 layout: post
 title: African drumming in high school
-created: 1175551847
 tags:
 - music
 ---

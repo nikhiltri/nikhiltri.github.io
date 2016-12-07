@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hot date idea
-created: 1151083006
 tags:
 - friends
 ---

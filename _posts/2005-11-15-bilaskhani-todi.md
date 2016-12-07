@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bilaskhani Todi
-created: 1132086540
 tags:
 - indian classical music
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Credit card junk mail
-created: 1143582960
 tags:
 - identity theft
 ---

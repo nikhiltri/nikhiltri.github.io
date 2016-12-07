@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Many prayers
-created: 1153348351
 tags:
 - wtf?
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Minority artists
-created: 1142635680
 tags:
 - what i'm reading to right now
 - identity

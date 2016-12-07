@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Chemical attack on mosque in Ohio
-created: 1222811284
 tags:
 - wtf?
 ---

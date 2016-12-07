@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VoIP phones
-created: 1172687500
 tags:
 - technology
 ---

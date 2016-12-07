@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Shubh Guru Purnima
-created: 1152645785
 tags:
 - music
 - spirituality

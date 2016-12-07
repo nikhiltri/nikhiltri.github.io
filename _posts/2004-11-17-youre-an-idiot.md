@@ -1,7 +1,6 @@
 ---
 layout: post
 title: You're an idiot
-created: 1100718780
 tags:
 - radio
 ---

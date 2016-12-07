@@ -1,7 +1,6 @@
 ---
 layout: post
 title: lunar eclipse this weekend
-created: 1068237000
 tags:
 - space, the final frontier
 ---

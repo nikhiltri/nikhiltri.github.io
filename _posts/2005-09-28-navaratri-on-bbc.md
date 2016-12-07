@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Navaratri on BBC
-created: 1127927820
 tags:
 - spirituality
 ---

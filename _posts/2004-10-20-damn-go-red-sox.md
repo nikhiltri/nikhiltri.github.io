@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Damn, go Red Sox
-created: 1098312960
 tags:
 - sports
 ---

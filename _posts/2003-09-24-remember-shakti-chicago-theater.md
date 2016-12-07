@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Remember Shakti @ Chicago Theater
-created: 1064434380
 tags:
 - fusion music
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Text from my Ignite talk at MCN 2015
-created: 1446748246
 tags:
 - oppression
 - museums

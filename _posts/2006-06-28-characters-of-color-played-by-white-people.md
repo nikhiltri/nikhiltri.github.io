@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Characters of color played by white people
-created: 1151516086
 tags:
 - movies
 ---

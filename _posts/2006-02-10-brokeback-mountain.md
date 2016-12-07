@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Brokeback Mountain
-created: 1139593020
 tags:
 - movies
 ---

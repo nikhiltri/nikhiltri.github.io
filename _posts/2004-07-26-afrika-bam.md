@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Afrika Bam
-created: 1090876800
 tags:
 - what i'm listening to right now
 - hip hop

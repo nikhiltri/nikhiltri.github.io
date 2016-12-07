@@ -1,7 +1,6 @@
 ---
 layout: post
 title: URL shortening
-created: 1180997195
 tags:
 - technology
 ---

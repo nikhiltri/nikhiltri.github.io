@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stop sexual violence
-created: 1126040820
 tags:
 - violence
 ---

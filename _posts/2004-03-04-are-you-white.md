@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Are you white?
-created: 1078440720
 tags:
 - identity
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Worthless...
-created: 1077317280
 tags:
 - friends
 ---

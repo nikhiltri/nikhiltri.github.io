@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cemcho, majama
-created: 1134768660
 tags:
 - india trip, 12.05
 ---

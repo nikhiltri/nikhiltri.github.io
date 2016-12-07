@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A whole new year
-created: 1104531840
 tags:
 - south asia
 - friends

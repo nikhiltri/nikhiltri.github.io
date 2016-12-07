@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Say no to plastic
-created: 1131398880
 tags:
 - india trip, 12.03
 ---

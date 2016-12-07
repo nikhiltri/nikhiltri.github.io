@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It's quiet on the northside...
-created: 1130538300
 tags:
 - sports
 ---

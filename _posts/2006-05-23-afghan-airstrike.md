@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Afghan airstrike
-created: 1148425680
 tags:
 - war
 ---

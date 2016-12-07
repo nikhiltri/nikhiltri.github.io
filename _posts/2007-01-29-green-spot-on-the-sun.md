@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Green spot on the sun
-created: 1170124836
 tags:
 - technology
 ---

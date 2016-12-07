@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google gave me ADD
-created: 1100207040
 tags:
 - technology
 ---

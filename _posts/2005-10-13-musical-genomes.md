@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Musical genomes?
-created: 1129234920
 tags:
 - music
 ---

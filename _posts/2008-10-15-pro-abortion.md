@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '"Pro-abortion"?'
-created: 1224128102
 tags:
 - wtf?
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I lost my orange hat
-created: 1161892686
 tags:
 - friends
 ---

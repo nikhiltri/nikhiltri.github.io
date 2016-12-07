@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Ravi Shankar: my complicated connection with a man and his music'
-created: 1355759983
 tags:
 - racism
 - oppression

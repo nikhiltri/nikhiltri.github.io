@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stank you very much
-created: 1101762960
 tags:
 - hip hop
 - cooking

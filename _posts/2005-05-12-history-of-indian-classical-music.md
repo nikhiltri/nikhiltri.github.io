@@ -1,7 +1,6 @@
 ---
 layout: post
 title: History of Indian classical music
-created: 1115916180
 tags:
 - indian classical music
 ---

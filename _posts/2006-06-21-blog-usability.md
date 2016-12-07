@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Blog Usability
-created: 1150938130
 tags:
 - usability
 ---

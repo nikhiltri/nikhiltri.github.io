@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Planet read
-created: 1140648120
 tags:
 - what i'm reading to right now
 ---

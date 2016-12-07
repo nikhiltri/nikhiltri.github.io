@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Where my clothes were made
-created: 1369016827
 tags:
 - oppression
 - maps

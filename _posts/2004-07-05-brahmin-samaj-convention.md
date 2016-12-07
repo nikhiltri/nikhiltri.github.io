@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Brahmin Samaj convention
-created: 1089072000
 tags:
 - what i'm listening to right now
 - identity

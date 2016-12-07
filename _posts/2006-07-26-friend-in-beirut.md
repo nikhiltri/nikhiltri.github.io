@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Friend in Beirut
-created: 1153951421
 tags:
 - wtf?
 ---

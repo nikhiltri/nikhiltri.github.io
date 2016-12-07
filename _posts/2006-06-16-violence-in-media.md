@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Violence in media
-created: 1150500900
 tags:
 - violence
 - technology

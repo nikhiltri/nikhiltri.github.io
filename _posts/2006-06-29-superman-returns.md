@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Superman Returns
-created: 1151619796
 tags:
 - movies
 ---

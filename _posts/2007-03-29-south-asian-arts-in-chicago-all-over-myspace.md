@@ -1,7 +1,6 @@
 ---
 layout: post
 title: South Asian arts in Chicago, all over Myspace!
-created: 1175199731
 tags:
 - technology
 ---

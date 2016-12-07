@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '"This music is not exotic"'
-created: 1180630156
 tags:
 - indian classical music
 - asian american

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why Chicago theater is so white
-created: 1154621099
 tags:
 - wtf?
 - theater

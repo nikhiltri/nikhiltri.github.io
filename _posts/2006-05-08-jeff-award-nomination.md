@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jeff Award nomination
-created: 1147125900
 tags:
 - art
 ---

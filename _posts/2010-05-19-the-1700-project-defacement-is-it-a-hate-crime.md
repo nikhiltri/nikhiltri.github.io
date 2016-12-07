@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'The 1700% Project defacement: Is it a hate crime?'
-created: 1274280662
 tags:
 - wtf?
 - violence

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: buyblue.org
-created: 1152571709
 tags:
 - wtf?
 - friends

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Italian Job SUCKED
-created: 1088457180
 tags:
 - movies
 - friends

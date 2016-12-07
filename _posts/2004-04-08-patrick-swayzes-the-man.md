@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Patrick Swayze's the man
-created: 1081465080
 tags:
 - art
 ---

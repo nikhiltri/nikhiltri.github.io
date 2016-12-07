@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Navratri and ending sexism and male domination '
-created: 1351023994
 tags:
 - spirituality
 - sexism

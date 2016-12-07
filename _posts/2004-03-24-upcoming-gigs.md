@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Upcoming gigs
-created: 1080168840
 tags:
 - art
 ---

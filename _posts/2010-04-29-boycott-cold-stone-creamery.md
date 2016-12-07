@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Boycott Cold Stone Creamery
-created: 1272553153
 tags:
 - wtf?
 ---

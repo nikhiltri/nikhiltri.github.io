@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pics from Peace Fest
-created: 1149714960
 tags:
 - art
 ---

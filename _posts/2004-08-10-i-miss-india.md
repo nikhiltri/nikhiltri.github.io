@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I miss India
-created: 1092173700
 tags:
 - riyaz
 - friends

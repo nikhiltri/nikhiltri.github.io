@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dang-nabbit
-created: 1117558140
 tags:
 - technology
 ---

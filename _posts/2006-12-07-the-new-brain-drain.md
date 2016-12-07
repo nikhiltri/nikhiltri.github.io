@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The new brain drain
-created: 1165515739
 tags:
 - asian american
 ---

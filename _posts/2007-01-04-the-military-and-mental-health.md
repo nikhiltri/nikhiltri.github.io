@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The military and mental health
-created: 1167945306
 tags:
 - wtf?
 ---

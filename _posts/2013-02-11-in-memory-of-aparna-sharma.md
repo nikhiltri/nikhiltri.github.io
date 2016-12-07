@@ -1,7 +1,6 @@
 ---
 layout: post
 title: In memory of Aparna Sharma
-created: 1360594889
 tags: []
 ---
 Aparna Sharma, a friend and leader in the South Asian artist activist community, passed away on February 9th after a hard fight against cancer. I'm shocked and deeply saddened by this loss. 

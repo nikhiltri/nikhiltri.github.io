@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Where'd tibet go?
-created: 1123693380
 tags:
 - world
 - what i'm listening to right now

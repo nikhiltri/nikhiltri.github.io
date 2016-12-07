@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Alien vs. Predator
-created: 1093902060
 tags:
 - what i'm listening to right now
 - movies

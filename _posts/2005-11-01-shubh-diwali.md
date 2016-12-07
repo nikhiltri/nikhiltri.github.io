@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Shubh Diwali
-created: 1130873100
 tags: []
 ---
 Today is the last day of the Indian lunar calendar, a time of the year that’s celebrated over five days. [shubh diwali](http://www.iverna.com/projects/festivals/diwali.htm)!

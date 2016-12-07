@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Salt stain mary
-created: 1114533360
 tags:
 - spirituality
 ---

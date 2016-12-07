@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Da weekend
-created: 1145912520
 tags:
 - friends
 ---

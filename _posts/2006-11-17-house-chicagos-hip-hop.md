@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'House: Chicago''s hip hop'
-created: 1163799263
 tags:
 - music
 - electronic music

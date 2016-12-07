@@ -1,7 +1,6 @@
 ---
 layout: post
 title: No more tamales...
-created: 1155310997
 tags:
 - friends
 ---

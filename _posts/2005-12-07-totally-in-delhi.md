@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOTALLY in Delhi
-created: 1133998260
 tags:
 - india trip, 12.05
 ---

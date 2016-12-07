@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Houses, fire, and trains
-created: 1152828554
 tags:
 - wtf?
 ---

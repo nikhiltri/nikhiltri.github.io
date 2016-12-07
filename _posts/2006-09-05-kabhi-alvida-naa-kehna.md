@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kabhi Alvida Naa Kehna
-created: 1157481274
 tags:
 - hip hop
 - bollywood

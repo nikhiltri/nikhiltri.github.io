@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Satellite photos
-created: 1105478940
 tags:
 - south asia
 ---

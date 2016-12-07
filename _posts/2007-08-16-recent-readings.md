@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Recent readings
-created: 1187299685
 tags:
 - what i'm reading to right now
 ---

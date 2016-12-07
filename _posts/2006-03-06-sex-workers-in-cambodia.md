@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sex workers in Cambodia
-created: 1141688580
 tags:
 - violence
 ---

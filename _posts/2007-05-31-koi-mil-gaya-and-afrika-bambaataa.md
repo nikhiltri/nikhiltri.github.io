@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Koi Mil Gaya and Afrika Bambaataa
-created: 1180630145
 tags:
 - music
 - bollywood

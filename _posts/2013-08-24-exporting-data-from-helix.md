@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Exporting data from Helix
-created: 1377395381
 tags:
 - mysql
 - helix

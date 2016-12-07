@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why? Cause it's freakin on.
-created: 1103318280
 tags:
 - home
 ---

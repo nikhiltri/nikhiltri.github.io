@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Nikhil Banerjee
-created: 1129760580
 tags:
 - indian classical music
 ---

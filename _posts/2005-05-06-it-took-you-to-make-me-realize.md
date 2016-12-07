@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It took you to make me realize
-created: 1115401200
 tags:
 - music
 ---

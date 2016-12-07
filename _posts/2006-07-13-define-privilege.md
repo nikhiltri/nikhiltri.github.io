@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Define 'privilege'
-created: 1152828281
 tags:
 - wtf?
 ---

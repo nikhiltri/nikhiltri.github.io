@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RIP Tower Records
-created: 1165971024
 tags:
 - music
 ---

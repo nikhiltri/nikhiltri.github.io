@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I forgot what the sidewalk looks like
-created: 1094766300
 tags:
 - identity
 ---

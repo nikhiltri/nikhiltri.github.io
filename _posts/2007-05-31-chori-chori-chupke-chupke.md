@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Chori Chori Chupke Chupke!
-created: 1180629869
 tags:
 - bollywood
 ---

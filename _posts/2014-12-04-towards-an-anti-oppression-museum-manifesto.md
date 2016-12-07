@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Towards an anti-oppression museum manifesto
-created: 1417712870
 tags:
 - oppression
 - museums

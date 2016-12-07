@@ -1,7 +1,6 @@
 ---
 layout: post
 title: This dude's funny
-created: 1076625840
 tags:
 - friends
 ---
