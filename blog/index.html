@@ -45,20 +45,6 @@ layout: default
   </div>
 </div>
 </div>
-<!--
-<li class="sub-menu"><a href="index.html" class="sf-with-ul"><div>Home</div></a>
-	    <ul style="display: none;">
-	      <li class="sub-menu"><a href="index-corporate.html" class="sf-with-ul"><div>Home - Corporate</div></a>
-		<ul style="display: none;">
-		  <li><a href="index-corporate.html"><div>Corporate - Layout 1</div></a></li>
-		  <li><a href="index-corporate-2.html"><div>Corporate - Layout 2</div></a></li>
-		  <li><a href="index-corporate-3.html"><div>Corporate - Layout 3</div></a></li>
-		  <li><a href="index-corporate-4.html"><div>Corporate - Layout 4</div></a></li>
-		</ul>
-	      </li>
-	    </ul>
-</li>
--->
 
 
 <div class="content-with-side-header">
@@ -71,9 +57,7 @@ layout: default
       {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
-          {% unless forloop.first %}</ul>{% endunless %}
-          <p style="margin-bottom: 120px" id="y{{post.date | date: "%Y"}}"></p>
-          <h1>{{ currentdate }}</h1>
+          <h1 class="anchor" id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
 	  {% assign date = currentdate %}
 	{% endif %}
       <article class="entry clearfix" itemscope itemtype="http://schema.org/BlogPosting">

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="content-with-side-header">
 <section id="page-title">
 
   <div class="container clearfix">
@@ -9,7 +10,44 @@ layout: default
   </div>
   
 </section>
+</div>
 
+<div class="side-header">
+<div id="header" class="no-sticky">
+
+  <div id="header-wrap">
+
+    <div class="container clearfix">
+
+      <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+      <!-- Logo
+	   ============================================= -->
+      <div id="logo" class="nobottomborder">
+	<h1>Years</h1>
+      </div><!-- #logo end -->
+
+      <!-- Primary Navigation
+	   ============================================= -->
+      <nav id="primary-menu">
+	
+	<ul class="sf-js-enabled" style="touch-action: pan-y;">
+	      {% for project in site.projects reversed %}
+  	        {% assign currentdate = project.date | date: "%Y" %}
+	        {% if currentdate != date %}
+	          <li><a href="#y{{project.date | date: "%Y"}}">{{ currentdate }}</a></li>
+		{% endif %}
+		{% assign date = currentdate %}
+	      {% endfor %}
+	</ul>
+      </nav>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="content-with-side-header">
 <section id="content">
 
   <div class="content-wrap">
@@ -17,8 +55,14 @@ layout: default
     <div class="container clearfix">
       
       {% for project in site.projects reversed %}
+        {% assign currentdate = project.date | date: "%Y" %}
+        {% if currentdate != date %}
+          <h1 class="anchor" id="y{{project.date | date: "%Y"}}">{{ currentdate }}</h1>
+	  {% assign date = currentdate %}
+	{% endif %}
         {% include project.html %}
       {% endfor %}
     </div>
   </div>
 </section>
+</div>

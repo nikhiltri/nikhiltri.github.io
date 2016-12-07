@@ -47,3 +47,9 @@
     }
 }
 
+/* Shift anchor below sticky header */
+h1.anchor {
+    padding-top: 80px;
+    margin-top: -80px;
+/*    visibility: hidden; */
+}
