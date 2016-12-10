@@ -29,7 +29,7 @@ layout: default
       <div class="row clearfix">
 
 	<div class="col-lg-5">
-	  <p class="lead">I'm an application developer and activist. I work at a museum in Chicago, I'm a volunteer educator for Rape Victim Advocates, and I participate in movements to end oppressions. I'm a regular contributor at The Incluseum, I co-created visitorsofcolor.tumblr.com, and my writing has been featured in Model View Culture and Fwd: Museums. After hours I enjoy playing my guitar and sitar, composing noise, hiking, making herbal medicines, and drinking warm glasses of chai on cold winter nights.</p>
+	  <p class="lead">I'm an application developer at a museum in Chicago and a social justice activist. My activism work focuses on ending rape culture and patriarchy through my role as a volunteer educator for Rape Victim Advocates. I'm also a regular contributor at The Incluseum, co-creator of visitorsofcolor.tumblr.com, and my writing has been featured  in Model View Culture and Fwd: Museums. You will also find me playing my guitar and sitar, composing noise, hiking, making herbal medicines, and drinking warm glasses of chai on cold winter nights.</p>
 	</div>
 
 	<div class="col-lg-7">
@@ -59,36 +59,31 @@ layout: default
      
       <!-- Awards -->
       <div class="section">
-	<div class="container-fullwidth clearfix">
 	  
-	  <div class="row topmargin-sm">
-
-	    <div class="heading-block center">
-	      <h2>Awards and Honors</h2>
-	    </div>
-
-	    {% assign awards = site.awards | sort: 'date' | reverse %}
-	    {% for award in awards limit:3 %}
-	    <div class="col_one_third bottommargin {% if forloop.last %}col_last{% endif %}">
-
-	      <div class="team">
-		<div class="team-image">
-		  <img src="{{ award.image }}" alt="{{ award.alt }}">
-		</div>
-		<div class="team-desc team-desc-bg">
-		  <div class="team-title"><h4>{{ award.title }}</h4><span>{{ award.dates }}</span></div>
-
-		  {% if award.link %}
-		  <p><a href="{{ award.link }}" class="btn btn-danger btn-sm bgcolor border-color">Read more</a></p>
-		  {% endif %}
-		</div>
-	      </div>
-	      
-	    </div>
-	    {% endfor %}
-
-	  </div>
+	<div class="heading-block center">
+	  <h2>Awards and Honors</h2>
 	</div>
+
+	{% assign awards = site.awards | sort: 'date' | reverse %}
+	{% for award in awards limit:3 %}
+	<div class="col_one_third bottommargin {% if forloop.last %}col_last{% endif %}">
+
+	  <div class="team">
+	    <div class="team-image">
+	      <img src="{{ award.image }}" alt="{{ award.alt }}">
+	    </div>
+	    <div class="team-desc team-desc-bg">
+	      <div class="team-title"><h4>{{ award.title }}</h4><span>{{ award.dates }}</span></div>
+
+	      {% if award.link %}
+	      <p><a href="{{ award.link }}" class="btn btn-danger btn-sm bgcolor border-color">Read more</a></p>
+	      {% endif %}
+	    </div>
+	  </div>
+	      
+	</div>
+	{% endfor %}
+
       </div>
 
       <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
