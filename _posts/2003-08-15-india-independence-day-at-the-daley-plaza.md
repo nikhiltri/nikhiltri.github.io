@@ -1,7 +1,7 @@
 ---
 layout: post
 title: India Independence Day at the Daley Plaza
-categories:
+tags:
 - art
 - music
 ---
