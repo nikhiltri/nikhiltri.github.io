@@ -17,6 +17,9 @@ class CleanupAfterImport
       # Remove breaks
       text = text.gsub(/<!--break-->/, "")
 
+      # Remove created frontmatter
+      text = text.gsub(/created: [0-9]+\n/, "")
+
       # Clean up tabs
       text = text.gsub(/\t/, "")
 
@@ -130,11 +133,11 @@ class CleanupAfterImport
     redirects = '';
     if File.directory?(dir)
       Dir.foreach(dir) do |item|
-        next if item.start_with?(".") or item == 'content' or item == 'diary-uh' or item == 'node' or item == 'images'
+        next if item.start_with?(".") or item.start_with?("_") or item == 'content' or item == 'diary-uh' or item == 'node' or item == 'images' or item == 'css' or item == 'js' or item == 'blog' or item == 'projects' 
         
-        if File.directory?(File.join(dir,item)) and not item.start_with?("_")
+        if File.directory?(File.join(dir,item))
           props = YAML.load_file(File.join(dir, item, "index.md"))
-          redirects += "Redirect 301 /" + (dir == './' ? item : File.join(dir, item)) + " " + props['refresh_to_post_id'] + "\n"
+          redirects += "Redirect 301 /" + (dir == './' ? item : File.join(dir, item)) + " " + props['refresh_to_post_id'] + ".html\n"
           FileUtils.rm_r File.join(dir,item)
         end
       end
