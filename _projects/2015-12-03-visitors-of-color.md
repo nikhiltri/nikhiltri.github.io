@@ -6,4 +6,6 @@ host: Tumblr
 title: Visitors of Color Tumblr
 dates: November 2015-Present
 ---
-Visitors of Color is a Tumblr that documents perspectives and experiences of marginalized people with museums. In many discussions about inclusion and diversity in museums and I've been a part of, marginalized groups are often discussed whose voices are not present. This project aims to take some first steps in shining light on what the museum experience is like for folks whose voices are rarely privileged.
+Visitors of Color is a Tumblr that documents perspectives and experiences of marginalized people with museums. This project aims to take some steps to shine light on what the museum experience is like for folks who are often discussed whose voices are rarely privileged.
+
+Read more about the project [here](https://incluseum.com/2015/12/03/visitors-of-color-tumblr/).

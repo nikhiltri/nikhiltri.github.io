@@ -4,7 +4,7 @@ alt: A birdseye view photo of a table of food. There's a bowl of rice, a bowl of
 title: Mens Feminist Reading Group
 dates: 2013-2014
 ---
-For about a year between 2013-14, I organized a feminist reading group with a group of three other guy friends. We read classic feminist works mostly by women of color, and ate lots of good food togheter. Here's what we read:
+For about a year I organized a feminist reading group with a group of three other friends. We read classic feminist works mostly by women of color, and ate lots of good food togheter. Here's what we read:
 
 * Feminism is for Everybody, bell hooks
 * Men’s Work, Paul Kivel
