@@ -1,5 +1,5 @@
 ---
-image: /images/life-was-so-much-easier.png
+image: /images/life-was-so-much-easier.jpg
 alt: A play off of an instructional chart. On the left are three line drawing illustrations showing how to walk up a single step. On the right are a series of snapshot photos showing myself as someone who's struggling to walk up a single step, eventually falling over to the ground in frustration.
 title: Life was so much easier when I was a line drawing
 dates: Fall 2010

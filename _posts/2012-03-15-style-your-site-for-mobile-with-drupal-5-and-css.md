@@ -16,7 +16,7 @@ The following article documents how I went about creating a mobile version of th
 
 At the Art Institute of Chicago, our museum website is run as two separate pieces. Collections—information on ~50,000 of the 150,000 artworks in our galleries and archives—runs on Drupal 5 and was initially developed by [Palantir in 2008](http://www.palantir.net/experience/art-institute-chicago). Everything else runs on Serena Collage, a now-out-of-business CMS, and is currently being redesigned in Drupal 7 (*phew!*). I work mostly with our Drupal 5 Collections website.
 
-![](/images/iphone-screen.png)
+![](/images/iphone-screen.jpg)
 
 More of our users are visiting our site on mobile devices. 7.75% of our visitors in February were on mobile devices, up from 3.25% the previous year. These aren’t staggering numbers today, but are inline with [global trends](http://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-520862.html). As mobile trends grow, we need to make the experience of these visitors more accessible. Viewing our current site on a mobile device is a little bewildering, with teeny-tiny text and links that you have to zoom in so far to use that they’re essentially unusable. 
 
@@ -26,7 +26,7 @@ Our regular site is being redesigned with mobile in mind. With no immediate plan
 
 ### Mobile design
 
-![](/images/side-by-side-web.png)
+![](/images/side-by-side-web.jpg)
 
 The layout of the mobile site is simpler. We display all the pages in a single column to allow each feature to be as large as possible and provide a simpler flow of information. We silo the content to just our artwork objects. Links to other sections of our website and other related content are removed for now, and will be rethought about post-launch. With the small amount of screen real estate, we put content first. This means navigational items and related links go to the bottom of the page. This is not ideal, and there are definitely [sexier ways to address navigation](http://bradfrostweb.com/blog/web/responsive-nav-patterns), but in the interest of a short turnaround, we’ll address that post-launch with a thoughtful approach to our users’ needs.
 
