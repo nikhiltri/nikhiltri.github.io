@@ -1,3 +1,4 @@
+ErrorDocument 404 /404.html
 Redirect 301 /1700-project-defacement-it-hate-crime /2010/05/19/the-1700-project-defacement-is-it-a-hate-crime.html
 Redirect 301 /be-critical-how-you-donate-haiti /2010/01/15/be-critical-of-how-you-donate-to-haiti.html
 Redirect 301 /body /2012/05/31/body.html
