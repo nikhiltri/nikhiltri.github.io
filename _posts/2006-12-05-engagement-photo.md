@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/engagement-photo
 layout: post
 title: Engagement photo
 tags: []

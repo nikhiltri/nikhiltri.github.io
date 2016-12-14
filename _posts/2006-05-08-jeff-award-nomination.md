@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/jeff-award-nomination
 layout: post
 title: Jeff Award nomination
 tags:

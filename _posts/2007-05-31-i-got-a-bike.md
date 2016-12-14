@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/i-got-bike
 layout: post
 title: I got a bike!
 tags: []

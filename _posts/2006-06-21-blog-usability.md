@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/blog-usability
 layout: post
 title: Blog Usability
 tags:

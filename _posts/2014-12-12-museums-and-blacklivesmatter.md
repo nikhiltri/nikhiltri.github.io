@@ -1,4 +1,5 @@
 ---
+redirect_from: /museums-and-blacklivesmatter
 layout: post
 title: 'Museums and #BlackLivesMatter'
 tags:

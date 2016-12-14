@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/masculinity
 layout: post
 title: Masculinity
 tags:

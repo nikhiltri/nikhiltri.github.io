@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/pics-peace-fest
 layout: post
 title: Pics from Peace Fest
 tags:

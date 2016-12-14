@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/google-maps-hacks
 layout: post
 title: Google Maps hacks
 tags:

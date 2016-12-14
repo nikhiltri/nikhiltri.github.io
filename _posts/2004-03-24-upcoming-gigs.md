@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/upcoming-gigs
 layout: post
 title: Upcoming gigs
 tags:

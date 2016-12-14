@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/surprise-video
 layout: post
 title: Surprise video
 tags:

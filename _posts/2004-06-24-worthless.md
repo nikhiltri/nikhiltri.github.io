@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/worthless-0
 layout: post
 title: Worthless
 tags:

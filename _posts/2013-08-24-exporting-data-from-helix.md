@@ -1,4 +1,5 @@
 ---
+redirect_from: /exporting-data-helix
 layout: post
 title: Exporting data from Helix
 tags:

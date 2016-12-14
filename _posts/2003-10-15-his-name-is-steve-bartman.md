@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/his-name-steve-bartman
 layout: post
 title: His name, is Steve Bartman
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/back-da-diary-uh
 layout: post
 title: Back to da diary-uh
 tags:

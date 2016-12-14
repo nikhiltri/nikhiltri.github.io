@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/back-chi
 layout: post
 title: Back in the Chi
 tags:

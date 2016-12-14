@@ -1,4 +1,5 @@
 ---
+redirect_from: /performance-announcement-i-still-live-here
 layout: post
 title: Performance Announcement -- I Still Live Here
 tags:

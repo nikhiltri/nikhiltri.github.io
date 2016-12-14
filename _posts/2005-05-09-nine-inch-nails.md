@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/nine-inch-nails
 layout: post
 title: nine inch nails
 tags:

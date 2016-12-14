@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/music-instrument-hero
 layout: post
 title: Music instrument in Hero?
 tags:

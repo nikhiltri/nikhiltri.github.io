@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/friend-beirut
 layout: post
 title: Friend in Beirut
 tags:

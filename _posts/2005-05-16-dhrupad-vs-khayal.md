@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/dhrupad-vs-khayal
 layout: post
 title: Dhrupad vs. Khayal
 tags:

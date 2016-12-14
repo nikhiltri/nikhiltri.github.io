@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/salt-stain-mary
 layout: post
 title: Salt stain mary
 tags:

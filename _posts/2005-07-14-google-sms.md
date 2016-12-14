@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/google-sms
 layout: post
 title: Google SMS
 tags:

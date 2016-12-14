@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/umrao-jaan
 layout: post
 title: Umrao Jaan
 tags:

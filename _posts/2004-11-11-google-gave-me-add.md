@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/google-gave-me-add
 layout: post
 title: Google gave me ADD
 tags:

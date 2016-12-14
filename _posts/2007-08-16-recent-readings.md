@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/recent-readings
 layout: post
 title: Recent readings
 tags:

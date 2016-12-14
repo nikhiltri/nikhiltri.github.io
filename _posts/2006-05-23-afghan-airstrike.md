@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/afghan-airstrike
 layout: post
 title: Afghan airstrike
 tags:

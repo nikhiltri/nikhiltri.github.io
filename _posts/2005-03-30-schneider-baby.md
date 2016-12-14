@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/schneider-baby
 layout: post
 title: Schneider-baby
 tags:

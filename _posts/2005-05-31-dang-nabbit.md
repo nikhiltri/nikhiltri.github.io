@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/dang-nabbit
 layout: post
 title: Dang-nabbit
 tags:

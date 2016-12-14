@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/harassment
 layout: post
 title: Harassment
 tags: []

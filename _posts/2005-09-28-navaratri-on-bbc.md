@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/navaratri-bbc
 layout: post
 title: Navaratri on BBC
 tags:

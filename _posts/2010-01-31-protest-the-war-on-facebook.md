@@ -1,4 +1,5 @@
 ---
+redirect_from: /protest-war-facebook
 layout: post
 title: Protest the war. On Facebook
 tags:

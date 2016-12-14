@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/after-quake
 layout: post
 title: After the quake
 tags:

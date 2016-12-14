@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/history-indian-classical-music
 layout: post
 title: History of Indian classical music
 tags:

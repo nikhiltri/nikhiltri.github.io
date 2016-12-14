@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/brokeback-mountain
 layout: post
 title: Brokeback Mountain
 tags:

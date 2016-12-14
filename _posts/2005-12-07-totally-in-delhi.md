@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/totally-delhi
 layout: post
 title: TOTALLY in Delhi
 tags:

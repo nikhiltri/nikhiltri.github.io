@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/brahmin-samaj-convention
 layout: post
 title: Brahmin Samaj convention
 tags:

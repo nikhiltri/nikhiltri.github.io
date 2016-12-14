@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/more-meets-eye
 layout: post
 title: More than meets the eye
 tags:

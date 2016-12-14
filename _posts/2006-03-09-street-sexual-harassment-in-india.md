@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/street-sexual-harassment-india
 layout: post
 title: Street sexual harassment in India
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/hot-date-idea
 layout: post
 title: Hot date idea
 tags:

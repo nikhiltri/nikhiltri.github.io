@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/remember-shakti-chicago-theater
 layout: post
 title: Remember Shakti @ Chicago Theater
 tags:

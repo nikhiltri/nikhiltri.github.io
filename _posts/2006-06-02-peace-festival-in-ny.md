@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/peace-festival-ny
 layout: post
 title: Peace festival in NY
 tags:

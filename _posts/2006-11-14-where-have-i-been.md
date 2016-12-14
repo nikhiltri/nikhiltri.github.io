@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/where-have-i-been
 layout: post
 title: Where have I been?
 tags: []

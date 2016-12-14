@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/lots-music
 layout: post
 title: Lots of music
 tags:

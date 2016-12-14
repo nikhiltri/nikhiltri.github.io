@@ -1,4 +1,5 @@
 ---
+redirect_from: /style-your-site-mobile-drupal-5-and-css
 layout: post
 title: Style your site for mobile with Drupal 5 and CSS
 tags:

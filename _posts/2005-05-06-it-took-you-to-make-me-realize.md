@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/it-took-you-make-me-realize
 layout: post
 title: It took you to make me realize
 tags:

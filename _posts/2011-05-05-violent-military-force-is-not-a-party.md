@@ -1,4 +1,5 @@
 ---
+redirect_from: /violent-military-force-not-party
 layout: post
 title: Violent, military force is not a party
 tags:

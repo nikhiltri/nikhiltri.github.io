@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/african-drumming-high-school
 layout: post
 title: African drumming in high school
 tags:

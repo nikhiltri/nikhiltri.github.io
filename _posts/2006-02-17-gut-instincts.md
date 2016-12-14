@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/gut-instincts
 layout: post
 title: Gut instincts
 tags: []

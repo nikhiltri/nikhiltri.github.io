@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/are-you-white
 layout: post
 title: Are you white?
 tags:

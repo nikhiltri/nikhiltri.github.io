@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/and-were-back
 layout: post
 title: And, we're back
 tags: []

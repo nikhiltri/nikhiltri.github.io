@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/url-shortening
 layout: post
 title: URL shortening
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/weekend
 layout: post
 title: The weekend
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/approx-12-hours-remaining
 layout: post
 title: Approx. 12 hours remaining...
 tags:

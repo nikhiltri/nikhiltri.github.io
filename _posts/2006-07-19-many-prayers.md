@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/many-prayers
 layout: post
 title: Many prayers
 tags:

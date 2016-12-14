@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/music-not-exotic
 layout: post
 title: '"This music is not exotic"'
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/yawp-benefit
 layout: post
 title: Yawp! benefit
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/whole-new-year
 layout: post
 title: A whole new year
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/stop-sexual-violence
 layout: post
 title: Stop sexual violence
 tags:

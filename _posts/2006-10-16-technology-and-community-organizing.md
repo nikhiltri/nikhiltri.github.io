@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/technology-and-community-organizing
 layout: post
 title: Technology and community organizing
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /memory-aparna-sharma
 layout: post
 title: In memory of Aparna Sharma
 tags: []

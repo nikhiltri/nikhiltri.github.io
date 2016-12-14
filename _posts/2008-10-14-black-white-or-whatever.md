@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/black-white-or-whatever
 layout: post
 title: Black, White or Whatever
 tags:

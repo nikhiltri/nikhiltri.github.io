@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/communal-harmony-through-music
 layout: post
 title: Communal harmony through music
 tags:

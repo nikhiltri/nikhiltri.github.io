@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/yes-michigan
 layout: post
 title: Yes, Michigan!
 tags:

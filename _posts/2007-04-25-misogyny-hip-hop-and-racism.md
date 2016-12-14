@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/misogyny-hip-hop-and-racism
 layout: post
 title: Misogyny, hip hop, and racism
 tags:

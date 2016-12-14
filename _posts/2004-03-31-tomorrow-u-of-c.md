@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/tomorrow-u-c
 layout: post
 title: Tomorrow @ U of C
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/why-chicago-theater-so-white
 layout: post
 title: Why Chicago theater is so white
 tags:

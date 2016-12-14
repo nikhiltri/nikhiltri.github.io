@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/planet-read
 layout: post
 title: Planet read
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /diwali-joy-hope-and-justice
 layout: post
 title: 'Diwali: joy, hope and justice'
 tags: []

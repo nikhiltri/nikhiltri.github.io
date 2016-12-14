@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/saturns-moon
 layout: post
 title: Saturn's moon
 tags:

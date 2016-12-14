@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/i-lost-my-orange-hat
 layout: post
 title: I lost my orange hat
 tags:

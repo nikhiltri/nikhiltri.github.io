@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/superman-returns
 layout: post
 title: Superman Returns
 tags:

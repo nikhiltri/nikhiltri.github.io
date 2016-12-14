@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/macys-day-music
 layout: post
 title: Macy's Day of Music
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/why-do-we-wear-dress-shoes
 layout: post
 title: Why do we wear dress shoes?
 tags: []

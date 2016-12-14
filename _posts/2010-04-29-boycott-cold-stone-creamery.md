@@ -1,4 +1,5 @@
 ---
+redirect_from: /boycott-cold-stone-creamery
 layout: post
 title: Boycott Cold Stone Creamery
 tags:

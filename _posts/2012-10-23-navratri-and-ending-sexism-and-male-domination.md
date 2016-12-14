@@ -1,4 +1,5 @@
 ---
+redirect_from: /navratri-and-ending-sexism-and-male-domination
 layout: post
 title: 'Navratri and ending sexism and male domination '
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/liars-club
 layout: post
 title: Liar's Club?
 tags:

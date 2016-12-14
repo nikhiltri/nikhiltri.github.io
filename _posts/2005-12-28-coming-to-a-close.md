@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/coming-close
 layout: post
 title: Coming to a close
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/say-no-plastic
 layout: post
 title: Say no to plastic
 tags:

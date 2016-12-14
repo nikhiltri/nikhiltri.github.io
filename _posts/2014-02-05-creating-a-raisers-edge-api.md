@@ -1,4 +1,5 @@
 ---
+redirect_from: /creating-raisers-edge-api
 layout: post
 title: Creating a Raiser's Edge API
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/shubh-guru-purnima
 layout: post
 title: Shubh Guru Purnima
 tags:

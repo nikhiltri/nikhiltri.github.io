@@ -1,4 +1,5 @@
 ---
+redirect_from: /towards-anti-oppression-museum-manifesto
 layout: post
 title: Towards an anti-oppression museum manifesto
 tags:

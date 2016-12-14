@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/characters-color-played-white-people
 layout: post
 title: Characters of color played by white people
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/shubh-navratri
 layout: post
 title: Shubh Navratri!
 tags:

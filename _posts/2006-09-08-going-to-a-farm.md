@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/going-farm
 layout: post
 title: Going to a farm
 tags:

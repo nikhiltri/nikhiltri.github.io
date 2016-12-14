@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/green-spot-sun
 layout: post
 title: Green spot on the sun
 tags:

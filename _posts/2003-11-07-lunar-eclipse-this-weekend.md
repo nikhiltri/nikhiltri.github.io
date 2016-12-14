@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/lunar-eclipse-weekend
 layout: post
 title: lunar eclipse this weekend
 tags:

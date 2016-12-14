@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/bilaskhani-todi
 layout: post
 title: Bilaskhani Todi
 tags:

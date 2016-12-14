@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/gameboy-music
 layout: post
 title: Gameboy music
 tags:

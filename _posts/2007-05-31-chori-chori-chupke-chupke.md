@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/chori-chori-chupke-chupke
 layout: post
 title: Chori Chori Chupke Chupke!
 tags:

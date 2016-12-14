@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/i-forgot-what-sidewalk-looks
 layout: post
 title: I forgot what the sidewalk looks like
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/happy-hallow-spleen
 layout: post
 title: Happy Hallow-spleen
 tags:

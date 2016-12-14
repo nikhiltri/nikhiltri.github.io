@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/its-quiet-northside
 layout: post
 title: It's quiet on the northside...
 tags:

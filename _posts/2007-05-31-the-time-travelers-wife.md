@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/time-travelers-wife
 layout: post
 title: The Time Traveler's Wife
 tags:

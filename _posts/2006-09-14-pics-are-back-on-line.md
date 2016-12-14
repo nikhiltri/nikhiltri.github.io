@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/pics-are-back-line
 layout: post
 title: Pics are back on-line
 tags:

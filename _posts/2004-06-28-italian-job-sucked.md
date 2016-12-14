@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/italian-job-sucked
 layout: post
 title: Italian Job SUCKED
 tags:

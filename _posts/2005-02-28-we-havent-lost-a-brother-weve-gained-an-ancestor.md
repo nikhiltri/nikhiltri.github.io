@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/we-havent-lost-brother-weve-gained-ancestor
 layout: post
 title: '"We haven''t lost a brother, we''ve gained an ancestor"'
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/unnecessary-stress
 layout: post
 title: Unnecessary stress
 tags:

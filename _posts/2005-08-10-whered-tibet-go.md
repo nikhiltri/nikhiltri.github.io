@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/whered-tibet-go
 layout: post
 title: Where'd tibet go?
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /ravi-shankar-my-complicated-connection-man-and-his-music
 layout: post
 title: 'Ravi Shankar: my complicated connection with a man and his music'
 tags:

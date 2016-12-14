@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/thanks-chris
 layout: post
 title: thanks chris
 tags:

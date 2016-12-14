@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/eucharist-and-prasad
 layout: post
 title: Eucharist and prasad
 tags:

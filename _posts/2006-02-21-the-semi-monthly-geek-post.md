@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/semi-monthly-geek-post
 layout: post
 title: The semi-monthly geek post
 tags:

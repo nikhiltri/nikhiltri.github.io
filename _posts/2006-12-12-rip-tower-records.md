@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/rip-tower-records
 layout: post
 title: RIP Tower Records
 tags:

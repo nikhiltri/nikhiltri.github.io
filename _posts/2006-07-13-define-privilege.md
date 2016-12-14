@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/define-privilege
 layout: post
 title: Define 'privilege'
 tags:

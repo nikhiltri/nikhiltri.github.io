@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/no-more-prisons
 layout: post
 title: No more prisons
 tags:

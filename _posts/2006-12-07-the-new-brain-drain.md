@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/new-brain-drain
 layout: post
 title: The new brain drain
 tags:

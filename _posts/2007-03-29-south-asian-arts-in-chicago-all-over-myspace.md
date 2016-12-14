@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/south-asian-arts-chicago-all-over-myspace
 layout: post
 title: South Asian arts in Chicago, all over Myspace!
 tags:

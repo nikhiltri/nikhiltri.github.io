@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/cemcho-majama
 layout: post
 title: Cemcho, majama
 tags:

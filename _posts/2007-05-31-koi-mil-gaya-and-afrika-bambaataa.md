@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/koi-mil-gaya-and-afrika-bambaataa
 layout: post
 title: Koi Mil Gaya and Afrika Bambaataa
 tags:

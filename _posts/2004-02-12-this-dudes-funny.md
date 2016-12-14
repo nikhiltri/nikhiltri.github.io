@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/dudes-funny
 layout: post
 title: This dude's funny
 tags:

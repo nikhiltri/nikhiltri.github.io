@@ -1,4 +1,5 @@
 ---
+redirect_from: /text-my-ignite-talk-mcn-2015
 layout: post
 title: Text from my Ignite talk at MCN 2015
 tags:

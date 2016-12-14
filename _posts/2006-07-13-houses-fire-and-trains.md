@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/houses-fire-and-trains
 layout: post
 title: Houses, fire, and trains
 tags:

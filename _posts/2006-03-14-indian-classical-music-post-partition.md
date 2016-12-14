@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/indian-classical-music-post-partition
 layout: post
 title: Indian classical music, post-partition
 tags:

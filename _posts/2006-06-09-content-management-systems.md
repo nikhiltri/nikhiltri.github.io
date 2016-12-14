@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/content-management-systems
 layout: post
 title: Content Management Systems
 tags:

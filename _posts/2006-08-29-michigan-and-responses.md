@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/michigan-and-responses
 layout: post
 title: Michigan and responses
 tags:

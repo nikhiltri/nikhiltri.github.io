@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/back-saddle-again
 layout: post
 title: Back in the saddle, again
 tags:

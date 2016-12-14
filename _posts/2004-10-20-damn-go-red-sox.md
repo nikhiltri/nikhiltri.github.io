@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/damn-go-red-sox
 layout: post
 title: Damn, go Red Sox
 tags:

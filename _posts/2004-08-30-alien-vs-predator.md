@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/alien-vs-predator
 layout: post
 title: Alien vs. Predator
 tags:

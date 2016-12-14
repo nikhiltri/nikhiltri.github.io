@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/credit-card-junk-mail
 layout: post
 title: Credit card junk mail
 tags:

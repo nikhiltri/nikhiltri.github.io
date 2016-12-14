@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/da-weekend
 layout: post
 title: Da weekend
 tags:

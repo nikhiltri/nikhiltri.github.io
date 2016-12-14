@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/stacyann-chin
 layout: post
 title: Stacyann Chin
 tags:

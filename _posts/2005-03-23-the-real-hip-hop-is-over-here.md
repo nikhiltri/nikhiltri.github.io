@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/real-hip-hop-over-here
 layout: post
 title: The real hip hop, is over here
 tags: []

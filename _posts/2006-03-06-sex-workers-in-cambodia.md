@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/sex-workers-cambodia
 layout: post
 title: Sex workers in Cambodia
 tags:

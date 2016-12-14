@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/shubh-diwali
 layout: post
 title: Shubh Diwali
 tags: []

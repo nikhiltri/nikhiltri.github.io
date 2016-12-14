@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/nikhil-banerjee
 layout: post
 title: Nikhil Banerjee
 tags:

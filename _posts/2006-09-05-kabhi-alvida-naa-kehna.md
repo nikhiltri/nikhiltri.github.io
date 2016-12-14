@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/kabhi-alvida-naa-kehna
 layout: post
 title: Kabhi Alvida Naa Kehna
 tags:

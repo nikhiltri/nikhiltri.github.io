@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/afrika-bam
 layout: post
 title: Afrika Bam
 tags:

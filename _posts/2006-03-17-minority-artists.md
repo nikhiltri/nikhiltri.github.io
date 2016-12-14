@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/minority-artists
 layout: post
 title: Minority artists
 tags:

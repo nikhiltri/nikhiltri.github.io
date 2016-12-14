@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/delicious
 layout: post
 title: del.icio.us
 tags:

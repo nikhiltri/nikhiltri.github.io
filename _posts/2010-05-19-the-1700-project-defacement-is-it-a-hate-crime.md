@@ -1,4 +1,5 @@
 ---
+redirect_from: /1700-project-defacement-it-hate-crime
 layout: post
 title: 'The 1700% Project defacement: Is it a hate crime?'
 tags:

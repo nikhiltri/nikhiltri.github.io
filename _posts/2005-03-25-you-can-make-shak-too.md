@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/you-can-make-shak-too
 layout: post
 title: You can make shak, too!
 tags:

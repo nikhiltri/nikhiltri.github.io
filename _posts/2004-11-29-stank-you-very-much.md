@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/stank-you-very-much
 layout: post
 title: Stank you very much
 tags:

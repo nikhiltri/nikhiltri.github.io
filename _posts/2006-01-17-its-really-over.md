@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/its-really-over
 layout: post
 title: It's really over
 tags:

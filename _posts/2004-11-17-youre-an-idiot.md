@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/youre-idiot
 layout: post
 title: You're an idiot
 tags:

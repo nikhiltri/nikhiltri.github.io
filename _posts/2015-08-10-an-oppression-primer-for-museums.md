@@ -1,4 +1,5 @@
 ---
+redirect_from: /oppression-primer-museums
 layout: post
 title: An oppression primer for museums
 tags:

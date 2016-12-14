@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/kushal-das-was-awesome
 layout: post
 title: Kushal Das was AWESOME!
 tags:

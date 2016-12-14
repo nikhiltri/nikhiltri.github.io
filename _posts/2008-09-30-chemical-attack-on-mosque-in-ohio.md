@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/chemical-attack-mosque-ohio
 layout: post
 title: Chemical attack on mosque in Ohio
 tags:

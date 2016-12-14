@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/patrick-swayzes-man
 layout: post
 title: Patrick Swayze's the man
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/house-chicagos-hip-hop
 layout: post
 title: 'House: Chicago''s hip hop'
 tags:

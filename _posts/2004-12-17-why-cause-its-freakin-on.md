@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/why-cause-its-freakin
 layout: post
 title: Why? Cause it's freakin on.
 tags:

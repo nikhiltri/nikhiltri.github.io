@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/voip-phones
 layout: post
 title: VoIP phones
 tags:

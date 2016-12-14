@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/language-form-violence
 layout: post
 title: Language as a form of violence
 tags:

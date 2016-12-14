@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/engagement-and-drama
 layout: post
 title: Engagement and drama
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/i-must-have-been-adorable-kid
 layout: post
 title: I must have been an adorable kid
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/theres-always-next-year
 layout: post
 title: There's always next year....
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/borat-racist
 layout: post
 title: Borat is racist
 tags:

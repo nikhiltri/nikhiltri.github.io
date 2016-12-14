@@ -1,4 +1,5 @@
 ---
+redirect_from: /wtf-linked-open-data
 layout: post
 title: WTF is Linked Open Data?
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/raina-foundation
 layout: post
 title: Raina Foundation
 tags:

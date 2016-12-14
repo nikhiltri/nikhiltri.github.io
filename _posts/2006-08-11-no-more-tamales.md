@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/no-more-tamales
 layout: post
 title: No more tamales...
 tags:

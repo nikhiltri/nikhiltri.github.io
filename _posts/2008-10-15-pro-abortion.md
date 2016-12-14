@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/pro-abortion
 layout: post
 title: '"Pro-abortion"?'
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/oh-nagraj
 layout: post
 title: Oh, that Nagraj!
 tags: []

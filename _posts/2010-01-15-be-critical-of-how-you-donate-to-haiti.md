@@ -1,4 +1,5 @@
 ---
+redirect_from: /be-critical-how-you-donate-haiti
 layout: post
 title: Be critical of how you donate to Haiti
 tags:

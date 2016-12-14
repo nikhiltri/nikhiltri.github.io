@@ -30,5 +30,6 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-twitter-plugin
-
+  - jekyll-redirect-from
+  
 exclude: ['Gemfile', 'Gemfile.lock', '*~']

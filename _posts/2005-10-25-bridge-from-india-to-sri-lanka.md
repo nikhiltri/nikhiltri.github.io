@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/bridge-india-sri-lanka
 layout: post
 title: Bridge from India to Sri Lanka
 tags:

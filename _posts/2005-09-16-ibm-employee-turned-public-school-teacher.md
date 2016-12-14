@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/ibm-employee-turned-public-school-teacher
 layout: post
 title: IBM employee turned public school-teacher
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/musical-genomes
 layout: post
 title: Musical genomes?
 tags:

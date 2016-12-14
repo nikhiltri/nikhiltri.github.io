@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/military-and-mental-health
 layout: post
 title: The military and mental health
 tags:

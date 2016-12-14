@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/voices-resistance
 layout: post
 title: Voices of Resistance
 tags:

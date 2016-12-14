@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/i-miss-india
 layout: post
 title: I miss India
 tags:

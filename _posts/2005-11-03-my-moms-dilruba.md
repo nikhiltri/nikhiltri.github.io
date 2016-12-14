@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/my-moms-dilruba
 layout: post
 title: my mom's dilruba
 tags:

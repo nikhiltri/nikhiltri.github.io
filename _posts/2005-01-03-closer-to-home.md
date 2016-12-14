@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/closer-home
 layout: post
 title: Closer to 'home'
 tags:

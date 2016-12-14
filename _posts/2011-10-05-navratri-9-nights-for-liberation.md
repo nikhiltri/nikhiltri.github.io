@@ -1,4 +1,5 @@
 ---
+redirect_from: /navratri-9-nights-liberation
 layout: post
 title: Navratri -- 9 nights for liberation
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/violence-media
 layout: post
 title: Violence in media
 tags:

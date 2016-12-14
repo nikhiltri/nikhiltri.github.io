@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/pat-buchanan-moron
 layout: post
 title: Pat Buchanan is a moron
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/karsh-muthafin-kale
 layout: post
 title: Karsh (muthaf***in) Kale
 tags:

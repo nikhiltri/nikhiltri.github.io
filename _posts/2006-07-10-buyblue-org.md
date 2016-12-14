@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/buyblueorg
 layout: post
 title: buyblue.org
 tags:

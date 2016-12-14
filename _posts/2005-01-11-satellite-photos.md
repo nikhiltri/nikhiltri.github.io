@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/satellite-photos
 layout: post
 title: Satellite photos
 tags:

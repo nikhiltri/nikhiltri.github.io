@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/tabla-beat-science-0
 layout: post
 title: Tabla Beat Science
 tags:

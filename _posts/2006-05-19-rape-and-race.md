@@ -1,4 +1,5 @@
 ---
+redirect_from: /content/rape-and-race
 layout: post
 title: Rape and race
 tags:

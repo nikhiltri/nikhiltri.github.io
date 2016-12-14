@@ -1,4 +1,5 @@
 ---
+redirect_from: /where-my-clothes-were-made
 layout: post
 title: Where my clothes were made
 tags:
