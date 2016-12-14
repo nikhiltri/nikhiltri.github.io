@@ -1,3 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
 ErrorDocument 404 /404.html
 ErrorDocument 410 /410.html
 Redirect 301 /1700-project-defacement-it-hate-crime http://nikhiltrivedi.com/2010/05/19/the-1700-project-defacement-is-it-a-hate-crime.html
