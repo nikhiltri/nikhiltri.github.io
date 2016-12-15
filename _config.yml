@@ -29,7 +29,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  - jekyll-twitter-plugin
   - jekyll-redirect-from
+  - jekyll-sitemap
   
 exclude: ['Gemfile', 'Gemfile.lock', '*~']
