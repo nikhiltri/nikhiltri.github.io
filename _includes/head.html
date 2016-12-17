@@ -4,8 +4,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="author" content="nikhil trivedi" />
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" >
+  {% if page.layout == "home" %}
   <meta property="og:image" content="http://nikhiltrivedi.com/images/me.jpg" />
+  {% endif %}
   
   <!-- Stylesheets
        ============================================= -->
