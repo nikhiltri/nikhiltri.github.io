@@ -53,3 +53,8 @@ h1.anchor {
     margin-top: -80px;
 /*    visibility: hidden; */
 }
+
+#iframe-map {
+    width: 100%;
+    height: 42em;
+}
