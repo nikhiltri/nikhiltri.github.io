@@ -8,6 +8,8 @@ tags:
 - indian classical music
 - identity
 ---
+![An old black and white photo of Panditji Ravi Shankar and Ustad Vilayat Khan arm-in-arm smiling at each other](/images/ravi-shankar-vilayat-khan.jpg)
+
 I'm saddened by the passing of Panditji Ravi Skankar. He lived a long and amazing life, touching numbers of people around the world with his music. The [New York Times](http://www.nytimes.com/2012/12/13/arts/music/ravi-shankar-indian-sitarist-dies-at-92.html?pagewanted=all&_r=0) and [LA Times](http://www.latimes.com/entertainment/arts/culture/la-et-cm-ravi-shankar-appreciation-20121213,0,7500757.story) have good chronicles of his life, and they're wonderful reads. 
 
 I remember listening to Ravi Shankar for the first time and buying my first CD of his, which I listened to again last week. But when I think back on my life completely honestly, my connections with Indian classical music, and by extension Ravi Shankar, have been tied closely with my experiences of racism and immigrant oppression, being a child of Indian immigrants. Over the course of my life with these oppressions, I've been left with a complicated set of feelings, not always the loving fondness towards Indian classican music and Panditji that I'd like to hold.
