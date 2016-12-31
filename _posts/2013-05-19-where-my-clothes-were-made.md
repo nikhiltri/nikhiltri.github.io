@@ -39,5 +39,5 @@ There is an overwhelming amount of information that is unknown regarding what co
 
 Having awareness of where my clothes were manufactured is a start. I don't yet know how I should let this information influence my choices. But it's a start.
 
-Where were the clothes you're wearing right now made? Take a picture, and post it on [Flickr with the tag "madein"](http://www.flickr.com/photos/tags/madein/map?&fLat=40.5137&fLon=-13.5351&zl=3&order_by=recent).
+Where were the clothes you're wearing right now made? Take a picture, and post it on [Flickr with the tag "madein"](http://www.flickr.com/photos/tags/madein).
 

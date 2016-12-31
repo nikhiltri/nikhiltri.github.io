@@ -20,7 +20,7 @@ So for example:
 
     The Old Guitarist | was created by | Pablo Picasso    
 
-A linked open "database" will consist of a series of these triples describing how various pieces of data are connected to each other ([for](http://dbpedia.org/page/The_Old_Guitarist) [example](http://data.nytimes.com/N855344257183137093)).
+A linked open "database" will consist of a series of these triples describing how various pieces of data are connected to each other ([for](http://dbpedia.org/page/The_Old_Guitarist) [example](https://www.wikidata.org/wiki/Q3228112)).
 
 ### Identifiers
 LOD requires that _data sets be shared and mapped to one another to benefit from each other's knowledge bases_, because “open” data is "freely available for reuse in practical formats with no licensing requirements” (h/t [Mia Ridge](http://www.miaridge.com/keynote-from-strings-to-things-lodlam-melbourne-workshop)). To do this we must give all our entities permanent identifiers that start with HTTP and are available on the web. These "URL IDs", or URIs, should resolve to the data they represent, making them human- and machine-retrievable. 

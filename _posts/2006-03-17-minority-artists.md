@@ -6,7 +6,7 @@ tags:
 - what i'm reading to right now
 - identity
 ---
-Check out this essay about another fellow [minority artist’s experience](http://www.indiacurrents.com/news/view_article.html?article_id=011d4947e43812a9a7ff71fd94abe93e). True words, my friend, true words:
+Check out this essay about another fellow [minority artist’s experience](https://www.indiacurrents.com/the-indian-wants-the-indian-wants-the-bronx/). True words, my friend, true words:
 
 > 
 > "And here is what I’ve learned: As minority artists, we must create opportunities for ourselves and for one another.

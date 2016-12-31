@@ -9,7 +9,7 @@ tags:
 ---
 I've been blessed to collaborate with some amazing artists on a performance work over the past year or so. I've composed sound for the ~30 minute work that will debut at Columbia's Dance Center as part of their Ten Year Celebration on September 25th. 
 
-It's been a really great experience collaborating with Ni'Ja and the performers. Creating this work has taken me to places emotionally that I didn't even know existed. It's been hard, scary and really exciting all at the same time. There are moments in the piece of a brutal fierceness of one fighting for their own survival, and moments of tenderness and real vulnerability. See the info on the show below, check out a [sampler of the sound I created for the show](/i-still-live-here-sampler), and come see the show next Saturday!
+It's been a really great experience collaborating with Ni'Ja and the performers. Creating this work has taken me to places emotionally that I didn't even know existed. It's been hard, scary and really exciting all at the same time. There are moments in the piece of a brutal fierceness of one fighting for their own survival, and moments of tenderness and real vulnerability. See the info on the show below, check out a [sampler of the sound I created for the show](https://soundcloud.com/nikhiltri/i-still-leave-here-sampler), and come see the show next Saturday!
 
 > 
 > I Still Live Here is the premier work of Chicago-based African diasporic performance project, The Artisans of Alchemy (AOA).  AOA's founder and director, Ni'Ja Whitson choreographs this eclectic and gripping interdisciplinary performance work, that locates and expresses body memory; a gesture boldly traversing the collection of scars and narratives stored between skin.

@@ -15,7 +15,7 @@ The following article documents how I went about creating a mobile version of th
 
 ---
 
-At the Art Institute of Chicago, our museum website is run as two separate pieces. Collections—information on ~50,000 of the 150,000 artworks in our galleries and archives—runs on Drupal 5 and was initially developed by [Palantir in 2008](http://www.palantir.net/experience/art-institute-chicago). Everything else runs on Serena Collage, a now-out-of-business CMS, and is currently being redesigned in Drupal 7 (*phew!*). I work mostly with our Drupal 5 Collections website.
+At the Art Institute of Chicago, our museum website is run as two separate pieces. Collections—information on ~50,000 of the 150,000 artworks in our galleries and archives—runs on Drupal 5 and was initially developed by [Palantir in 2008](https://www.drupal.org/node/279485). Everything else runs on Serena Collage, a now-out-of-business CMS, and is currently being redesigned in Drupal 7 (*phew!*). I work mostly with our Drupal 5 Collections website.
 
 ![](/images/iphone-screen.jpg)
 
