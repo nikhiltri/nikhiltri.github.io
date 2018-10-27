@@ -7,7 +7,7 @@ layout: default
 <section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-image: url('images/me.jpg'); background-size: cover; background-position: top center;" data-stellar-background-ratio="0.4">
 
   <a data-scrollto="#content" data-offset="100" class="dark one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
-  
+
   <div class="container clearfix">
     <h1>Museums. Technology. Social Justice.</h1>
     <span>Hello! I'm a Web Developer at a museum in Chicago, but you likely know me by the activism work I do in museum and tech communities.</span>
@@ -29,7 +29,7 @@ layout: default
       <div class="row clearfix">
 
 	<div class="col-lg-5">
-	  <p class="lead">I'm an application developer at a museum in Chicago and a social justice activist. My activism work focuses on ending rape culture and patriarchy through my role as a volunteer educator for Rape Victim Advocates. I'm also a regular contributor at The Incluseum, co-creator of visitorsofcolor.tumblr.com, and my writing has been featured  in Model View Culture and Fwd: Museums. You will also find me playing my guitar and sitar, composing noise, hiking, making herbal medicines, and drinking warm glasses of chai on cold winter nights.</p>
+	  <p class="lead">I'm a Web Architect at a museum in Chicago and a social justice activist. As a facilitator, educator and strategic planner, my activism work focuses on institutional healing and accountability from historic traumas like colonialism, slavery, genocide and war. I'm a long-time volunteer with Resilience, Chicago's largest rape crisis center, I'm a regular contributor at The Incluseum, co-creator of <a href="https://visitorsofcolor.tumblr.com">visitorsofcolor.tumblr.com</a>, and my writing has been featured in Model View Culture, Fwd: Museums and the Journal for Museum Education. You will also find me playing guitar and stand-up bass, hiking, making herbal medicines, and drinking warm glasses of chai on cold winter nights.</p>
 	</div>
 
 	<div class="col-lg-7">
@@ -46,7 +46,7 @@ layout: default
       <div class="row clearfix">
 
 	<div class="col-lg-5">
-	  <p class="lead">Most people have heard about me from the above video of the Ignite talk I gave at MCN 2015 where I articulate my thoughts on museums and oppression. You may also know me by my work as co-creator of the Visitors of Color blog, where we document the experiences of people from marginalized communities who visit&mdash;and don't visit&mdash;museums.</p>
+	  <p class="lead">In addition to the above video where I articulate my thoughts on museums and oppression, you may know me by my work as co-creator of the Visitors of Color blog, where we document the experiences of people from marginalized communities who visit&mdash;and don't visit&mdash;museums.</p>
 
 	  <a href="http://visitorsofcolor.tumblr.com" class="btn btn-danger btn-block btn-lg bgcolor border-color">Check it out on Tumblr</a>
 	</div>
@@ -66,19 +66,19 @@ layout: default
       <div id="section-pricing" class="heading-block title-center page-section">
 	<h2>Recent Projects</h2>
       </div>
-      
+
       {% assign projects = site.projects | sort: 'date' | reverse %}
       {% for project in projects limit:4 %}
         {% include project.html %}
       {% endfor %}
- 
+
       <div class="divcenter center clearfix" style="max-width: 900px;">
 	<a href="{{ "/projects" | relative_url}}" class="button button-3d button-dark button-large ">See more projects</a>
       </div>
-     
+
       <!-- Awards -->
       <div class="section">
-	  
+
 	<div class="heading-block center">
 	  <h2>Awards and Honors</h2>
 	</div>
@@ -99,7 +99,7 @@ layout: default
 	      {% endif %}
 	    </div>
 	  </div>
-	      
+
 	</div>
 	{% endfor %}
 
@@ -138,9 +138,9 @@ layout: default
 	    <ul class="entry-meta clearfix">
 	      <li><i class="icon-calendar3"></i> <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></li>
 	      <li><i class="icon-folder-open"></i>
-	        {% for tag in post.tags %}
-	        <a href="#">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
-	        {% endfor %}
+                {% for tag in post.tags %}
+                <a href="#">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+                {% endfor %}
 	      </li>
 	    </ul>
 	  </header>
@@ -205,7 +205,7 @@ layout: default
 	    <div class="col_full">
 	      <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" value="submit">Send Message</button>
 	    </div>
-	    
+
 	  </form>
 
 	</div>
@@ -218,7 +218,7 @@ layout: default
 
 
       </div>
-      
+
     </div>
 
   </div>
