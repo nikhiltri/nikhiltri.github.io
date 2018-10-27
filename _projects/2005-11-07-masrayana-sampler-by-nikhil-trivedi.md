@@ -1,9 +1,9 @@
 ---
-asset: <div class="ohidden embed-responsive" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183"><iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F48156920&show_artwork=true"></iframe></div>
+asset: <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48156920&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 title: Masrayana sampler
 dates: Fall 2005
 ---
-I composed music and played sitar for a play called “The Masrayana,” a story about a farmer named Gopal Masra in Rajastan. His brother pays off the village-clerk to issue a death certificate in Gopal’s name so that he can inherit the family farm. Gopal’s brother kicks him out of his own house, and he’s left for dead. The story describes his plight, and how he fights back. 
+I composed music and played sitar for a play called “The Masrayana,” a story about a farmer named Gopal Masra in Rajastan. His brother pays off the village-clerk to issue a death certificate in Gopal’s name so that he can inherit the family farm. Gopal’s brother kicks him out of his own house, and he’s left for dead. The story describes his plight, and how he fights back.
 
 I composed a few musical themes that I revisited throughout the show, each based on a different raag. I was awarded a Jeff Citation Award for Best Original Incidental Music for my composition and performance in this show.
 
