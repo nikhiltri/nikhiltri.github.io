@@ -1,6 +1,6 @@
 ---
 image: /images/thegrassrootscollaborative.jpg
-alt: A screen shot of grassrootscollorative.org
+alt: A screenshot of grassrootscollorative.org
 title: Grassroots Collaborative website
 dates: 2009
 ---
@@ -8,5 +8,5 @@ Grassroots Collaborative is a diverse coalition of labor and community organizat
 
 The header image is an illustration I made based on photographs from the Collaborative's campaigns. The image is still used on their protest posters!
 
-The site was developed in [Drupal](http://www.drupal.com), and I did all the design and development of the website, including training staff on how to use the new system to update content. I also set up Google Apps for the organization, and helped staff move their e-mail over from Outlook.
+The site was developed in [Drupal](http://www.drupal.com), and I did all the design and development of the website, including training staff on how to use the new system to update content. I also set up Google Apps for the organization and helped staff move their e-mail over from Outlook.
 

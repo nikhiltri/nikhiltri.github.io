@@ -1,6 +1,6 @@
 ---
 image: /images/the-gathering.jpg
-alt: Miguel, Evan, nikhil and Kamilah sitting on a stage having a conversation.
+alt: Miguel, Evan, nikhil, and Kamilah sitting on a stage having a conversation.
 link: https://www.facebook.com/artic/videos/10154646343383150/
 host: Facebook
 title: "The Gathering: Everyone is Talented"

@@ -6,4 +6,4 @@ host: MuseumAction.org
 title: MASS Action Toolkit
 dates: October 2017
 ---
-Over the course of 2017, I collaborated with a group of about 50 amazing, radical museum workers/activists to write a toolkit about enacting the idea of museums as sites for social action. The toolkit turned into a book, and in our second annual gathering we introduced the toolkit to a group of museums committed to taking it back to their home institutions and using the tools to enact transformation of their institutions. I led the group that wrote a chapter on museum collections. The toolkit is available as a free PDF download here:
+Over the course of 2017, I collaborated with a group of about 50 amazing, radical museum workers/activists to write a toolkit about enacting the idea of museums as sites for social action. The toolkit turned into a book, and in our second annual gathering, we introduced the toolkit to a group of museums committed to taking it back to their home institutions and using the tools to enact transformation of their institutions. I led the group that wrote a chapter on museum collections. The toolkit is available as a free PDF download here:

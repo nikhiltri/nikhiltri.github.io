@@ -3,7 +3,7 @@ asset: <iframe width="100%" height="300" scrolling="no" frameborder="no" src="ht
 title: Masrayana sampler
 dates: Fall 2005
 ---
-I composed music and played sitar for a play called “The Masrayana,” a story about a farmer named Gopal Masra in Rajastan. His brother pays off the village-clerk to issue a death certificate in Gopal’s name so that he can inherit the family farm. Gopal’s brother kicks him out of his own house, and he’s left for dead. The story describes his plight, and how he fights back.
+I composed music and played the sitar for a play called “The Masrayana,” a story about a farmer named Gopal Masra in Rajasthan. His brother pays off the village-clerk to issue a death certificate in Gopal’s name so that he can inherit the family farm. Gopal’s brother kicks him out of his own house, and he’s left for dead. The story describes his plight, and how he fights back.
 
 I composed a few musical themes that I revisited throughout the show, each based on a different raag. I was awarded a Jeff Citation Award for Best Original Incidental Music for my composition and performance in this show.
 

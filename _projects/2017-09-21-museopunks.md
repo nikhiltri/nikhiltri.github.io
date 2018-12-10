@@ -5,4 +5,4 @@ host: The Incluseum
 title: "Museopunks: The Gendered Museum"
 dates: September 2017
 ---
-I was invited on to the Museopunks podcast to talk about masculinity and dismantling rape culture in museums. I've been a fan of the podcast for some time, and I was really excited for the opportunity to be on it! I had a lot to say, so I also created a supplemental list of every day actions men can take to help dismantle rape culture, hosted on The Incluseum.
+I was invited on to the Museopunks podcast to talk about masculinity and dismantling rape culture in museums. I've been a fan of the podcast for some time, and I was really excited about the opportunity to be on it! I had a lot to say, so I also created a supplemental list of everyday actions men can take to help dismantle rape culture, hosted on The Incluseum.
