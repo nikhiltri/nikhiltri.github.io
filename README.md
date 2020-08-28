@@ -18,8 +18,8 @@ This will spin up small server and host the website locally at http://localhost:
 
 To add or update content, simply update the code file, commit it and push it to GitHub. GitHub Pages will take care of compiling the static files and deploy them to nikhiltrivedi.com through GitHub Pages.
 
-To add or update projects, look in the [projects](projects) directory.
+To add or update projects, look in the [_projects](_projects) directory.
 
-To add or update blog posts, look in the [blog](blog) directory.
+To add or update blog posts, look in the [_posts](_posts) directory.
 
 To update the homepage, look at [_layouts/home.html](_layouts/home.html).
