@@ -1,5 +1,25 @@
 ![nikhil trivedi](/images/logo@2x.png)
 
 # Personal website
+> The live code for my personal website, nikhiltrivedi.com. Built in [Jekyll](https://jekyllrb.com/)
 
-The live code for my personal website, nikhiltrivedi.com
+My personal website is where I document all my projects, and share writings on my blog. Since 2017, I've used this repository as my website, and GitHub pages to publish to nikhiltrivedi.com.
+
+## Developing
+
+To run locally, run:
+
+```shell
+bundle exec jekyll serve
+```
+This will spin up small server and host the website locally at http://localhost:4000/.
+
+## Updating
+
+To add or update content, simply update the code file, commit it and push it to GitHub. GitHub Pages will take care of compiling the static files and deploy them to nikhiltrivedi.com through GitHub Pages.
+
+To add or update projects, look in the [projects](projects) directory.
+
+To add or update blog posts, look in the [blog](blog) directory.
+
+To update the homepage, look at [_layouts/home.html](_layouts/home.html).
