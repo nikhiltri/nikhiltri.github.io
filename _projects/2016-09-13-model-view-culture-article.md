@@ -1,5 +1,5 @@
 ---
-image: /images/model-view-culture-article.jpg
+image: /images/projects/model-view-culture-article.jpg
 alt: Split-pane photo. On the left side is the cover of the Fall 2016 issue of the magazine Model View Culture, and on the right side is a photo of the first page of my article in the magazine titled "Thinking About Trauma in How We Build Tech Products."
 title: Model View Culture article
 dates: Fall 2016

@@ -1,5 +1,5 @@
 ---
-image: /images/MCN2019_Intersecting Agile and the Antidotes to WSC.jpg
+image: /images/projects/MCN2019_Intersecting Agile and the Antidotes to WSC.jpg
 alt: Cover slide from slideshow presentation
 link: /MCN2019_Intersecting Agile and the Antidotes to WSC.pdf
 title: Intersecting Agile and the Antidotes to White Supremacy Culture

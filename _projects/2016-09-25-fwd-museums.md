@@ -1,5 +1,5 @@
 ---
-image: /images/fwd-museums.jpg
+image: /images/projects/fwd-museums.jpg
 alt: Photo of the first page of our article.
 link: https://drive.google.com/file/d/0B8AEXy-uC3AnbzRTcmZMaHpLWlE/view?fbclid=IwAR2dIynTYvF6w-MA2Vs0T4P4fISUxw0ay6B63axdtfhXmV5N-PBPd8QcxsE
 host: Google Drive

@@ -1,5 +1,5 @@
 ---
-image: /images/visitors-of-color.jpg
+image: /images/projects/visitors-of-color.jpg
 alt: Front view of Aisha looking straight into the camera. Text reads “I want curation that shows the diversity within each culture, things that challenge the stereotypes that we subconsciously hold because of all the oppressive messages we see, hear and feel everyday.” Aisha Chaudhri, Reproductive Justice Activist and Educator
 link: http://visitorsofcolor.tumblr.com
 host: Tumblr

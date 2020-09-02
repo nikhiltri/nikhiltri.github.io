@@ -24,7 +24,7 @@ My sense is that this is not a coincidence. Information on oppressive labor and 
 ### Marketing vs. reality
 When I'm shopping for clothes, stores are actively selling me romantic ideas of what my life could be like and how I might be perceived if I wear particular clothes.
 
-![](/images/dolce-gabbana-adv-campaign-ss-2013-men-03-1024x683.jpg)
+![](/images/posts/dolce-gabbana-adv-campaign-ss-2013-men-03-1024x683.jpg)
 
 I'm not being sold a manufacturing process, a chain of distribution, an industry of mass production, a set of wages, or inhuman treatment towards working class and poor people. Though in reality, [that's what my money is paying for](http://www.nytimes.com/2013/04/30/opinion/bangladesh-needs-strong-unions-not-outside-pressure.html). 
 

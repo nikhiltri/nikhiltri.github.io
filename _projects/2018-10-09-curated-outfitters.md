@@ -1,5 +1,5 @@
 ---
-image: /images/curated-outfitters.png
+image: /images/projects/curated-outfitters.png
 alt: Four Instagram photos from my takeover
 link: https://www.instagram.com/curatedoutfitters/
 host: Instagram

@@ -1,5 +1,5 @@
 ---
-image: /images/linked-visions.jpg
+image: /images/projects/linked-visions.jpg
 alt: A screenshot of linkedvisions.artic.edu
 title: Whistler and Roussel, Linked Visions
 dates: June 2015

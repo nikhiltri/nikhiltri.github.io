@@ -1,5 +1,5 @@
 ---
-image: /images/mens-feminist-reading-group.jpg
+image: /images/projects/mens-feminist-reading-group.jpg
 alt: A birdseye view photo of a table of food. There's a bowl of rice, a bowl of cilantro, tomatoes, black beans, halved avocados, cooked pork and chicken, salt, and empty plates and glasses.
 title: Mens Feminist Reading Group
 dates: 2013-2014

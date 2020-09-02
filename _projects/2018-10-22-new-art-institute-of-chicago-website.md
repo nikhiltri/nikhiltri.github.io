@@ -1,5 +1,5 @@
 ---
-image: /images/artic.edu.jpg
+image: /images/projects/artic.edu.jpg
 alt: Someone views the artic.edu website on laptop seated at a small table in a library
 link: https://www.artic.edu/articles/713/behind-the-scenes-of-the-website-redesign
 host: artic.edu

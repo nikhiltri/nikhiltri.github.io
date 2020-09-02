@@ -1,5 +1,5 @@
 ---
-image: /images/bitch-be-realistic.jpg
+image: /images/projects/bitch-be-realistic.jpg
 alt: Kamilah, nikhil, Brett, Anthony and Oli seated on a stage while nikhil speaks into a microphone. A large photo of Willow Smith standing in a dramatic pose is projected behind them.
 title: Bitch, Be Realistic
 dates: February 2017

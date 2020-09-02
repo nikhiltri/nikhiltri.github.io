@@ -1,5 +1,5 @@
 ---
-image: /images/no-conservation-without-representation.jpg
+image: /images/projects/no-conservation-without-representation.jpg
 alt: The logo from the event. A circle design that reads \"No Conservation Without Representation\"
 link: /2017/05/29/mini-speech-at-facilitated-conversation-about-inclusion-and-equity-in-conservation-and-preservation.html
 host: my blog

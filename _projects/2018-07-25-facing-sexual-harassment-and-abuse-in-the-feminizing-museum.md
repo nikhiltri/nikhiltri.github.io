@@ -1,5 +1,5 @@
 ---
-image: /images/jme-cover.jpg
+image: /images/projects/jme-cover.jpg
 alt: Cover of the September 2018 edition of the Journal of Museum Education. Title in is red and white, with an image of red and grey tapestry with many threads unraveling.
 link: https://www.tandfonline.com/doi/full/10.1080/10598650.2018.1488126?scroll=top&needAccess=true
 host: Journal of Museum Education

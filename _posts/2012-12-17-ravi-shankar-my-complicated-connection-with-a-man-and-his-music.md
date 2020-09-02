@@ -8,7 +8,7 @@ tags:
 - indian classical music
 - identity
 ---
-![An old black and white photo of Panditji Ravi Shankar and Ustad Vilayat Khan arm-in-arm smiling at each other](/images/ravi-shankar-vilayat-khan.jpg)
+![An old black and white photo of Panditji Ravi Shankar and Ustad Vilayat Khan arm-in-arm smiling at each other](/images/posts/ravi-shankar-vilayat-khan.jpg)
 
 I'm saddened by the passing of Panditji Ravi Skankar. He lived a long and amazing life, touching numbers of people around the world with his music. The [New York Times](http://www.nytimes.com/2012/12/13/arts/music/ravi-shankar-indian-sitarist-dies-at-92.html?pagewanted=all&_r=0) and [LA Times](http://www.latimes.com/entertainment/arts/culture/la-et-cm-ravi-shankar-appreciation-20121213,0,7500757.story) have good chronicles of his life, and they're wonderful reads. 
 

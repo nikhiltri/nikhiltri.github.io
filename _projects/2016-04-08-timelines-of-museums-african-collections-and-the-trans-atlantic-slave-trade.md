@@ -1,5 +1,5 @@
 ---
-image: /images/african-coll-tast.jpg
+image: /images/projects/african-coll-tast.jpg
 alt: A screenshot of the visualization. The top half is a bar graph showing the volume of enslaved people that were removed from the African continent by year. The bottom half shows the years in which objects were created that are from the African collections of a handful of different art museums.
 title: Timelines of Museums' African Collections and the Trans-Atlantic Slave Trade
 dates: Spring 2016 at Museums and the Web

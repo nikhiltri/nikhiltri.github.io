@@ -1,5 +1,5 @@
 ---
-image: /images/intersections.jpg
+image: /images/projects/intersections.jpg
 alt: nikhil and Nenette seated with a large circle of people in a gallery. Three large oil paintings hang on the wall behind them.
 title: "Intersections: The Gender Box"
 dates: February 2017

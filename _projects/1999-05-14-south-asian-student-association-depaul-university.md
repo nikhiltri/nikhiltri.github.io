@@ -1,5 +1,5 @@
 ---
-image: /images/sasa-web-site.gif
+image: /images/projects/sasa-web-site.gif
 alt: A screen shot of depaul.edu/~sasa
 title: South Asian Student Association, DePaul University web site
 dates: 1999-2001

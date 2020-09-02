@@ -1,5 +1,5 @@
 ---
-image: /images/cdyr-history.jpg
+image: /images/projects/cdyr-history.jpg
 alt: Photo of nikhil and Bindu facilitating the workshop
 title: "Radical South Asian history workshop at Chicago Desi Youth Rising"
 dates: August 2018

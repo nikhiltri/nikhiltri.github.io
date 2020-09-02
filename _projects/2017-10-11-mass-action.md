@@ -1,5 +1,5 @@
 ---
-image: /images/massaction.jpg
+image: /images/projects/massaction.jpg
 alt: Monica, Porchia, nikhil, Adrianne, Aletheia, Joanne, Chris and Karleen sitting on a stage speaking at MASS Action year two.
 link: https://www.museumaction.org/resources/
 host: MuseumAction.org

@@ -1,5 +1,5 @@
 ---
-image: /images/thegrassrootscollaborative.jpg
+image: /images/projects/thegrassrootscollaborative.jpg
 alt: A screenshot of grassrootscollorative.org
 title: Grassroots Collaborative website
 dates: 2009

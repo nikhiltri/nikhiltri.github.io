@@ -1,5 +1,5 @@
 ---
-image: /images/immigration-the-civil-rights-movement-and-my-existence.png
+image: /images/projects/immigration-the-civil-rights-movement-and-my-existence.png
 alt: Screenshot of the top of the blog post
 link: https://www.artic.edu/articles/853/immigration-the-civil-rights-movement-and-my-existence
 host: artic.edu

@@ -1,5 +1,5 @@
 ---
-image: /images/drinking-about-museums.jpg
+image: /images/projects/drinking-about-museums.jpg
 alt: A photo of a group of museum professionals holding up drinks in a dimly lit bar. I'm in the background holding up a mug of chamomile tea.
 title: Drinking About Museums, Chicago
 dates: 2014-Present

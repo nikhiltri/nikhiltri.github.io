@@ -1,5 +1,5 @@
 ---
-image: /images/medium-musuems-and-structural-change.jpeg
+image: /images/projects/medium-musuems-and-structural-change.jpeg
 alt: First page of a handwritten letter from nikhil to Suse
 link: https://medium.com/a-series-of-epistolary-romances/museums-and-structural-change-1bf98e2c2db7
 host: medium.com

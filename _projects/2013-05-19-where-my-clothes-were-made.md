@@ -1,5 +1,5 @@
 ---
-image: /images/flickr-map.jpg
+image: /images/projects/flickr-map.jpg
 alt: A screenshot of a world map showing pink dots for each location where one of my clothes were made.
 link: /flickrMap
 dates: Spring 2013

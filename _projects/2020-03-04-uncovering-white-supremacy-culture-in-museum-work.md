@@ -1,5 +1,5 @@
 ---
-image: /images/incluseum.png
+image: /images/projects/incluseum.png
 alt: Pencil and watercolor sketch in light green and blue of triangle shapes forming a circle
 link: https://incluseum.com/2020/03/04/white-supremacy-culture-museum/
 host: The Incluseum

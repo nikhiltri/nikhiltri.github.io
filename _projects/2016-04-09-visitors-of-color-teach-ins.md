@@ -1,5 +1,5 @@
 ---
-image: /images/voc-teach-in.jpg
+image: /images/projects/voc-teach-in.jpg
 alt: A picture of a few discussion guides asking \"How has your institution benefitted from slavery?\"
 link: http://visitorsofcolor.tumblr.com/post/143182954812/as-part-of-the-visitors-of-color-project-well-be
 host: Tumblr

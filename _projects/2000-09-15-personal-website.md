@@ -1,5 +1,5 @@
 ---
-image: /images/personal-web-site-2000.gif
+image: /images/projects/personal-web-site-2000.gif
 alt: A screenshot of nikhiltrivedi.com
 title: Personal web site
 dates: 2000-2010

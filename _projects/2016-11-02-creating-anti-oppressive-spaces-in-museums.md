@@ -1,5 +1,5 @@
 ---
-image: /images/github-anti-oppression-checklist.png
+image: /images/projects/github-anti-oppression-checklist.png
 alt: Screenshot of 'Creating Anti-Oppressive Spaces in Museums' on github.com
 link: https://github.com/the-incluseum/anti-oppressive-spaces
 host: GitHub

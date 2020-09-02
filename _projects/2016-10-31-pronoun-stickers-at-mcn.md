@@ -1,5 +1,5 @@
 ---
-image: /images/pronoun-stickers.jpg
+image: /images/projects/pronoun-stickers.jpg
 alt: A series of colorful stickers that say "My pronoun:" followed by they, she, he, or a blank on that can be filled out.
 link: http://mcn.edu/pronoun-stickers-mcn-2016/
 host: the MCN blog

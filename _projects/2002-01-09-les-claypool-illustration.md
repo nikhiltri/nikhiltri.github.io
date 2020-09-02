@@ -1,5 +1,5 @@
 ---
-image: /images/les-claypool-illustration.jpg
+image: /images/projects/les-claypool-illustration.jpg
 alt: A color pencil illustration of Les Claypool. His unique bass guitar takes up the bottom portion of the work, and his head pops out of the end of the neck. The six strings are swinging around, tuning pegs stick out of the side of his head, and his mouth is open as if he's singing. The bass stands on a stage with the rest of his band quite small below him, speakers line the back of the stage and a crowd is seen in front of the stage.
 title: Les Claypool Illustration
 dates: 2002

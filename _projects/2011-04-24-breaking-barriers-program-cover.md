@@ -1,5 +1,5 @@
 ---
-image: /images/BB2011ProgramCover.png
+image: /images/projects/BB2011ProgramCover.png
 alt: A digital illustration of a flyer for an event title "Breaking Barriers, Asian American Women Transforming Education". The sun shines in the upper left corner of the tall, skinny flyer. A tree grows out of a pile of books on the bottom left. A flock of birds fly across a blue, paint-stroked sky.
 title: Breaking Barriers program cover
 dates: Spring 2011

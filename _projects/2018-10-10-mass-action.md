@@ -1,5 +1,5 @@
 ---
-image: /images/mass-action-year-3.jpg
+image: /images/projects/mass-action-year-3.jpg
 alt: nikhil, Aletheia, Joanne, Karleen and Chris sitting on a stage speaking at MASS Action year three.
 link: https://drive.google.com/drive/folders/1hT8mDYBGet-KS5N79BHEIwHezM-fzMa5
 host: Google Drive

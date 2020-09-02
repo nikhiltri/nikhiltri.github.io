@@ -1,5 +1,5 @@
 ---
-image: /images/whats-a-data-hub_mcn-2019.jpg
+image: /images/projects/whats-a-data-hub_mcn-2019.jpg
 alt: Cover slide from slideshow presentation
 link: https://www.youtube.com/watch?v=bGXh5qkOjnQ
 host: YouTube
