@@ -1,7 +1,5 @@
 /*-----------------------------------------------------------------------------------
-
-    shortcodes.css
-
+	shortcodes
 -----------------------------------------------------------------------------------*/
 
 
@@ -22,8 +20,9 @@
 @import url("shortcodes/pricing.css");
 @import url("shortcodes/counter-skills.css");
 @import url("shortcodes/carousel.css");
-@import url("shortcodes/overlay.css");
+@import url("shortcodes/flipcard.css");
 @import url("shortcodes/headings.css");
 @import url("shortcodes/dividers.css");
-@import url("shortcodes/youtubebg.css");
+@import url("shortcodes/toast.css");
 @import url("shortcodes/misc.css");
+

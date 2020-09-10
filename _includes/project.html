@@ -1,28 +1,31 @@
-<div class="col_half topmargin nobottommargin col_last" style="float:right; clear:right;">
-  <div style="position: relative; height: 442px;" data-height-lg="535" data-height-md="442" data-height-sm="338" data-height-xs="316" data-height-xxs="201">
-    {% if project.asset %}
-      {{ project.asset }}
-    {% else %}
-      <img data-animate="fadeIn{% cycle 'Right', 'Left' %}" src="{{ project.image }}" alt="{{ project.alt}}" style="position: absolute; top: 0; left: 0;" class="fadeIn{% cycle 'Right', 'Left' %} animated">
-    {% endif %}
+<div class="container clearfix nt-repeater">
+
+  <div class="row align-items-start col-mb-50">
+    <div class="col-md-4 center">
+      {% if project.asset %}
+        {{ project.asset }}
+      {% else %}
+        <a href="{{ project.link }}"><img data-animate="fadeIn{% cycle 'Right', 'Left' %}" src="{{ project.image }}" alt="{{ project.alt}}" class="fadeIn{% cycle 'Right', 'Left' %} animated" /></a>
+      {% endif %}
+    </div>
+
+    <div class="col-md-8 text-center text-md-left">
+      <div class="heading-block border-bottom-0">
+        <h3>{{ project.title }}</h3>
+        <span>{{ project.dates }}</span>
+      </div>
+
+      {{ project.content }}
+
+      {% if project.link %}
+        <a href="{{ project.link }}" class="button button-border button-rounded button-large ml-0 topmargin-sm">Check it out{% if project.host %} on {{ project.host }}{% endif %}</a>
+      {% endif %}
+    </div>
   </div>
-</div>
-      
-<div class="col_half topmargin nobottommargin" style="float:left; clear:left;">
-
-  <div class="heading-block title-center">
-    <h3>{{ project.title }}</h3>
-    <span>{{ project.dates }}</span>
-  </div>
-
-  {{ project.content }}
-	
-  {% if project.link %}
-    <a href="{{ project.link }}" class="btn btn-danger btn-block btn-lg bgcolor border-color">Check it out{% if project.host %} on {{ project.host }}{% endif %}</a>
-  {% endif %}
-
-    <div class="divider divider-short"><i class="icon-circle"></i></div>
 
 </div>
 
-<div class="clear"></div>
+{% if forloop.last != true %}
+  <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+{% endif %}
+

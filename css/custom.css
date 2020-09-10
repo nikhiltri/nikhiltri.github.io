@@ -2,59 +2,42 @@
 	Custom CSS
 
 	Add all your Custom Styled CSS here for New Styles or
-	Overwriting Default Theme Styles for Better Hanlding Updates
+	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
-#page-title.page-title-parallax span,
-#page-title.page-title-parallax h1 {
+/** Fit homepage title text in image empty space **/
+.slider-caption.slider-caption-center {
+  text-align: initial;
+  margin: 0 auto 0 0;
+  max-width: 500px;
+}
+
+.slider-caption h2 {
+  font-size: 3rem;
+}
+
+#page-title.page-title-parallax h1,
+#page-title.page-title-parallax span {
     width: 40%;
 }
 
 @media (max-width: 767px) {
-    #page-title.page-title-parallax span {
-	font-size: 22px;
-	width: 100%;
-    }
-}
-			  
-.team .team-desc .btn { margin-top: 20px; }
-
-#instafeed { width: 100%; }
-
-/* Lay header over sidebar */
-#header {
-    z-index: 199;
+  #page-title.page-title-parallax span {
+	  font-size: 22px;
+	  width: 100%;
+  }
 }
 
-/* Reduce width of sidebar */
+/* .team .team-desc .btn { margin-top: 20px; } */
 
-@media (min-width: 992px) {
-    .side-header #header {
-	width: 160px;
-    }
-    .side-header #header-wrap {
-	width: 200px;
-    }
-    .side-header #header .container {
-	width: 160px !important;
-	padding: 60px 30px 0 30px !important;
-    }
-    .content-with-side-header {
-	margin: 0 0 0 160px !important;
-	width: auto !important;
-    }
-    .content-with-side-header .container {
-	padding-left: 30px;
-    }
+/** Remove left margin on date fields in projects **/
+.nt-repeater .heading-block > span {
+  margin-left: 0;
 }
 
-/* Shift anchor below sticky header */
-h1.anchor {
-    padding-top: 80px;
-    margin-top: -80px;
-/*    visibility: hidden; */
-}
-
-#iframe-map {
-    width: 100%;
-    height: 42em;
+/** Control colors of sticky sidebar links */
+.sticky-sidebar li a { color: #444; }
+.sticky-sidebar li a:hover { color: #7e161c; }
+.sticky-sidebar li.current a { 
+  color: #7e161c; 
+  font-weight: bold;
 }

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html dir="ltr" lang="{{ page.lang | default: site.lang | default: "en-US" }}">
 
   {% include head.html %}
 
-  <body class="stretched no-transition" data-loader-timeout="1000"> 
+  <body class="stretched no-transition"> 
 
     <!-- Document Wrapper
 	 ============================================= -->
@@ -21,18 +21,21 @@
 	 ============================================= -->
     <div id="gotoTop" class="icon-angle-up"></div>
 
-    <!-- External JavaScripts
-	 ============================================= -->
-    <script type="text/javascript" src="/js/instafeed.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.js"></script>
-    <script type="text/javascript" src="/js/plugins.js"></script>
+    <!-- JavaScripts
+    ============================================= -->
+    <script src="{{site.baseurl}}/js/jquery.js"></script>
+    <script src="{{site.baseurl}}/js/plugins.min.js"></script>
 
     <!-- Footer Scripts
-	 ============================================= -->
-    <script type="text/javascript" src="/js/functions.js"></script>
+    ============================================= -->
+    <script src="{{site.baseurl}}/js/functions.js"></script>
 
+    <!-- Custom Scripts
+	 ============================================= -->
     <script type="text/javascript">
       $( document ).ready(function() {
+
+        /** Sroll anchor links **/
         $('a[href*="#"]:not([href="#"])').click(function() {
           if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
             var target = $(this.hash);
@@ -47,8 +50,9 @@
         });
 
         {% if page.url == "/blog/" or page.url == "/projects/" %}
-        /* Highlight nav links as they scroll */
-        var aChildren = $(".side-header nav li").children(); // find the a children of the list items
+
+        /** Highlight nav links as they scroll **/
+        var aChildren = $(".sticky-sidebar li").children(); // find the a children of the list items
         var aArray = []; // create the empty aArray
         for (var i=0; i < aChildren.length; i++) {    
           var aChild = aChildren[i];
@@ -73,31 +77,15 @@
           }
 
           if(windowPos + windowHeight == docHeight) {
-            if (!$("nav li:last-child a").hasClass("current")) {
+            if (!$(".sticky-sidebar li:last-child a").hasClass("current")) {
               var navActiveCurrent = $(".current").attr("href");
               $("a[href='" + navActiveCurrent + "']").removeClass("current");
-              $("nav li:last-child a").addClass("current");
+              $(".sticky-sidebar li:last-child a").addClass("current");
             }
           }
-	});
-	{% endif %}
+        });
+        {% endif %}
       });
     </script>
-
-    {% if page.layout == "home" %}
-    <script type="text/javascript">
-    var feed = new Instafeed({
-      get: 'user',
-      userId: '23816546',
-      clientId: '52f76460ca3d45f0aa5e6247631aae41',
-      accessToken: '23816546.52f7646.765f13a392a547ba828e23362e7b685c',
-      resolution: 'low_resolution',
-      limit: 9
-    });
-    feed.run();
-    </script>
-    {% endif %}
-
   </body>
-
 </html>

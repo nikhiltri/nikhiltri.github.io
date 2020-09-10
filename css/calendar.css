@@ -66,6 +66,7 @@
 	padding: 4px;
 	overflow: hidden;
 	position: relative;
+	vertical-align: middle;
 }
 
 .fc-calendar .fc-head > div {
@@ -83,6 +84,11 @@
 	bottom: 5px;
 	right: 5px;
 	text-align: right;
+}
+
+.fc-calendar .fc-starttime,
+.fc-calendar .fc-endtime {
+	display: none;
 }
 
 .fc-calendar .fc-row > div > span.fc-weekday {
