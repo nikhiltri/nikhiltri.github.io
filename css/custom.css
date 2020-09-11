@@ -11,6 +11,12 @@
   max-width: 500px;
 }
 
+@media (max-width: 991.98px) {
+  .slider-caption.slider-caption-center {
+    max-width: 300px;
+  }
+}
+
 .slider-caption h2 {
   font-size: 3rem;
 }
@@ -40,4 +46,11 @@
 .sticky-sidebar li.current a { 
   color: #7e161c; 
   font-weight: bold;
+}
+
+/** Fix header in mobile Safari */
+@media (max-width: 991.98px) {
+	#slider .slider-inner {
+		position: absolute;
+  }
 }
