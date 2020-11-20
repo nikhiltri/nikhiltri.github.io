@@ -8,7 +8,7 @@ tags:
 ---
 At MCN 2020 I had the opportunity to present my thoughts on actions we could take to curb the exploitation of our data privacy and the impact of persuasive technology. I presented my thoughts within a framework I got from the [MASS Action](https://www.museumaction.org) Toolkit—Awareness, Acceptance, and Action. I suggested following this framework so that any action we take is grounded in the root issues of the problems we’re addressing, with the hope that our action will be sustained long into the future.
 
-![The six presenters of the MCN panel discussion on a Google Hangouts screen during a planning call](/images/posts/platforms-are-not-neutral-team.jpeg)
+![The six presenters of the MCN panel discussion on a Google Hangouts tiled screen during a planning call](/images/posts/platforms-are-not-neutral-team.jpeg)
 
 ## Awareness
 It’s important that we first and foremost understand the history of capitalism. The history of capitalism is the history of racism, classism, sexism, and all forms of systemic oppression because capitalism has always put profits over people. The exploitative patterns we’re seeing in tech are rooted in the foundations of capitalism, and can trace their roots to these same histories. For example, when we talk about surveillance we can look to the panopticon and the increasingly militarized police states many of us find ourselves living in which is can trace its roots to the survilleince of enslaved people. When we consider information being manipulated for the purpose of persuasion we can look back to treaties with Indigenous nations, an exploitative history going back hundreds of years. Captialist exploitation defines the foundations of modern society and the tech world we operate in.
