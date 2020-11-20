@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digital Platforms Are Not Neutral: Actions"
+image: /images/posts/platforms-are-not-neutral-team.jpeg
 tags:
 - mcn2020
 - museums
