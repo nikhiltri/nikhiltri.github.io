@@ -44,6 +44,6 @@ Coming to actions that are more individual, the [Data Detox Kit](https://datadet
 * Set duckduckgo as your default search engine on your desktop and mobile devices
 * Do all your browsing in private or incognito windows
 
-I’m grateful for the opportunity to present on the panel discussion with some amazingly talented and smart colleagues in the museum tech field including [Sarah Wambold](https://swambold.com), [Dana Allen-Greil](https://danamus.es), [Marty Spellerberg](https://spellerberg.org), [Matt Popke](https://twitter.com/polackio), and [MCN](https://www.mcn.edu) Execute Director Eric Longo.
+I’m grateful for the opportunity to present on the panel discussion with some amazingly talented and smart colleagues in the museum tech field including [Sarah Wambold](https://swambold.com), [Dana Allen-Greil](https://danamus.es), [Marty Spellerberg](https://spellerberg.org), [Matt Popke](https://twitter.com/polackio), and [MCN](https://www.mcn.edu) Execute Director Eric Longo. And thanks to the work of [LaTanya Autry](https://artstuffmatters.wordpress.com/) and [Mike Murawski](https://artmuseumteaching.com/) for their work on the #MuseumsAreNotNeutral campaign that inspired the name of our talk.
 
 We compiled a [list of additional resources](https://docs.google.com/document/d/1RBZC9xX90QtqKzvUWQaSkZaAPV7nHmfAjNYTF0-8IQM/edit) as well, if you're interested in digging in and learning more about these issues.
