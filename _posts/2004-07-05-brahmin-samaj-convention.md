@@ -8,7 +8,7 @@ tags:
 ---
 This weekend was loooooooong. It was sweet.
 
-Friday I left work a little early and went to the Cubs/Sox game. Saw the first win as they went on to SWEEP the Sox for the home series. Hell yea. Then later that night I was gonna meet up a friend at a bar with my cous, but there ended up being this huge Indian party there. Long ass line to get in for a $20 cover, and she was saying the bar was PACKED and it sucked. Laaaaaame, so we ended up just going to IHOP. Lol.
+Friday I left work a little early and went to the Cubs/Sox game. Saw the first win as they went on to SWEEP the Sox for the home series. Hell yea. Then later that night I was gonna meet up a friend at a bar with my cous Pratik Trivedi, but there ended up being this huge Indian party there. Long ass line to get in for a $20 cover, and she was saying the bar was PACKED and it sucked. Laaaaaame, so we ended up just going to IHOP. Lol.
 
 Saturday and Sunday was the Brahmin Samaj convention. That was pretty cool. These things are weird because the Brahmin Samaj as an organization should be (in my humble opinion) all about talking about and having discourses on Brahminism and Hinduism and religion in general. What God is, and what it means to be a religious person. So at a convention when Brahmins from all over the country come together, do they capitalize on the combined resources a big group like that brings? Do they talk at all about religious issues in our world today? Like religious violence, or issues for people of religious minorities, like hate crimes and how views towards religious minorities have changed since 9/11, both positively and negatively? Nope, primarily its a matrimonial meet-fest. In the city that held the first parliament of world religions, all we can do as a religious organization is worry about marrying off our children. That’s kind of irritating.
 
@@ -24,6 +24,6 @@ Last night I went to [Green Dolphin](http://www.jazzitup.com/) with my sis and T
 
 What I’m listening to right now:
 
-> 
+>
 > Pink Floyd, Dark Side of the Moon. I met someone this weekend and asked them what was in their CD player right now, and it was this. Hell freakin yea, this is a great album, so I had to pop it in again. Ever play this album after the third lion roar of Wizard of Oz? Neither have I, but I heard it's freakily similar. But is that really that much of a coincidence? The attention span a viewer would have on a particular scene in a movie would probably be comparable to that of a song, and artists knowing this would probably make scenes and songs about the same length of time. So is it really all that eerie that the queues on the album roughly follow queues in the movie? I don’t know, I’d have to try it myself to see what its like. And afterwards I’ll try listening to Ride the Lighting while watching the Care Bears movie. I bet that’s freakily similar too...
-> 
+>
