@@ -9,7 +9,7 @@
       {% endif %}
     </div>
 
-    <div class="col-md-8 text-center text-md-left">
+    <div class="col-md-8 text-center text-md-start">
       <div class="heading-block border-bottom-0">
         <h3>{{ project.title }}</h3>
         <span>{{ project.dates }}</span>
@@ -18,7 +18,7 @@
       {{ project.content }}
 
       {% if project.link %}
-        <a href="{{ project.link }}" class="button button-border button-rounded button-large ml-0 topmargin-sm">Check it out{% if project.host %} on {{ project.host }}{% endif %}</a>
+        <a href="{{ project.link }}" class="button button-border button-rounded button-large ms-0 mt-4">Check it out{% if project.host %} on {{ project.host }}{% endif %}</a>
       {% endif %}
     </div>
   </div>
@@ -26,6 +26,6 @@
 </div>
 
 {% if forloop.last != true %}
-  <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+  <div class="divider divider-sm divider-center"><i class="bi-circle-fill"></i></div>
 {% endif %}
 

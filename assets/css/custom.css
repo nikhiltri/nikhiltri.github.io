@@ -1,9 +1,20 @@
 /* ----------------------------------------------------------------
 	Custom CSS
 
-	Add all your Custom Styled CSS here for New Styles or
-	Overwriting Default Theme Styles for Better Handling Updates
+	Site-specific styles. Loaded after the Canvas theme
+	(assets/vendor/canvas/style.css), so anything here overrides it.
+	Never edit the Canvas files directly — put overrides here.
 -----------------------------------------------------------------*/
+
+/** Brand color (replaces the old css/colors.css) **/
+:root {
+  --cnvs-themecolor: #7e161c;
+  --cnvs-themecolor-rgb: 126, 22, 28;
+}
+
+/** Canvas has no Mastodon brand color; used in the footer **/
+.bg-mastodon { background-color: #6364ff !important; }
+
 /** Fit homepage title text in image empty space **/
 .slider-caption.slider-caption-center {
   text-align: initial;
@@ -21,30 +32,17 @@
   font-size: 3rem;
 }
 
-#page-title.page-title-parallax h1,
-#page-title.page-title-parallax span {
-    width: 40%;
-}
-
-@media (max-width: 767px) {
-  #page-title.page-title-parallax span {
-	  font-size: 22px;
-	  width: 100%;
-  }
-}
-
-/* .team .team-desc .btn { margin-top: 20px; } */
-
 /** Remove left margin on date fields in projects **/
 .nt-repeater .heading-block > span {
   margin-left: 0;
 }
 
 /** Control colors of sticky sidebar links */
+.sticky-sidebar ul { list-style: none; padding-left: 0; }
 .sticky-sidebar li a { color: #444; }
-.sticky-sidebar li a:hover { color: #7e161c; }
-.sticky-sidebar li.current a { 
-  color: #7e161c; 
+.sticky-sidebar li a:hover { color: var(--cnvs-themecolor); }
+.sticky-sidebar li.current a {
+  color: var(--cnvs-themecolor);
   font-weight: bold;
 }
 

@@ -4,7 +4,7 @@ layout: default
 
 <!-- Hero
 ============================================= -->
-<section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-60 min-vh-md-100 include-header">
+<section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
   <div class="slider-inner">
 
     <div class="vertical-middle dark">
@@ -14,10 +14,10 @@ layout: default
           <p class="d-none d-sm-block">Hello! I'm the Director of Engineering at a museum in Chicago, and you might also know me by the activism work I do in museum and tech communities.</p>
         </div>
       </div>
-      <div class="swiper-slide-bg" style="background-image: url('images/me.jpg');"></div>
+      <div class="swiper-slide-bg" style="background-image: url('/images/me.jpg');"></div>
     </div>
 
-    <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+    <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="bi-chevron-down infinite animated fadeInDown"></i></a>
 
   </div>
 </section>
@@ -41,7 +41,7 @@ layout: default
 
             <div class="col-lg-7">
 
-              <div class="position-relative" style="margin-bottom: -60px; height: 426px;" class="ohidden embed-responsive" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
+              <div class="position-relative" style="margin-bottom: -60px; height: 426px;" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/WicEkXGqv8Q" frameborder="0" allowfullscreen data-animate="fadeInUp" data-delay="100" class="fadeInUp animated"></iframe>
               </div>
             </div>
@@ -59,12 +59,12 @@ layout: default
 								<h1>Visitors of Color</h1>
 							</div>
               <p class="lead">In addition to the above video, you may know me by my work as co-creator of the <a href="http://visitorsofcolor.tumblr.com">Visitors of Color</a> blog, where we document the experiences of people from marginalized communities who visit&mdash;and don't visit&mdash;museums.</p>
-              <a href="http://visitorsofcolor.tumblr.com" class="button button-border button-rounded button-large ml-0 topmargin-sm">Check it out on Tumblr</a>
+              <a href="http://visitorsofcolor.tumblr.com" class="button button-border button-rounded button-large ms-0 mt-4">Check it out on Tumblr</a>
             </div>
 
             <div class="col-lg-7">
 
-              <div class="position-relative" style="margin-bottom: -60px; height: 426px;" class="ohidden embed-responsive" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
+              <div class="position-relative" style="margin-bottom: -60px; height: 426px;" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
                 <a href="http://visitorsofcolor.tumblr.com"><img src="/images/projects/visitors-of-color.jpg" alt="3/4 view of Gabriela smiling and wearing glasses while holding their dog. Text reads “I think I was around 9 or 10 years old when I started wondering how museum objects were obtained” Gabriela Zapata-Alma, Social Justice Worker, Harm Reductionist, Prison Abolitionist, Trauma Healer" /></a>
               </div>
             </div>
@@ -82,12 +82,12 @@ layout: default
 								<h1>Oppression: A Museum Primer</h1>
 							</div>
               <p class="lead">You might also know me by an article I wrote titled <a href="https://incluseum.com/2015/02/04/oppression-a-museum-primer/">Oppression: a museum primer</a> where I define and discuss how to recognize and dismantle oppression. Over the years, it has become a fundamental article in museum activist spaces.</p>
-              <a href="https://incluseum.com/2015/02/04/oppression-a-museum-primer" class="button button-border button-rounded button-large ml-0 topmargin-sm">Check it out on The Incluseum</a>
+              <a href="https://incluseum.com/2015/02/04/oppression-a-museum-primer" class="button button-border button-rounded button-large ms-0 mt-4">Check it out on The Incluseum</a>
             </div>
 
             <div class="col-lg-7">
 
-              <div class="position-relative" style="margin-bottom: -60px; height: 426px;" class="ohidden embed-responsive" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
+              <div class="position-relative" style="margin-bottom: -60px; height: 426px;" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
                 <a href="https://incluseum.com/2015/02/04/oppression-a-museum-primer/"><img src="/images/projects/incluseum.png" alt="Pencil and watercolor sketch in light green and blue of triangle shapes forming a circle" /></a>
               </div>
             </div>
@@ -97,7 +97,7 @@ layout: default
       </div>
 
       <!-- Projects -->
-      <div class="section topmargin mb-5 border-bottom-0">
+      <div class="section mt-5 mb-5 border-bottom-0">
         <div class="container clearfix">
           <div class="heading-block center m-0">
             <h2>Recent Projects</h2>
@@ -110,9 +110,9 @@ layout: default
         {% include project.html %}
       {% endfor %}
 
-      <a href="{{ "/projects" | relative_url}}" class="mt-5 button button-full button-dark center text-right">
+      <a href="{{ "/projects" | relative_url}}" class="mt-5 button button-full button-dark center text-end">
         <div class="container clearfix">
-          See more <strong>projects</strong> <i class="icon-caret-right" style="top:4px;"></i>
+          See more <strong>projects</strong> <i class="bi-caret-right-fill"></i>
         </div>
       </a>
 
@@ -120,7 +120,7 @@ layout: default
       <div class="section mt-0">
         <div class="container clearfix">
 
-          <div class="heading-block topmargin-sm center">
+          <div class="heading-block mt-4 center">
             <h2>Awards and Honors</h2>
           </div>
 
@@ -128,7 +128,7 @@ layout: default
 
             {% assign awards = site.awards | sort: 'date' | reverse %}
             {% for award in awards limit:3 %}
-            <div class="col-lg-4 col-md-6 bottommargin">
+            <div class="col-lg-4 col-md-6 mb-5">
 
               <div class="team">
                 <div class="team-image">
@@ -137,7 +137,7 @@ layout: default
                 <div class="team-desc team-desc-bg">
                   <div class="team-title"><h4>{{ award.title }}</h4><span>{{ award.dates }}</span></div>
                   {% if award.link %}
-                    <a href="{{ award.link }}" class="button button-border button-rounded button-large ml-0 topmargin-sm">Read more</a>
+                    <a href="{{ award.link }}" class="button button-border button-rounded button-large ms-0 mt-4">Read more</a>
                   {% endif %}
                 </div>
               </div>
@@ -151,14 +151,14 @@ layout: default
 
       <!-- Instagram -->
       <div class="container clearfix">
-        <div class="heading-block topmargin-lg center">
+        <div class="heading-block mt-6 center">
           <h2>Instagram</h2>
         </div>
       </div>
-      <div class="instagram-photos masonry-thumbs grid-4" data-user="nikhiltri" data-count="12"></div>
+      <div id="instagram-photos" class="instagram-photos masonry-thumbs grid-container row row-cols-4 customjs" data-user="nikhiltri" data-count="12"></div>
 
       <!-- Blog articles -->
-      <div class="section topmargin mb-5 border-bottom-0">
+      <div class="section mt-5 mb-5 border-bottom-0">
         <div class="container clearfix">
           <div class="heading-block center m-0">
             <h2>Recent Blog Articles</h2>
@@ -196,8 +196,8 @@ layout: default
                   ============================================= -->
                   <div class="entry-meta">
                     <ul>
-                      <li><i class="icon-calendar3"></i> {{ post.date | date: "%B %e, %Y" }}</li>
-                      <li><i class="icon-folder-open"></i>
+                      <li><i class="uil uil-schedule"></i> {{ post.date | date: "%B %e, %Y" }}</li>
+                      <li><i class="uil uil-folder-open"></i>
                         {% for tag in post.tags %}
                           <a href="#">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
                         {% endfor %}
@@ -211,7 +211,7 @@ layout: default
 
                     {{ post.excerpt | strip_html }}
 
-                    <p><a href="{{ post.url | relative_url }}" class="button button-border button-rounded button-large ml-0 topmargin-sm">Read more</a></p>
+                    <p><a href="{{ post.url | relative_url }}" class="button button-border button-rounded button-large ms-0 mt-4">Read more</a></p>
 
                   </div>
 
@@ -223,9 +223,9 @@ layout: default
         {% endfor %}
       </div>
 
-      <a href="{{ "/blog" | relative_url}}" class="mt-5 button button-full button-dark center text-right">
+      <a href="{{ "/blog" | relative_url}}" class="mt-5 button button-full button-dark center text-end">
         <div class="container clearfix">
-          See more <strong>blog articles</strong> <i class="icon-caret-right" style="top:4px;"></i>
+          See more <strong>blog articles</strong> <i class="bi-caret-right-fill"></i>
         </div>
       </a>
 
@@ -241,19 +241,19 @@ layout: default
                   <div class="css3-spinner-scaler"></div>
                 </div>
               </div>
-              <div class="col-12 form-group">
+              <div class="col-12 mb-3">
                 <label>Name:</label>
                 <input type="text" name="name" id="template-contactform-name" class="form-control required valid" value="">
               </div>
-              <div class="col-12 form-group">
+              <div class="col-12 mb-3">
                 <label>Email:</label>
                 <input type="email" name="email" id="template-contactform-email" class="form-control required" value="">
               </div>
-              <div class="col-12 form-group">
+              <div class="col-12 mb-3">
                 <label>Subject:</label>
                 <input type="email" name="_subject" id="template-contactform-subject" class="form-control required" value="">
               </div>
-              <div class="col-12 form-group">
+              <div class="col-12 mb-3">
                 <label>Message:</label>
                 <textarea name="message" id="template-contactform-message" class="form-control" cols="30" rows="6"></textarea>
               </div>

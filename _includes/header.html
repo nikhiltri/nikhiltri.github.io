@@ -1,6 +1,6 @@
 <!-- Header
 ============================================= -->
-<header id="header" class="{% if page.layout == 'home' %}transparent-header dark{% endif %}" data-sticky-class="not-dark">
+<header id="header" class="{% if page.layout == 'home' %}transparent-header dark{% endif %}" data-sticky-class="not-dark" data-responsive-class="not-dark">
   <div id="header-wrap">
     <div class="container">
       <div class="header-row">
@@ -8,28 +8,32 @@
         <!-- Logo
         ============================================= -->
         <div id="logo">
-          <a href="{{ "/" | relative_url}}" class="standard-logo" data-dark-logo="/images/logo-dark.png"><img src="/images/logo.png" alt="nikhil trivedi"></a>
-          <a href="{{ "/" | relative_url}}" class="retina-logo" data-dark-logo="/images/logo-dark@2x.png"><img src="/images/logo@2x.png" alt="nikhil trivedi"></a>
+          <a href="{{ "/" | relative_url}}">
+            <img class="logo-default" srcset="/images/logo.png, /images/logo@2x.png 2x" src="/images/logo@2x.png" alt="nikhil trivedi">
+            <img class="logo-dark" srcset="/images/logo-dark.png, /images/logo-dark@2x.png 2x" src="/images/logo-dark@2x.png" alt="nikhil trivedi">
+          </a>
         </div><!-- #logo end -->
 
         <div class="header-misc">
         </div>
 
-        <div id="primary-menu-trigger">
-          <svg class="svg-trigger" viewBox="0 0 100 100"><path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path><path d="m 30,50 h 40"></path><path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path></svg>
+        <div class="primary-menu-trigger">
+          <button class="cnvs-hamburger" type="button" title="Open Mobile Menu">
+            <span class="cnvs-hamburger-box"><span class="cnvs-hamburger-inner"></span></span>
+          </button>
         </div>
-
 
         <!-- Primary Navigation
         ============================================= -->
-        <nav id="primary-menu">
+        <nav class="primary-menu">
         	<ul class="menu-container">
             <li class="menu-item{% if page.layout == "home" %} current{% endif %}"><a class="menu-link" href="{{ "/" | relative_url}}"><div>Home</div></a></li>
             <li class="menu-item{% if page.url == "/projects/" %} current{% endif %}"><a class="menu-link" href="{{ "/projects" | relative_url}}"><div>Projects</div></a></li>
             <li class="menu-item{% if page.url == "/blog/" or page.layout == "post"%} current{% endif %}"><a class="menu-link" href="{{ "/blog" | relative_url}}"><div>Blog</div></a></li>
         	</ul>
-        </nav><!-- #primary-menu end -->
+        </nav><!-- .primary-menu end -->
       </div>
     </div>
   </div>
+  <div class="header-wrap-clone"></div>
 </header><!-- #header end -->
