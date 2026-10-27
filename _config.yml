@@ -26,4 +26,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-exclude: ['Gemfile', 'Gemfile.lock', '*~']
+exclude: ['Gemfile', 'Gemfile.lock', '*~', 'vendor', '.bundle', 'README.md']
