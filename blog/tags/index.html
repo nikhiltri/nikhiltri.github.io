@@ -1,0 +1,49 @@
+---
+layout: default
+title: Tags
+---
+<div>
+	<section class="page-title bg-transparent">
+	  <div class="container">
+	    <div class="page-title-row">
+	      <div class="page-title-content">
+	        <h1>Tags</h1>
+	        <span>Blog posts by topic.</span>
+	      </div>
+	    </div>
+	  </div>
+	</section>
+</div>
+
+{% capture tag_names %}{% for tag in site.tags %}{{ tag[0] }}|{% endfor %}{% endcapture %}
+{% assign tag_names = tag_names | split: '|' | sort_natural %}
+<section id="content">
+  <div class="content-wrap">
+    <div class="container clearfix">
+      <div class="row gutter-40 col-mb-80">
+        <div class="sidebar sticky-sidebar-wrap col-lg-3 d-none d-lg-block">
+          <div class="sidebar-widgets-wrap">
+            <div class="sticky-sidebar">
+              <h2>Tags</h2>
+              <ul>
+                {% for tag in tag_names %}
+                  <li><a href="#{{ tag | slugify }}">{{ tag }}</a> ({{ site.tags[tag] | size }})</li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="postcontent col-lg-9 order-lg-last">
+          {% for tag in tag_names %}
+            <h1 class="anchor" id="{{ tag | slugify }}">{{ tag }}</h1>
+            <ul>
+              {% for post in site.tags[tag] %}
+                <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> &ndash; <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time></li>
+              {% endfor %}
+            </ul>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
