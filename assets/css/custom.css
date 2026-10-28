@@ -46,6 +46,23 @@
   font-weight: bold;
 }
 
+/** Underline text links on hover for accessibility */
+a:hover:not(.button):not(.btn):not(.social-icon):not(.one-page-arrow) {
+  text-decoration: underline !important; /* Canvas removes link underlines with !important */
+  text-underline-offset: 4px;
+}
+
+/** Keep hovered and active menu links white on the dark header, underlined */
+#header.dark:not(.not-dark) .menu-item.current > .menu-link {
+  color: #fff;
+}
+
+#header.dark:not(.not-dark) .menu-item:hover > .menu-link {
+  color: #fff;
+  text-decoration: underline !important;
+  text-underline-offset: 4px;
+}
+
 /** Fix header in mobile Safari */
 @media (max-width: 991.98px) {
 	#slider .slider-inner {
