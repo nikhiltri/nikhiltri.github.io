@@ -3,7 +3,7 @@ redirect_from: /content/unnecessary-stress
 layout: post
 title: Unnecessary stress
 tags:
-- what i'm reading to right now
+- what i'm reading right now
 - friends
 ---
 Damn. So last Wednesday through this past Monday I was in mexico. HELLO. I went down there for a friend’s wedding, and it was AWESOME. It was hot as hell down there, but beautiful. I didn’t have a watch on all weekend, didn’t have a clock in my room. I just got up every morning when I felt like waking up. Chilled on the beach as long as I felt like chillin on the beach, with a tequila induced concoction in my hand, swam in the ocean, and just chilled all weekend. It was totally slowmotion. Then I come back to work and everyone’s back in the gotta-get-stuff-done mindset, and all I’m wondering is ‘where’s my freakin drink at?’ Worthless.
