@@ -2,9 +2,15 @@
 	Custom JS
 
 	Site-specific scripts. Loaded after the Canvas theme JS
-	(assets/vendor/canvas/js/), so jQuery is available as $.
+	(assets/vendor/canvas/js/). Canvas calls jQuery.noConflict(),
+	which releases the global $, so use jQuery and alias it locally.
 -----------------------------------------------------------------*/
-$(function() {
+jQuery(function($) {
+
+  /** Space to leave above an anchor for the sticky header, set in custom.css **/
+  function anchorOffset(target) {
+    return parseInt(target.css('scroll-margin-top'), 10) || 0;
+  }
 
   /** Sroll anchor links **/
   $('a[href*="#"]:not([href="#"])').on('click', function() {
@@ -13,7 +19,7 @@ $(function() {
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       if (target.length) {
         $('html, body').animate({
-          scrollTop: target.offset().top
+          scrollTop: target.offset().top - anchorOffset(target)
         }, 1000);
         return false;
       }
@@ -37,8 +43,8 @@ $(function() {
 
       for (var i=0; i < aArray.length; i++) {
         var theID = aArray[i];
-        var divPos = $(theID).offset().top; // get the offset of the div from the top of page
-        var nextDivPos = (i == aArray.length-1 ? docHeight : $(aArray[i+1]).offset().top);
+        var divPos = $(theID).offset().top - anchorOffset($(theID)); // get the offset of the div from the top of page
+        var nextDivPos = (i == aArray.length-1 ? docHeight : $(aArray[i+1]).offset().top - anchorOffset($(aArray[i+1])));
         if (windowPos >= divPos && windowPos < (nextDivPos )) {
           $("a[href='" + theID + "']").parent().addClass("current");
         } else {
