@@ -3,7 +3,7 @@ image: /images/projects/MCN_AI_Collections.jpg
 alt: Title slide of the presentation. Reads 'Art Institute of Chicago, nikhil trivedi, LinkedIn nikhil-trivedi'
 link: https://www.youtube.com/watch?v=dkqf2azeSKI
 host: YouTube
-title: From Metadata to Meaning AI and the Future of Online Collections
+title: "From Metadata to Meaning: AI and the Future of Online Collections"
 dates: October 2026
 tags:
 - mcn2026
